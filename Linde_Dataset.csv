@@ -1,0 +1,1501 @@
+Plant,Region,State,Product,Industry,Month,Year,Production_Volume_Tons,Sales_Volume_Tons,Revenue_INR,Production_Cost_INR,Profit_INR,Customer_Count,Delivery_Time_Days,Customer_Satisfaction,Plant_Efficiency_Percent
+Pune,West,Maharashtra,Carbon Dioxide,Steel,Oct,2023,4917,4796,17807548,10053363,7754185,197,8,9.01,80.1
+Bengaluru,South,Karnataka,Carbon Dioxide,Chemical,Apr,2025,1076,912,2242608,1293220,949388,452,6,7.69,93.99
+Vadodara,West,Gujarat,Oxygen,Pharmaceutical,Oct,2024,2206,1791,6653565,4266844,2386721,390,5,8.14,84.1
+Vadodara,West,Gujarat,Hydrogen,Steel,Sep,2022,1129,989,3474357,1917690,1556667,226,1,8.08,83.63
+Hyderabad,South,Telangana,Oxygen,Steel,Jul,2024,1756,1733,6183344,3736301,2447043,384,10,8.38,86.96
+Hyderabad,South,Telangana,Oxygen,Healthcare,Oct,2024,1984,1847,3368928,2816775,552153,323,8,9.43,77.85
+Bengaluru,South,Karnataka,Carbon Dioxide,Food & Beverage,Mar,2022,1649,1534,4022148,3102946,919202,126,5,7.98,76.62
+Chennai,South,Tamil Nadu,Argon,Healthcare,May,2023,4293,3481,10237621,7716292,2521329,178,8,7.59,77.69
+Chennai,South,Tamil Nadu,Helium,Food & Beverage,Oct,2025,2501,2046,5157966,2855622,2302344,385,10,7.13,83.08
+Hyderabad,South,Telangana,Argon,Chemical,Jan,2023,4360,4035,16390170,11931003,4459167,197,6,8.97,96.46
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Feb,2023,945,889,3479546,1982949,1496597,225,2,8.07,85.74
+Pune,West,Maharashtra,Hydrogen,Electronics,Sep,2024,3484,3126,12666552,7760508,4906044,203,5,9.13,80.78
+Vadodara,West,Gujarat,Nitrogen,Healthcare,Oct,2024,2167,1920,5790720,4490158,1300562,428,8,8.27,76.24
+Pune,West,Maharashtra,Carbon Dioxide,Healthcare,Jan,2025,775,733,2715765,2287842,427923,281,5,9.23,97.91
+Bengaluru,South,Karnataka,Oxygen,Pharmaceutical,Feb,2025,1004,809,2337201,1709282,627919,223,9,9.12,78.52
+Vadodara,West,Gujarat,Helium,Electronics,Feb,2023,1390,1182,3281232,2156100,1125132,425,4,8.89,79.13
+Pune,West,Maharashtra,Helium,Pharmaceutical,Sep,2023,4176,3449,8881175,7272407,1608768,103,10,8.53,75.3
+Jamshedpur,East,Jharkhand,Oxygen,Food & Beverage,Oct,2022,4440,4317,9708933,5661722,4047211,190,7,9.19,91.8
+Hazira,West,Gujarat,Argon,Chemical,Apr,2023,2861,2660,5460980,4619235,841745,420,7,8.9,84.1
+Chennai,South,Tamil Nadu,Hydrogen,Steel,Apr,2025,765,646,2192524,1796435,396089,127,10,7.48,85.54
+Pune,West,Maharashtra,Oxygen,Steel,May,2024,2742,2588,6679628,4333494,2346134,67,7,7.37,89.22
+Chennai,South,Tamil Nadu,Oxygen,Food & Beverage,Nov,2024,4252,3900,11232000,9041229,2190771,96,3,8.92,83.91
+Dahej,West,Gujarat,Hydrogen,Steel,Aug,2025,3648,2948,5990336,3711220,2279116,477,2,9.66,79.47
+Bengaluru,South,Karnataka,Argon,Food & Beverage,Mar,2023,2708,2356,6309368,4765463,1543905,314,8,7.86,80.55
+Dahej,West,Gujarat,Hydrogen,Chemical,Aug,2024,941,847,1561021,1210809,350212,369,5,7.4,97.65
+Pune,West,Maharashtra,Carbon Dioxide,Food & Beverage,Feb,2022,1617,1530,3154860,2102961,1051899,396,8,7.79,83.3
+Vadodara,West,Gujarat,Helium,Electronics,Sep,2025,1848,1745,7105640,5579801,1525839,428,7,9.21,96.88
+Dahej,West,Gujarat,Nitrogen,Chemical,Dec,2023,3570,3358,14080094,8179974,5900120,320,3,8.63,81.89
+Pune,West,Maharashtra,Hydrogen,Healthcare,Oct,2023,1215,1016,2041144,1465194,575950,296,8,9.81,79.41
+Jamshedpur,East,Jharkhand,Nitrogen,Chemical,Feb,2024,1798,1608,6062160,4775790,1286370,141,1,7.02,82.73
+Jamshedpur,East,Jharkhand,Hydrogen,Steel,Nov,2023,2686,2266,5556232,4713303,842929,214,3,9.24,88.94
+Chennai,South,Tamil Nadu,Argon,Electronics,Jul,2023,3650,3141,13028868,8344951,4683917,388,3,9.07,75.27
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Oct,2023,4823,4257,10808523,6758070,4050453,114,2,7.23,96.61
+Vadodara,West,Gujarat,Helium,Food & Beverage,Jan,2024,595,510,1185750,830518,355232,364,2,8.99,79.92
+Hyderabad,South,Telangana,Helium,Electronics,Apr,2025,503,418,843524,561609,281915,408,3,7.67,83.7
+Dahej,West,Gujarat,Hydrogen,Chemical,Feb,2025,4562,4052,11207832,7204620,4003212,392,8,8.03,96.99
+Chennai,South,Tamil Nadu,Carbon Dioxide,Chemical,Feb,2022,4495,3629,7606384,5018349,2588035,91,8,8.1,80.35
+Pune,West,Maharashtra,Nitrogen,Electronics,Sep,2024,1927,1850,4863650,3995322,868328,187,10,7.3,92.05
+Chennai,South,Tamil Nadu,Carbon Dioxide,Chemical,Jun,2024,728,711,2487078,1867392,619686,432,3,8.21,87.21
+Pune,West,Maharashtra,Nitrogen,Steel,Jun,2023,4058,4015,7612440,4891486,2720954,88,5,7.24,87.93
+Jamshedpur,East,Jharkhand,Oxygen,Electronics,Jan,2024,3339,2682,7254810,4515116,2739694,373,10,8.16,86.04
+Hazira,West,Gujarat,Argon,Pharmaceutical,Jul,2022,3783,3618,12181806,8115431,4066375,344,2,7.75,88.13
+Hazira,West,Gujarat,Nitrogen,Healthcare,Feb,2023,3930,3292,6198836,3828405,2370431,319,10,7.82,92.98
+Bengaluru,South,Karnataka,Helium,Steel,Feb,2023,1120,1085,3213770,2091453,1122317,401,10,9.15,95.54
+Dahej,West,Gujarat,Helium,Steel,Jul,2022,2002,1734,3516552,2361812,1154740,329,4,7.38,86.61
+Vadodara,West,Gujarat,Carbon Dioxide,Electronics,Jun,2022,1735,1527,5126139,4117080,1009059,441,2,8.49,84.82
+Bengaluru,South,Karnataka,Carbon Dioxide,Food & Beverage,Dec,2022,1793,1664,4727424,3346243,1381181,143,2,8.94,79.39
+Pune,West,Maharashtra,Nitrogen,Chemical,Apr,2025,2336,1893,3454725,2034384,1420341,92,2,7.14,80.11
+Pune,West,Maharashtra,Helium,Chemical,Feb,2023,4549,4372,15879104,9272463,6606641,212,5,7.52,89.55
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Dec,2022,1979,1935,4071240,3215064,856176,87,3,9.81,92.19
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Sep,2022,2834,2608,5346400,4375819,970581,304,7,8.86,93.38
+Hazira,West,Gujarat,Hydrogen,Electronics,Oct,2023,4504,3884,9442004,7226713,2215291,214,10,7.43,90.03
+Vadodara,West,Gujarat,Nitrogen,Steel,Jan,2023,2557,2367,9565047,7072555,2492492,278,8,7.95,96.39
+Hyderabad,South,Telangana,Argon,Food & Beverage,Apr,2025,1418,1353,3988644,2618148,1370496,224,4,8.73,83.13
+Dahej,West,Gujarat,Carbon Dioxide,Electronics,Dec,2025,4798,4002,11001498,6391572,4609926,141,6,7.73,93.41
+Dahej,West,Gujarat,Hydrogen,Electronics,Dec,2022,662,648,2138400,1769722,368678,178,3,8.34,92.56
+Jamshedpur,East,Jharkhand,Argon,Electronics,Feb,2022,4901,4288,17619392,13304475,4314917,465,5,9.07,88.75
+Dahej,West,Gujarat,Oxygen,Chemical,May,2024,1987,1923,4084452,2548883,1535569,452,8,7.2,86.77
+Bengaluru,South,Karnataka,Hydrogen,Pharmaceutical,Sep,2024,3873,3207,9390096,6700777,2689319,402,3,8.19,86.7
+Hazira,West,Gujarat,Carbon Dioxide,Food & Beverage,Feb,2022,2504,2424,8001624,6479671,1521953,190,7,8.39,97.65
+Chennai,South,Tamil Nadu,Helium,Electronics,Feb,2024,4504,4217,13127521,7741104,5386417,127,10,9.32,88.48
+Vadodara,West,Gujarat,Oxygen,Electronics,Jan,2025,4395,4332,13234260,10795275,2438985,81,4,8.09,89.82
+Pune,West,Maharashtra,Argon,Pharmaceutical,Sep,2025,4229,3588,10394436,6717210,3677226,471,1,8.5,87.78
+Vadodara,West,Gujarat,Carbon Dioxide,Pharmaceutical,Jul,2025,1757,1546,5106438,3063403,2043035,213,8,8.47,93.08
+Vadodara,West,Gujarat,Oxygen,Steel,Aug,2023,1147,1119,2549082,1406572,1142510,216,4,7.17,92.82
+Pune,West,Maharashtra,Argon,Electronics,May,2025,975,824,2410200,2024048,386152,87,6,7.1,88.73
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,Dec,2023,4544,3761,7811597,6260032,1551565,369,9,7.13,79.95
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Electronics,Apr,2024,1445,1348,5404132,4548016,856116,264,4,7.51,84.85
+Bengaluru,South,Karnataka,Argon,Electronics,Mar,2024,1730,1541,5099169,3291945,1807224,226,5,8.83,87.39
+Pune,West,Maharashtra,Helium,Healthcare,Aug,2022,4857,4332,15196656,8599549,6597107,54,6,9.38,93.0
+Bengaluru,South,Karnataka,Oxygen,Chemical,Apr,2022,3243,2842,7716030,6516464,1199566,362,6,7.58,98.38
+Bengaluru,South,Karnataka,Carbon Dioxide,Chemical,Aug,2023,2321,2083,4334723,3556634,778089,386,10,7.46,78.1
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,Mar,2024,870,778,2443698,1609321,834377,376,10,9.58,80.27
+Jamshedpur,East,Jharkhand,Oxygen,Chemical,Jun,2025,3887,3428,7726712,6429956,1296756,459,9,8.54,88.57
+Vadodara,West,Gujarat,Hydrogen,Pharmaceutical,Dec,2022,4192,3515,12878960,10624425,2254535,98,10,7.5,91.74
+Chennai,South,Tamil Nadu,Hydrogen,Chemical,Oct,2022,837,699,2187870,1272132,915738,404,1,7.09,98.59
+Jamshedpur,East,Jharkhand,Oxygen,Steel,Feb,2022,3828,3659,12524757,10386292,2138465,228,4,8.2,93.09
+Hazira,West,Gujarat,Nitrogen,Healthcare,Apr,2022,3241,2931,9399717,7251540,2148177,454,9,9.04,87.3
+Jamshedpur,East,Jharkhand,Helium,Steel,May,2024,4021,3711,14899665,11025229,3874436,231,2,9.25,80.53
+Hazira,West,Gujarat,Nitrogen,Steel,Apr,2022,3811,3329,10809263,6791983,4017280,330,8,7.04,84.24
+Hazira,West,Gujarat,Oxygen,Food & Beverage,Jun,2024,2605,2194,7444242,5560701,1883541,280,5,9.66,84.54
+Hyderabad,South,Telangana,Oxygen,Food & Beverage,Mar,2023,3320,3051,11526678,6552889,4973789,51,6,7.85,87.91
+Pune,West,Maharashtra,Oxygen,Chemical,Jun,2022,3359,3206,8284304,5500614,2783690,229,9,8.23,94.62
+Chennai,South,Tamil Nadu,Hydrogen,Pharmaceutical,Nov,2023,3129,2514,7655130,5802161,1852969,111,6,8.13,84.45
+Hyderabad,South,Telangana,Oxygen,Electronics,Feb,2022,1717,1524,5742432,3349789,2392643,75,6,8.01,83.89
+Dahej,West,Gujarat,Hydrogen,Electronics,Apr,2025,2010,1667,3780756,2844939,935817,154,2,9.0,81.14
+Pune,West,Maharashtra,Argon,Electronics,Dec,2024,1495,1443,4049058,3237947,811111,467,7,9.6,92.11
+Hazira,West,Gujarat,Oxygen,Food & Beverage,Mar,2025,935,772,3158252,2056188,1102064,223,9,9.72,81.66
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Apr,2025,4684,4201,13317170,7903825,5413345,465,5,8.44,93.72
+Vadodara,West,Gujarat,Hydrogen,Pharmaceutical,Apr,2024,4754,4116,13405812,10396694,3009118,389,4,9.01,84.62
+Dahej,West,Gujarat,Hydrogen,Healthcare,Jun,2022,4524,4365,11012895,7127860,3885035,89,7,7.48,88.48
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Apr,2025,3811,3546,7666452,5938444,1728008,170,2,7.57,92.42
+Bengaluru,South,Karnataka,Carbon Dioxide,Food & Beverage,Dec,2024,1039,897,2939469,2009012,930457,93,7,8.55,86.73
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,Jan,2025,1873,1815,4624620,3547334,1077286,422,3,7.57,89.47
+Pune,West,Maharashtra,Nitrogen,Electronics,Jul,2024,4254,3881,11390735,8533172,2857563,57,8,9.22,93.35
+Hazira,West,Gujarat,Carbon Dioxide,Steel,Mar,2025,3400,2763,9159345,5921115,3238230,331,10,9.67,83.07
+Bengaluru,South,Karnataka,Oxygen,Food & Beverage,Oct,2024,3378,3050,6954000,5284009,1669991,123,4,7.76,92.65
+Hazira,West,Gujarat,Hydrogen,Steel,May,2022,3215,2594,9499228,6295780,3203448,97,7,9.72,93.62
+Chennai,South,Tamil Nadu,Carbon Dioxide,Electronics,Jul,2022,1369,1292,5219680,3113842,2105838,441,7,7.07,90.74
+Bengaluru,South,Karnataka,Nitrogen,Food & Beverage,May,2022,1563,1322,4998482,4030696,967786,342,5,9.17,79.76
+Vadodara,West,Gujarat,Oxygen,Electronics,Jun,2023,1260,1140,4537200,3474170,1063030,188,2,8.59,80.56
+Chennai,South,Tamil Nadu,Nitrogen,Pharmaceutical,Jan,2025,2873,2633,5342357,4195492,1146865,367,8,9.02,84.32
+Dahej,West,Gujarat,Helium,Chemical,Aug,2024,3581,3323,9227971,5352736,3875235,164,5,7.71,83.38
+Vadodara,West,Gujarat,Hydrogen,Electronics,Mar,2025,4388,3836,12325068,10306915,2018153,446,2,9.88,98.22
+Hazira,West,Gujarat,Hydrogen,Chemical,Apr,2023,4225,3874,10684492,8820939,1863553,96,1,8.11,82.86
+Vadodara,West,Gujarat,Nitrogen,Chemical,Dec,2023,2843,2494,6935814,5238834,1696980,357,2,9.82,92.07
+Hyderabad,South,Telangana,Argon,Steel,May,2022,3147,2622,9245172,6557447,2687725,204,4,8.5,83.71
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Chemical,Nov,2022,3457,3144,9039000,6546770,2492230,257,2,9.45,97.22
+Pune,West,Maharashtra,Carbon Dioxide,Electronics,Oct,2024,2012,1960,3812200,3086316,725884,171,2,7.23,94.5
+Vadodara,West,Gujarat,Helium,Chemical,Jun,2022,1484,1254,4219710,2559119,1660591,308,10,9.73,90.47
+Dahej,West,Gujarat,Hydrogen,Healthcare,Jul,2023,3254,3071,12069030,9361534,2707496,287,8,7.55,95.0
+Chennai,South,Tamil Nadu,Hydrogen,Chemical,Mar,2025,4063,3779,12020999,7661169,4359830,299,3,8.63,77.39
+Pune,West,Maharashtra,Carbon Dioxide,Healthcare,Jul,2023,2654,2271,4943967,3195119,1748848,100,3,9.0,97.25
+Pune,West,Maharashtra,Nitrogen,Food & Beverage,Aug,2023,3003,2621,5294420,3153121,2141299,273,3,7.79,86.82
+Hyderabad,South,Telangana,Hydrogen,Food & Beverage,Jan,2024,1332,1168,4072816,2959214,1113602,498,7,8.3,80.13
+Jamshedpur,East,Jharkhand,Oxygen,Healthcare,Dec,2024,1939,1809,3742821,2760296,982525,267,9,8.17,90.79
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Jan,2025,2658,2193,7298304,5637314,1660990,444,6,7.7,82.12
+Bengaluru,South,Karnataka,Oxygen,Steel,Sep,2025,1667,1629,5628195,3583696,2044499,379,9,9.63,92.62
+Dahej,West,Gujarat,Argon,Healthcare,Apr,2024,3528,3481,8476235,6509535,1966700,91,8,7.09,90.02
+Chennai,South,Tamil Nadu,Argon,Pharmaceutical,Apr,2023,3416,3249,8369424,5330900,3038524,274,4,8.27,80.94
+Hyderabad,South,Telangana,Hydrogen,Food & Beverage,Mar,2023,1336,1157,4127019,2447298,1679721,446,7,7.23,94.72
+Pune,West,Maharashtra,Hydrogen,Steel,Mar,2025,2160,1840,3564080,2118856,1445224,343,8,7.81,85.26
+Vadodara,West,Gujarat,Helium,Chemical,Jul,2023,3437,2763,10377828,7210736,3167092,270,9,9.02,94.45
+Pune,West,Maharashtra,Helium,Pharmaceutical,Aug,2025,843,677,1655942,1181913,474029,109,3,7.87,86.08
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Aug,2024,1529,1465,4019960,3402793,617167,442,3,9.01,84.9
+Pune,West,Maharashtra,Argon,Pharmaceutical,Jul,2022,3953,3572,13487872,8965785,4522087,55,4,7.51,80.55
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Jan,2025,1677,1472,3123584,2586275,537309,334,8,9.78,98.1
+Jamshedpur,East,Jharkhand,Helium,Electronics,Jul,2025,1450,1196,2712528,2123972,588556,402,1,8.58,97.36
+Hyderabad,South,Telangana,Carbon Dioxide,Food & Beverage,Nov,2024,951,784,1822016,1228880,593136,202,7,7.11,85.51
+Vadodara,West,Gujarat,Hydrogen,Electronics,Apr,2024,4025,3491,13335620,9038797,4296823,306,3,9.47,81.52
+Hazira,West,Gujarat,Argon,Chemical,Jun,2023,3264,3205,8002885,4626913,3375972,472,5,7.05,77.46
+Chennai,South,Tamil Nadu,Oxygen,Chemical,Jan,2022,1521,1327,4428199,2748833,1679366,424,5,9.8,94.97
+Hazira,West,Gujarat,Carbon Dioxide,Pharmaceutical,Feb,2022,4925,4489,11747713,7260563,4487150,389,4,9.79,80.86
+Hazira,West,Gujarat,Hydrogen,Electronics,Mar,2025,4342,3572,9555100,7773240,1781860,157,1,8.29,78.11
+Bengaluru,South,Karnataka,Carbon Dioxide,Pharmaceutical,Mar,2022,767,679,1829905,1195388,634517,92,7,7.98,96.03
+Pune,West,Maharashtra,Carbon Dioxide,Steel,Feb,2023,2568,2471,4551582,2824077,1727505,490,8,9.68,91.89
+Vadodara,West,Gujarat,Nitrogen,Healthcare,Jun,2022,3665,3326,9366016,5519259,3846757,134,2,8.89,82.84
+Bengaluru,South,Karnataka,Oxygen,Food & Beverage,Jul,2025,4823,4145,8472380,6551553,1920827,127,7,9.19,76.02
+Hazira,West,Gujarat,Helium,Chemical,Jan,2022,3813,3510,11084580,7041062,4043518,273,6,7.96,76.05
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Chemical,Jan,2024,2201,1882,4473514,2964632,1508882,457,8,7.4,96.27
+Hyderabad,South,Telangana,Oxygen,Steel,Sep,2022,4316,3708,11339064,7734405,3604659,500,3,9.11,87.53
+Bengaluru,South,Karnataka,Carbon Dioxide,Healthcare,May,2023,3272,2786,11595332,9525255,2070077,248,8,8.13,85.28
+Pune,West,Maharashtra,Argon,Healthcare,Nov,2024,1741,1631,4100334,2929719,1170615,359,5,7.78,94.88
+Vadodara,West,Gujarat,Hydrogen,Pharmaceutical,May,2025,1690,1440,4164480,3377881,786599,220,4,8.38,81.24
+Dahej,West,Gujarat,Oxygen,Steel,Apr,2024,4525,4019,16469862,13883157,2586705,220,1,7.68,76.48
+Jamshedpur,East,Jharkhand,Helium,Food & Beverage,Jul,2024,820,692,1739688,1288576,451112,492,9,8.16,88.22
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Aug,2022,3673,2983,5733326,4520899,1212427,341,8,7.79,92.73
+Pune,West,Maharashtra,Hydrogen,Pharmaceutical,Nov,2025,965,953,2634092,1824149,809943,278,9,7.75,79.23
+Hazira,West,Gujarat,Argon,Chemical,Sep,2024,2368,2233,4314156,3473378,840778,345,3,9.65,86.41
+Hyderabad,South,Telangana,Helium,Chemical,Jul,2024,2321,2072,7430192,6295733,1134459,415,2,7.14,77.67
+Hazira,West,Gujarat,Carbon Dioxide,Pharmaceutical,Aug,2023,4396,3620,12677240,10718874,1958366,218,7,8.21,78.93
+Chennai,South,Tamil Nadu,Hydrogen,Electronics,Jul,2025,879,741,1658358,1271794,386564,75,5,7.61,75.25
+Bengaluru,South,Karnataka,Helium,Chemical,Nov,2025,3831,3089,10731186,9025604,1705582,406,7,7.43,84.08
+Bengaluru,South,Karnataka,Helium,Food & Beverage,Mar,2024,4021,3939,15094248,12611360,2482888,133,10,7.75,97.64
+Jamshedpur,East,Jharkhand,Nitrogen,Steel,Dec,2024,2094,1732,3328904,2533648,795256,81,3,7.94,95.52
+Pune,West,Maharashtra,Nitrogen,Steel,Aug,2022,1106,939,2446095,1841414,604681,273,1,7.04,83.26
+Hazira,West,Gujarat,Argon,Chemical,Nov,2024,3322,2666,10685328,8364997,2320331,367,5,7.98,97.75
+Bengaluru,South,Karnataka,Helium,Steel,Oct,2022,4598,4281,11010732,8611509,2399223,158,10,8.42,98.75
+Chennai,South,Tamil Nadu,Carbon Dioxide,Steel,Apr,2023,2982,2834,9876490,7392294,2484196,167,2,7.34,77.18
+Hyderabad,South,Telangana,Carbon Dioxide,Food & Beverage,Mar,2022,1198,1140,2295960,1768343,527617,225,10,9.74,84.23
+Pune,West,Maharashtra,Helium,Chemical,Nov,2022,3182,2792,7996288,6128118,1868170,316,10,9.77,85.83
+Vadodara,West,Gujarat,Argon,Healthcare,Jan,2024,4180,3387,12806247,8644404,4161843,55,7,8.47,89.54
+Hazira,West,Gujarat,Carbon Dioxide,Electronics,Feb,2023,3015,2631,8803326,5317355,3485971,164,8,7.33,98.52
+Pune,West,Maharashtra,Oxygen,Pharmaceutical,Feb,2022,1514,1245,4033800,3148955,884845,429,4,9.09,81.69
+Pune,West,Maharashtra,Helium,Food & Beverage,Jan,2023,4681,4078,7605470,4407819,3197651,88,4,8.59,94.16
+Jamshedpur,East,Jharkhand,Nitrogen,Chemical,Oct,2024,2923,2738,8096266,6615725,1480541,150,9,9.49,83.2
+Hyderabad,South,Telangana,Hydrogen,Steel,Nov,2024,4578,3691,7119939,4623863,2496076,314,4,9.67,83.07
+Pune,West,Maharashtra,Nitrogen,Pharmaceutical,Dec,2023,2481,2190,4423800,3510935,912865,140,7,8.76,77.07
+Chennai,South,Tamil Nadu,Helium,Healthcare,Sep,2022,649,574,1744960,970734,774226,406,2,8.75,75.46
+Dahej,West,Gujarat,Oxygen,Chemical,Mar,2024,2390,2098,3797380,2773835,1023545,396,7,9.17,82.04
+Vadodara,West,Gujarat,Helium,Chemical,Mar,2025,4821,4226,15365736,9770448,5595288,74,4,8.28,86.36
+Hyderabad,South,Telangana,Argon,Steel,Sep,2023,2457,2017,5817028,4069487,1747541,263,8,7.29,93.37
+Pune,West,Maharashtra,Argon,Healthcare,May,2023,3996,3698,9318960,7228119,2090841,81,1,9.82,90.09
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Jun,2025,2360,2077,5875833,3887438,1988395,468,6,9.57,75.09
+Pune,West,Maharashtra,Oxygen,Healthcare,Jun,2025,2519,2146,7392970,5115102,2277868,71,2,7.43,81.46
+Hazira,West,Gujarat,Oxygen,Healthcare,Apr,2024,2811,2714,9317162,6967739,2349423,226,1,8.69,79.28
+Dahej,West,Gujarat,Hydrogen,Electronics,Feb,2025,532,519,1729308,1087714,641594,216,3,7.83,83.41
+Bengaluru,South,Karnataka,Oxygen,Chemical,Apr,2023,4106,3641,6987079,4336008,2651071,245,9,8.5,88.84
+Chennai,South,Tamil Nadu,Nitrogen,Healthcare,Sep,2023,4246,3822,12929826,9122835,3806991,406,1,7.74,81.59
+Hazira,West,Gujarat,Carbon Dioxide,Healthcare,May,2024,4191,3792,13071024,8977756,4093268,361,10,7.65,86.69
+Vadodara,West,Gujarat,Carbon Dioxide,Healthcare,Jan,2024,1011,980,3287900,1941451,1346449,181,10,9.31,88.51
+Jamshedpur,East,Jharkhand,Hydrogen,Chemical,Feb,2024,2526,2294,4904572,3193892,1710680,70,4,9.6,81.89
+Pune,West,Maharashtra,Hydrogen,Electronics,Nov,2025,616,525,1975575,1259022,716553,400,9,8.05,80.8
+Hyderabad,South,Telangana,Carbon Dioxide,Food & Beverage,Mar,2024,3424,3136,6905472,5010580,1894892,187,5,9.52,78.35
+Dahej,West,Gujarat,Helium,Steel,Oct,2022,3724,3577,10813271,8172138,2641133,201,5,9.71,81.19
+Bengaluru,South,Karnataka,Hydrogen,Steel,Dec,2023,4887,4104,14035680,10930481,3105199,359,10,8.15,83.53
+Hazira,West,Gujarat,Carbon Dioxide,Steel,Jan,2024,2479,2111,8813425,5166039,3647386,454,9,7.97,96.83
+Hyderabad,South,Telangana,Carbon Dioxide,Pharmaceutical,Mar,2024,3842,3135,12743775,7451537,5292238,445,6,9.41,92.49
+Vadodara,West,Gujarat,Oxygen,Pharmaceutical,Jun,2024,1890,1770,3663900,2743354,920546,427,10,9.56,87.11
+Bengaluru,South,Karnataka,Oxygen,Chemical,Dec,2025,2562,2498,6304952,5155858,1149094,475,6,9.01,84.74
+Jamshedpur,East,Jharkhand,Hydrogen,Pharmaceutical,Mar,2023,4532,4044,10668072,6488480,4179592,332,7,7.43,94.81
+Pune,West,Maharashtra,Helium,Pharmaceutical,Jun,2022,1378,1305,4023315,2370202,1653113,306,9,9.51,78.32
+Dahej,West,Gujarat,Nitrogen,Electronics,Feb,2025,4173,3916,12026036,9222941,2803095,472,2,7.5,81.52
+Bengaluru,South,Karnataka,Argon,Steel,Nov,2022,4377,3598,13348580,8265071,5083509,381,9,7.89,84.25
+Dahej,West,Gujarat,Helium,Chemical,Feb,2025,2426,2171,7613697,4638804,2974893,470,7,9.17,87.98
+Dahej,West,Gujarat,Helium,Food & Beverage,Sep,2024,1775,1751,7273654,5940591,1333063,500,3,7.49,83.51
+Jamshedpur,East,Jharkhand,Helium,Pharmaceutical,Dec,2023,1187,1019,3730559,2119587,1610972,419,4,8.75,95.88
+Hazira,West,Gujarat,Hydrogen,Chemical,May,2022,755,691,2335580,1636268,699312,463,8,8.51,85.63
+Pune,West,Maharashtra,Nitrogen,Electronics,May,2025,4556,3880,11814600,8410895,3403705,359,9,7.23,82.71
+Chennai,South,Tamil Nadu,Carbon Dioxide,Electronics,May,2025,4359,3791,10057523,6066775,3990748,482,8,8.98,77.61
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,Mar,2024,3161,3086,10723850,6984264,3739586,281,7,8.1,96.82
+Chennai,South,Tamil Nadu,Carbon Dioxide,Pharmaceutical,Jun,2022,4812,4191,16558641,12200414,4358227,488,8,8.58,82.0
+Hyderabad,South,Telangana,Argon,Healthcare,Jun,2025,3553,2909,8587368,5186550,3400818,118,1,9.12,78.77
+Vadodara,West,Gujarat,Carbon Dioxide,Healthcare,May,2023,4955,4085,8766410,6291064,2475346,484,2,9.55,84.42
+Pune,West,Maharashtra,Nitrogen,Pharmaceutical,Sep,2023,4444,3649,10228147,6988648,3239499,389,4,9.74,87.0
+Pune,West,Maharashtra,Argon,Steel,Jul,2023,3287,3019,10321961,7392180,2929781,290,4,7.2,91.35
+Chennai,South,Tamil Nadu,Nitrogen,Electronics,Oct,2024,4882,4534,14141546,11022022,3119524,280,7,8.25,76.24
+Hyderabad,South,Telangana,Carbon Dioxide,Food & Beverage,Jan,2023,3937,3804,8186208,4518587,3667621,83,6,8.84,78.64
+Hyderabad,South,Telangana,Hydrogen,Pharmaceutical,Dec,2022,4271,4166,10310850,8222501,2088349,176,3,8.39,92.35
+Pune,West,Maharashtra,Oxygen,Steel,Nov,2024,2061,1975,7623500,4914744,2708756,460,9,7.76,92.83
+Hazira,West,Gujarat,Carbon Dioxide,Steel,Feb,2025,4922,4714,13878016,9164105,4713911,309,6,9.49,78.75
+Hyderabad,South,Telangana,Nitrogen,Steel,May,2022,3125,2601,10315566,6244822,4070744,356,4,8.96,91.03
+Hyderabad,South,Telangana,Argon,Chemical,Jun,2024,3769,3706,8631274,5096602,3534672,271,10,9.47,78.21
+Hazira,West,Gujarat,Oxygen,Chemical,Oct,2024,2992,2775,8547000,5480893,3066107,60,4,8.33,91.36
+Hazira,West,Gujarat,Argon,Chemical,Mar,2022,3405,2822,5274318,4158837,1115481,440,7,8.5,93.07
+Vadodara,West,Gujarat,Oxygen,Steel,Sep,2022,3115,2728,7073704,5068256,2005448,427,4,7.97,85.49
+Hazira,West,Gujarat,Hydrogen,Healthcare,Oct,2022,3477,3130,12200740,9019138,3181602,162,7,7.4,98.43
+Chennai,South,Tamil Nadu,Hydrogen,Steel,Jan,2024,763,652,1811256,1271833,539423,188,2,9.53,78.44
+Bengaluru,South,Karnataka,Hydrogen,Steel,Dec,2023,2648,2461,9624971,6061811,3563160,113,4,9.44,86.38
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Steel,Mar,2023,4482,3833,10349100,7677976,2671124,278,8,7.84,98.62
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Food & Beverage,Apr,2022,3474,3401,14012120,11636287,2375833,349,1,8.45,98.12
+Vadodara,West,Gujarat,Hydrogen,Healthcare,Aug,2025,1697,1419,5729922,4728891,1001031,258,10,7.0,92.32
+Vadodara,West,Gujarat,Oxygen,Healthcare,Jul,2022,3707,3538,8285996,4861259,3424737,456,4,9.14,96.85
+Jamshedpur,East,Jharkhand,Hydrogen,Food & Beverage,Jun,2022,3937,3374,6832350,4255669,2576681,262,1,8.01,85.57
+Chennai,South,Tamil Nadu,Helium,Pharmaceutical,Feb,2022,601,523,2073172,1663308,409864,398,7,9.46,93.79
+Dahej,West,Gujarat,Helium,Steel,Jan,2025,4302,3530,7042350,5431817,1610533,231,7,9.17,80.35
+Dahej,West,Gujarat,Helium,Food & Beverage,Nov,2023,2366,1972,6422804,3830060,2592744,102,5,8.09,93.22
+Vadodara,West,Gujarat,Helium,Healthcare,Jan,2024,2963,2691,8438976,4761531,3677445,58,4,8.6,94.21
+Jamshedpur,East,Jharkhand,Hydrogen,Food & Beverage,Sep,2025,1302,1266,2813052,2335854,477198,109,6,7.49,76.14
+Dahej,West,Gujarat,Nitrogen,Electronics,Nov,2025,2802,2662,9370240,6996132,2374108,353,10,8.26,85.83
+Bengaluru,South,Karnataka,Oxygen,Pharmaceutical,Nov,2023,1968,1607,3291136,2066498,1224638,297,1,7.37,86.13
+Vadodara,West,Gujarat,Helium,Food & Beverage,Feb,2025,974,825,1714350,1297530,416820,457,1,7.36,81.38
+Hyderabad,South,Telangana,Nitrogen,Pharmaceutical,Aug,2025,2369,2261,5204822,3131563,2073259,108,4,9.23,84.73
+Bengaluru,South,Karnataka,Carbon Dioxide,Pharmaceutical,Dec,2024,2571,2277,7734969,4939861,2795108,155,5,7.1,87.24
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Oct,2025,1807,1656,5247864,3955013,1292851,458,6,8.7,77.32
+Hyderabad,South,Telangana,Oxygen,Chemical,Dec,2024,3220,2665,9319505,7042586,2276919,495,4,9.16,98.42
+Hyderabad,South,Telangana,Oxygen,Steel,Dec,2024,4646,3945,12422805,10260502,2162303,410,7,8.03,92.8
+Hazira,West,Gujarat,Helium,Electronics,May,2024,655,524,2141588,1796331,345257,334,1,7.58,87.36
+Bengaluru,South,Karnataka,Oxygen,Electronics,Oct,2022,4089,3337,7121158,4115238,3005920,147,6,8.84,91.81
+Jamshedpur,East,Jharkhand,Nitrogen,Food & Beverage,Aug,2023,662,628,1367156,1098633,268523,448,7,7.07,91.95
+Jamshedpur,East,Jharkhand,Nitrogen,Healthcare,Jan,2022,2315,1996,4776428,2917920,1858508,410,2,7.88,92.28
+Hyderabad,South,Telangana,Carbon Dioxide,Chemical,Dec,2025,1546,1490,3750330,2527805,1222525,271,6,8.88,80.03
+Hazira,West,Gujarat,Nitrogen,Steel,Aug,2024,3976,3665,10049430,8205130,1844300,254,10,9.76,91.75
+Bengaluru,South,Karnataka,Helium,Steel,Nov,2023,1372,1292,3273928,1820122,1453806,228,7,7.32,81.71
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Aug,2023,1738,1614,5171256,2933756,2237500,60,4,9.52,79.07
+Vadodara,West,Gujarat,Oxygen,Healthcare,Nov,2023,2033,1832,4208104,3574010,634094,77,4,7.85,87.62
+Chennai,South,Tamil Nadu,Oxygen,Electronics,Jul,2023,2533,2310,4499880,3495458,1004422,229,10,8.84,94.79
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Apr,2025,1845,1699,3720810,3033559,687251,199,7,9.27,90.83
+Pune,West,Maharashtra,Hydrogen,Healthcare,Aug,2025,3133,3072,8432640,5472233,2960407,251,9,9.15,83.63
+Jamshedpur,East,Jharkhand,Oxygen,Pharmaceutical,Dec,2025,3394,3081,11541426,8758724,2782702,386,3,7.98,89.45
+Vadodara,West,Gujarat,Carbon Dioxide,Healthcare,Dec,2024,2400,2268,7638624,4801829,2836795,219,2,9.05,93.1
+Vadodara,West,Gujarat,Helium,Healthcare,Oct,2025,1762,1614,5905626,3835785,2069841,455,6,9.38,79.52
+Vadodara,West,Gujarat,Hydrogen,Food & Beverage,Jul,2022,2553,2312,9310424,5917190,3393234,364,2,9.41,97.4
+Chennai,South,Tamil Nadu,Carbon Dioxide,Electronics,Dec,2024,4518,4274,13018604,8864390,4154214,175,9,9.09,94.16
+Vadodara,West,Gujarat,Hydrogen,Electronics,Dec,2024,4967,4237,15888750,12811171,3077579,149,9,7.51,80.04
+Jamshedpur,East,Jharkhand,Hydrogen,Steel,Sep,2024,728,642,2184726,1704854,479872,398,1,7.92,83.66
+Bengaluru,South,Karnataka,Argon,Food & Beverage,Oct,2023,2355,2125,7618125,4669320,2948805,403,8,9.81,94.49
+Dahej,West,Gujarat,Helium,Steel,Aug,2025,834,760,1613480,1041543,571937,151,5,7.79,92.61
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Jun,2024,1364,1289,2333090,1718436,614654,137,5,7.04,89.73
+Hyderabad,South,Telangana,Oxygen,Pharmaceutical,Jun,2023,679,613,1427677,975676,452001,336,10,9.55,83.15
+Bengaluru,South,Karnataka,Hydrogen,Chemical,Jan,2022,1859,1769,5204398,3105330,2099068,460,10,9.84,90.38
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Apr,2025,1750,1528,4301320,2418964,1882356,192,7,8.76,97.65
+Hyderabad,South,Telangana,Nitrogen,Pharmaceutical,Aug,2023,4246,4032,16801344,11628409,5172935,316,10,7.95,79.97
+Vadodara,West,Gujarat,Nitrogen,Food & Beverage,Dec,2024,727,600,1892400,1084237,808163,419,9,8.99,78.81
+Jamshedpur,East,Jharkhand,Helium,Electronics,Jul,2024,3978,3593,9808890,6828134,2980756,159,5,7.1,84.79
+Jamshedpur,East,Jharkhand,Nitrogen,Electronics,May,2022,516,459,1899801,1302850,596951,326,8,8.71,78.86
+Hyderabad,South,Telangana,Argon,Steel,Oct,2025,677,545,2072635,1278587,794048,237,5,7.33,94.05
+Hyderabad,South,Telangana,Hydrogen,Electronics,Jan,2024,3571,2909,6283440,3999296,2284144,426,9,8.26,86.39
+Hazira,West,Gujarat,Nitrogen,Food & Beverage,Jan,2024,3109,2719,8192347,6687675,1504672,129,6,9.27,91.26
+Vadodara,West,Gujarat,Argon,Food & Beverage,Nov,2023,2392,2119,4848272,3631892,1216380,491,3,8.08,90.09
+Vadodara,West,Gujarat,Carbon Dioxide,Chemical,Jun,2024,4200,4064,7701280,4903846,2797434,196,2,8.52,98.38
+Hyderabad,South,Telangana,Carbon Dioxide,Food & Beverage,Nov,2023,2463,2255,6967950,5403977,1563973,201,7,7.91,83.47
+Bengaluru,South,Karnataka,Carbon Dioxide,Food & Beverage,Jan,2022,1892,1610,5778290,3914101,1864189,366,8,8.67,78.62
+Bengaluru,South,Karnataka,Argon,Chemical,Feb,2025,3219,2607,9664149,7167517,2496632,465,10,9.02,88.34
+Vadodara,West,Gujarat,Argon,Electronics,Oct,2025,1652,1506,6286044,5084323,1201721,347,2,8.5,88.1
+Hyderabad,South,Telangana,Nitrogen,Pharmaceutical,Jul,2024,3559,3499,8453584,6671121,1782463,434,6,9.72,91.11
+Hyderabad,South,Telangana,Argon,Chemical,May,2024,4685,4253,13439480,10897808,2541672,64,4,8.61,76.37
+Hyderabad,South,Telangana,Oxygen,Pharmaceutical,Sep,2023,4570,4467,13124046,8749954,4374092,366,1,8.26,79.6
+Hyderabad,South,Telangana,Helium,Healthcare,Aug,2025,3430,2801,9232096,6624481,2607615,435,7,8.13,95.33
+Chennai,South,Tamil Nadu,Hydrogen,Electronics,Oct,2025,2461,2123,6016582,3710960,2305622,63,6,8.78,82.09
+Pune,West,Maharashtra,Oxygen,Healthcare,Mar,2022,544,465,1775370,1500117,275253,74,6,8.16,93.22
+Chennai,South,Tamil Nadu,Helium,Chemical,Feb,2023,718,654,2171280,1762469,408811,122,9,7.34,91.59
+Hyderabad,South,Telangana,Helium,Food & Beverage,Aug,2025,946,838,1984384,1655022,329362,97,7,9.09,89.38
+Dahej,West,Gujarat,Carbon Dioxide,Healthcare,Jan,2023,865,790,2387380,1324647,1062733,273,1,8.86,95.23
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Mar,2022,3461,3276,13660920,9012952,4647968,192,8,8.19,84.71
+Bengaluru,South,Karnataka,Oxygen,Steel,Dec,2022,3846,3289,9495343,5854321,3641022,316,1,8.43,83.06
+Vadodara,West,Gujarat,Argon,Pharmaceutical,Aug,2024,4177,3624,13238472,8492144,4746328,369,5,7.97,92.06
+Jamshedpur,East,Jharkhand,Hydrogen,Electronics,Nov,2022,1908,1763,3739323,2317565,1421758,441,6,7.52,97.7
+Hyderabad,South,Telangana,Hydrogen,Steel,Nov,2022,2391,2143,6163268,4728844,1434424,98,7,7.2,90.56
+Vadodara,West,Gujarat,Oxygen,Steel,Jun,2022,863,712,1317912,852204,465708,154,6,8.94,92.17
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Healthcare,Apr,2024,690,585,1296945,1063788,233157,189,4,9.67,76.31
+Dahej,West,Gujarat,Oxygen,Healthcare,Mar,2025,1801,1570,3245190,1868588,1376602,86,8,8.67,92.63
+Dahej,West,Gujarat,Hydrogen,Electronics,Jul,2024,735,607,2058944,1210129,848815,453,9,9.89,94.54
+Vadodara,West,Gujarat,Hydrogen,Steel,Nov,2025,4625,4532,10400940,6053794,4347146,463,4,7.71,88.87
+Jamshedpur,East,Jharkhand,Helium,Electronics,Jul,2023,3299,2815,11488015,8261037,3226978,134,8,7.98,77.33
+Hazira,West,Gujarat,Hydrogen,Healthcare,Mar,2023,3010,2415,6501180,4133465,2367715,377,10,8.26,88.22
+Chennai,South,Tamil Nadu,Carbon Dioxide,Healthcare,Dec,2024,4343,4126,14498764,11060677,3438087,368,10,7.53,76.48
+Chennai,South,Tamil Nadu,Carbon Dioxide,Healthcare,Apr,2024,4777,4500,16434000,9661248,6772752,236,3,9.18,94.39
+Chennai,South,Tamil Nadu,Oxygen,Electronics,Dec,2023,4535,3906,12948390,7432612,5515778,488,4,8.75,76.99
+Chennai,South,Tamil Nadu,Hydrogen,Food & Beverage,Jan,2025,3894,3791,12915937,10826021,2089916,182,2,7.15,84.26
+Dahej,West,Gujarat,Helium,Steel,Jul,2023,4960,4675,16297050,12269103,4027947,471,2,8.79,89.0
+Chennai,South,Tamil Nadu,Argon,Chemical,Jan,2024,814,793,2419443,1873156,546287,276,2,7.84,82.43
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,Feb,2024,4561,4213,17096354,11408753,5687601,107,4,9.86,93.38
+Vadodara,West,Gujarat,Nitrogen,Chemical,Sep,2022,640,543,1624113,1043586,580527,411,2,7.64,86.96
+Dahej,West,Gujarat,Hydrogen,Pharmaceutical,Jan,2023,1149,1136,4417904,2810636,1607268,351,2,7.27,81.75
+Vadodara,West,Gujarat,Helium,Healthcare,Apr,2022,2077,1976,6989112,4942052,2047060,129,7,9.65,76.82
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Jan,2024,909,790,2055580,1382737,672843,77,5,7.97,96.3
+Hazira,West,Gujarat,Nitrogen,Healthcare,Dec,2025,3815,3409,8989533,6710227,2279306,336,9,9.52,86.26
+Hazira,West,Gujarat,Nitrogen,Food & Beverage,Sep,2022,1602,1413,2762415,1641702,1120713,159,2,8.61,93.74
+Hazira,West,Gujarat,Argon,Food & Beverage,Dec,2024,3807,3072,10306560,6576973,3729587,297,5,9.36,86.18
+Hazira,West,Gujarat,Argon,Pharmaceutical,Sep,2025,4446,4051,13425014,9783538,3641476,419,9,8.84,80.65
+Vadodara,West,Gujarat,Carbon Dioxide,Pharmaceutical,Mar,2025,1822,1712,4586448,2687090,1899358,322,5,9.33,76.78
+Bengaluru,South,Karnataka,Hydrogen,Electronics,Dec,2023,2086,1723,4538382,2802200,1736182,86,3,8.67,77.69
+Pune,West,Maharashtra,Helium,Healthcare,Feb,2022,2918,2868,5953968,3302832,2651136,134,3,7.64,95.78
+Chennai,South,Tamil Nadu,Helium,Healthcare,Jun,2022,2226,1910,4498050,3630181,867869,470,7,7.52,98.04
+Vadodara,West,Gujarat,Oxygen,Steel,Jul,2022,4649,4591,9494188,8014787,1479401,94,4,9.43,89.59
+Pune,West,Maharashtra,Carbon Dioxide,Pharmaceutical,Oct,2023,1641,1549,6231627,3931760,2299867,495,4,8.27,85.93
+Pune,West,Maharashtra,Helium,Food & Beverage,Feb,2022,2606,2276,8041108,4534573,3506535,343,5,8.29,80.38
+Vadodara,West,Gujarat,Nitrogen,Steel,Oct,2023,3646,3046,8254660,5421365,2833295,378,10,8.49,98.38
+Bengaluru,South,Karnataka,Helium,Healthcare,Oct,2023,792,774,2360700,1514783,845917,153,3,7.95,83.49
+Pune,West,Maharashtra,Oxygen,Pharmaceutical,Oct,2023,1167,966,2898000,2337135,560865,129,9,8.67,80.81
+Hazira,West,Gujarat,Oxygen,Steel,Jul,2022,4765,4298,9391130,5464070,3927060,103,8,8.58,86.28
+Jamshedpur,East,Jharkhand,Hydrogen,Steel,Dec,2025,2629,2300,9089600,5930603,3158997,273,4,9.43,89.31
+Vadodara,West,Gujarat,Nitrogen,Chemical,Oct,2022,1711,1580,5281940,2982932,2299008,455,6,9.65,92.67
+Hazira,West,Gujarat,Hydrogen,Pharmaceutical,Oct,2023,3389,3149,12526722,7270541,5256181,441,1,7.19,79.4
+Bengaluru,South,Karnataka,Nitrogen,Pharmaceutical,Jun,2024,1811,1711,5032051,3231637,1800414,231,5,8.9,89.34
+Bengaluru,South,Karnataka,Helium,Chemical,Aug,2024,1262,1214,4346120,2858763,1487357,90,3,9.08,85.58
+Bengaluru,South,Karnataka,Nitrogen,Food & Beverage,Mar,2024,4244,4069,15690064,12069041,3621023,411,9,9.51,76.09
+Dahej,West,Gujarat,Argon,Healthcare,Oct,2022,2571,2433,9858516,6699359,3159157,298,8,7.0,95.77
+Vadodara,West,Gujarat,Hydrogen,Chemical,May,2024,4906,4808,14505736,8714346,5791390,262,5,7.16,88.92
+Bengaluru,South,Karnataka,Helium,Food & Beverage,Sep,2025,4439,4177,11511812,6452690,5059122,103,1,8.18,83.99
+Dahej,West,Gujarat,Carbon Dioxide,Steel,Apr,2025,918,740,2861580,2062444,799136,240,6,8.92,77.06
+Vadodara,West,Gujarat,Argon,Food & Beverage,Oct,2024,3754,3397,8574028,6574224,1999804,193,8,8.48,95.56
+Jamshedpur,East,Jharkhand,Hydrogen,Steel,Oct,2022,1837,1754,5910980,4021359,1889621,328,10,8.77,98.34
+Bengaluru,South,Karnataka,Argon,Pharmaceutical,Sep,2022,3753,3036,10914420,7768786,3145634,231,8,8.39,97.29
+Hyderabad,South,Telangana,Carbon Dioxide,Electronics,Oct,2024,3048,2849,6829053,5294543,1534510,90,5,9.64,84.29
+Vadodara,West,Gujarat,Hydrogen,Healthcare,Feb,2023,4290,3743,8054936,5192083,2862853,64,7,7.07,90.61
+Pune,West,Maharashtra,Argon,Electronics,Dec,2025,3106,2911,9411263,7598527,1812736,241,8,9.67,79.35
+Bengaluru,South,Karnataka,Oxygen,Steel,Jul,2022,2989,2574,7057908,5981890,1076018,137,9,8.36,95.2
+Vadodara,West,Gujarat,Helium,Electronics,Jun,2025,564,543,1865205,1388074,477131,186,2,8.0,83.36
+Vadodara,West,Gujarat,Nitrogen,Food & Beverage,Nov,2022,1188,1066,2840890,2054671,786219,476,8,7.45,95.26
+Chennai,South,Tamil Nadu,Helium,Pharmaceutical,Sep,2023,4153,3640,11415040,8249429,3165611,287,8,9.46,87.46
+Bengaluru,South,Karnataka,Oxygen,Chemical,Mar,2024,4496,3926,11550292,9486773,2063519,325,3,8.67,78.67
+Hazira,West,Gujarat,Hydrogen,Healthcare,Nov,2023,3969,3886,14747370,10336233,4411137,436,10,7.4,83.24
+Hazira,West,Gujarat,Helium,Chemical,Aug,2025,809,792,2568456,1872725,695731,218,9,7.56,98.46
+Chennai,South,Tamil Nadu,Oxygen,Chemical,Jul,2024,3193,2733,6428016,5128040,1299976,147,10,8.48,91.32
+Chennai,South,Tamil Nadu,Oxygen,Chemical,Jun,2022,1190,1032,4327176,3369984,957192,252,6,7.06,87.31
+Vadodara,West,Gujarat,Carbon Dioxide,Electronics,May,2025,4009,3602,12513348,7400378,5112970,200,2,8.06,81.16
+Dahej,West,Gujarat,Argon,Pharmaceutical,Apr,2025,2870,2455,5852720,3421639,2431081,469,9,8.25,94.19
+Hyderabad,South,Telangana,Argon,Chemical,Nov,2022,1387,1233,4116987,3205262,911725,484,8,8.75,92.05
+Pune,West,Maharashtra,Argon,Electronics,May,2024,4814,4285,15511700,8673378,6838322,185,10,8.33,95.72
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Chemical,Jun,2023,1006,921,2861547,1576521,1285026,298,4,7.99,97.38
+Hyderabad,South,Telangana,Nitrogen,Healthcare,May,2025,1879,1785,7181055,4184547,2996508,486,1,9.27,84.02
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Chemical,Apr,2023,1170,995,2751175,1838089,913086,102,5,7.33,91.84
+Dahej,West,Gujarat,Hydrogen,Steel,Sep,2023,2381,2068,8044520,5816223,2228297,386,1,8.26,81.82
+Jamshedpur,East,Jharkhand,Argon,Healthcare,Apr,2025,4871,4482,11962458,7906957,4055501,63,7,9.86,97.67
+Chennai,South,Tamil Nadu,Hydrogen,Electronics,Apr,2022,2187,1933,5211368,3181827,2029541,399,10,7.54,86.11
+Pune,West,Maharashtra,Hydrogen,Electronics,May,2024,4580,3939,14515215,9396665,5118550,217,10,8.85,82.79
+Jamshedpur,East,Jharkhand,Hydrogen,Food & Beverage,Dec,2022,1724,1558,5900146,3506376,2393770,395,1,7.6,87.42
+Hyderabad,South,Telangana,Argon,Steel,Nov,2022,4377,4181,7684678,6416345,1268333,314,1,8.15,88.76
+Hyderabad,South,Telangana,Oxygen,Electronics,Aug,2023,1443,1359,2973492,1903144,1070348,471,4,8.06,75.3
+Hyderabad,South,Telangana,Hydrogen,Pharmaceutical,Jan,2022,1187,1155,2125200,1564108,561092,284,6,9.45,91.32
+Dahej,West,Gujarat,Nitrogen,Chemical,Jun,2025,3008,2537,10493032,6796412,3696620,461,8,7.99,80.85
+Hyderabad,South,Telangana,Carbon Dioxide,Pharmaceutical,May,2023,3226,2955,6368025,4996636,1371389,347,5,9.87,84.08
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Jan,2024,1965,1764,6034644,4686355,1348289,346,1,8.44,91.86
+Pune,West,Maharashtra,Nitrogen,Food & Beverage,Jul,2023,1221,1070,4202960,2846040,1356920,372,7,7.21,79.27
+Chennai,South,Tamil Nadu,Helium,Electronics,Feb,2023,1663,1498,5708878,4541611,1167267,361,3,7.84,97.93
+Vadodara,West,Gujarat,Nitrogen,Chemical,Sep,2022,3624,2967,6827067,4307874,2519193,235,4,8.64,90.66
+Bengaluru,South,Karnataka,Argon,Pharmaceutical,Dec,2024,3783,3317,6448248,5039508,1408740,213,4,7.4,90.99
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Nov,2023,4963,4374,10230786,7859011,2371775,322,8,7.62,77.06
+Jamshedpur,East,Jharkhand,Hydrogen,Pharmaceutical,Jan,2023,2732,2216,4950544,3823032,1127512,58,6,8.49,81.76
+Bengaluru,South,Karnataka,Carbon Dioxide,Pharmaceutical,Aug,2023,3144,2900,10347200,7904988,2442212,409,7,7.79,96.57
+Pune,West,Maharashtra,Carbon Dioxide,Food & Beverage,Mar,2024,727,672,2242464,1473453,769011,150,3,8.4,89.31
+Pune,West,Maharashtra,Argon,Food & Beverage,Dec,2023,2737,2655,7792425,5292063,2500362,52,4,9.05,78.5
+Vadodara,West,Gujarat,Carbon Dioxide,Chemical,May,2025,4032,3691,12737641,7553433,5184208,487,8,9.86,77.51
+Hazira,West,Gujarat,Hydrogen,Pharmaceutical,Apr,2024,4112,3701,15118585,11563657,3554928,276,9,9.38,83.65
+Pune,West,Maharashtra,Hydrogen,Pharmaceutical,Aug,2023,1669,1448,3854576,2757522,1097054,121,2,8.05,93.84
+Hyderabad,South,Telangana,Carbon Dioxide,Chemical,Apr,2025,2874,2438,6265660,4500008,1765652,267,7,9.75,75.18
+Hazira,West,Gujarat,Argon,Food & Beverage,Feb,2025,2886,2553,10191576,5906537,4285039,131,2,8.75,85.63
+Hyderabad,South,Telangana,Hydrogen,Pharmaceutical,Apr,2024,1697,1629,5088996,3508366,1580630,133,5,7.51,91.79
+Hyderabad,South,Telangana,Hydrogen,Electronics,Jun,2024,3403,3342,10714452,6519349,4195103,95,10,7.45,78.19
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,Oct,2022,1667,1516,3500444,2116416,1384028,280,3,9.73,97.52
+Bengaluru,South,Karnataka,Carbon Dioxide,Electronics,Mar,2025,1434,1403,2723223,1720595,1002628,427,1,7.29,78.06
+Bengaluru,South,Karnataka,Argon,Food & Beverage,Aug,2022,868,787,3093697,2318484,775213,253,2,8.66,82.16
+Chennai,South,Tamil Nadu,Nitrogen,Electronics,Nov,2023,4414,4215,16290975,9124865,7166110,146,3,8.5,75.17
+Dahej,West,Gujarat,Hydrogen,Chemical,Mar,2022,3765,3185,12306840,7065704,5241136,238,7,7.3,83.88
+Hazira,West,Gujarat,Oxygen,Steel,Dec,2022,1242,1140,2808960,2170205,638755,189,8,7.73,90.41
+Bengaluru,South,Karnataka,Hydrogen,Chemical,Aug,2025,2035,1976,6627504,4093398,2534106,281,2,9.26,93.01
+Dahej,West,Gujarat,Argon,Electronics,May,2023,833,677,1538821,1090952,447869,409,5,9.07,96.45
+Hazira,West,Gujarat,Nitrogen,Electronics,Jan,2023,2643,2582,10204064,7873920,2330144,380,9,7.82,78.41
+Pune,West,Maharashtra,Hydrogen,Steel,Feb,2025,1624,1353,2992836,1888617,1104219,372,2,8.32,90.97
+Pune,West,Maharashtra,Carbon Dioxide,Electronics,Sep,2022,4837,4748,16993092,11076772,5916320,411,4,7.64,93.12
+Hazira,West,Gujarat,Oxygen,Steel,Sep,2024,3584,3333,11608839,9183466,2425373,465,5,7.88,87.65
+Vadodara,West,Gujarat,Helium,Pharmaceutical,Nov,2024,2481,2282,9287740,7715604,1572136,206,6,9.33,87.01
+Bengaluru,South,Karnataka,Carbon Dioxide,Electronics,Jul,2024,2180,1820,6783140,4712902,2070238,397,1,8.89,86.41
+Pune,West,Maharashtra,Argon,Steel,Jul,2025,1200,1081,4216981,2533028,1683953,107,10,9.15,94.9
+Jamshedpur,East,Jharkhand,Hydrogen,Electronics,May,2022,4605,4121,11860238,8258584,3601654,83,10,8.67,84.22
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Apr,2023,704,574,1595146,1151090,444056,246,5,7.15,91.94
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Dec,2022,2216,2097,5747877,3511709,2236168,127,3,9.73,82.1
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,Jun,2022,3340,2850,8039850,5724399,2315451,122,2,7.88,78.9
+Vadodara,West,Gujarat,Oxygen,Pharmaceutical,Feb,2022,3116,2509,7659977,4748610,2911367,229,1,8.7,80.01
+Dahej,West,Gujarat,Nitrogen,Chemical,Dec,2022,3788,3608,11790944,7804629,3986315,474,1,8.61,85.05
+Vadodara,West,Gujarat,Argon,Steel,Jan,2023,3946,3568,10225888,5835763,4390125,487,2,9.64,75.5
+Chennai,South,Tamil Nadu,Helium,Electronics,Jul,2024,1724,1570,6374200,4830625,1543575,293,3,9.09,89.24
+Dahej,West,Gujarat,Helium,Electronics,Jul,2022,2104,1772,6357936,4176441,2181495,387,6,9.58,91.63
+Jamshedpur,East,Jharkhand,Helium,Pharmaceutical,May,2022,1066,993,3347403,1853537,1493866,145,5,7.74,87.11
+Pune,West,Maharashtra,Oxygen,Pharmaceutical,Oct,2022,3298,3104,7229216,5570438,1658778,131,9,7.66,95.17
+Chennai,South,Tamil Nadu,Carbon Dioxide,Healthcare,Mar,2024,3771,3585,11464830,8713454,2751376,238,10,7.08,79.48
+Hazira,West,Gujarat,Oxygen,Steel,Sep,2025,3659,2959,8844451,5358309,3486142,341,10,8.58,82.78
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Oct,2024,1479,1355,5052795,2993427,2059368,207,4,7.38,92.4
+Chennai,South,Tamil Nadu,Oxygen,Electronics,Jun,2023,3420,2971,7103661,5343190,1760471,222,4,9.16,94.54
+Dahej,West,Gujarat,Helium,Chemical,Sep,2025,4463,4046,12235104,7581160,4653944,302,4,9.0,80.02
+Chennai,South,Tamil Nadu,Carbon Dioxide,Steel,Jun,2023,3430,3224,10055656,6209323,3846333,478,8,7.13,92.24
+Chennai,South,Tamil Nadu,Carbon Dioxide,Electronics,Jan,2022,1169,1019,3734635,3116214,618421,243,7,9.19,94.9
+Hazira,West,Gujarat,Nitrogen,Electronics,Apr,2024,3343,2728,10355488,6354192,4001296,389,8,8.91,82.59
+Pune,West,Maharashtra,Helium,Healthcare,Dec,2022,4339,3796,15814136,11298975,4515161,341,10,8.73,80.55
+Hyderabad,South,Telangana,Nitrogen,Food & Beverage,Jul,2024,2323,2237,5355378,3403350,1952028,398,9,9.63,88.05
+Hyderabad,South,Telangana,Argon,Electronics,Aug,2022,3467,2919,8940897,7234390,1706507,269,6,7.87,93.89
+Dahej,West,Gujarat,Argon,Chemical,Apr,2022,3495,2845,9342980,6271362,3071618,434,8,9.42,79.71
+Vadodara,West,Gujarat,Oxygen,Food & Beverage,Nov,2025,3476,2945,7892600,4586504,3306096,146,9,9.89,88.07
+Pune,West,Maharashtra,Hydrogen,Chemical,Jan,2025,4254,3968,11610368,9246519,2363849,168,1,7.32,88.71
+Pune,West,Maharashtra,Helium,Electronics,Jan,2023,3602,3077,6237079,5232653,1004426,277,9,8.13,75.25
+Hazira,West,Gujarat,Oxygen,Healthcare,Oct,2022,3392,2810,6890120,4718110,2172010,480,9,9.34,83.56
+Hyderabad,South,Telangana,Argon,Electronics,Mar,2022,2518,2190,6024690,3438548,2586142,301,3,8.0,96.37
+Dahej,West,Gujarat,Carbon Dioxide,Steel,Feb,2022,2697,2274,6910686,3891873,3018813,377,3,7.87,98.48
+Vadodara,West,Gujarat,Argon,Steel,Dec,2025,4331,3626,11592322,8049381,3542941,154,4,7.98,98.32
+Hazira,West,Gujarat,Carbon Dioxide,Healthcare,Apr,2022,4441,4256,12687136,7780957,4906179,360,8,7.91,80.7
+Hazira,West,Gujarat,Nitrogen,Healthcare,Apr,2022,3278,3054,9436860,7557495,1879365,66,6,8.03,82.19
+Dahej,West,Gujarat,Oxygen,Pharmaceutical,Sep,2024,4873,4206,12672678,7099781,5572897,397,5,7.29,94.72
+Hazira,West,Gujarat,Helium,Healthcare,Dec,2023,4230,3430,9209550,6743283,2466267,299,8,8.81,75.32
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Electronics,Sep,2024,3130,2952,11067048,7331589,3735459,115,6,7.39,91.94
+Hyderabad,South,Telangana,Helium,Food & Beverage,Sep,2024,3188,2955,6489180,5002295,1486885,469,3,8.92,93.85
+Chennai,South,Tamil Nadu,Hydrogen,Electronics,Aug,2023,1672,1480,2831240,2265599,565641,330,1,9.72,86.52
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Feb,2022,613,560,1515360,1100785,414575,450,4,7.78,84.04
+Pune,West,Maharashtra,Carbon Dioxide,Pharmaceutical,Dec,2025,4366,3494,7368846,6247601,1121245,450,6,9.35,86.13
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,Aug,2025,2142,2036,6333996,4460414,1873582,153,7,7.24,87.96
+Pune,West,Maharashtra,Hydrogen,Pharmaceutical,Mar,2025,626,604,1857904,1337684,520220,337,7,7.56,83.2
+Hazira,West,Gujarat,Nitrogen,Electronics,Sep,2022,3756,3565,11739545,9215852,2523693,154,8,7.56,80.23
+Chennai,South,Tamil Nadu,Helium,Food & Beverage,Jul,2022,3102,2543,9315009,7558236,1756773,220,6,9.02,80.97
+Hazira,West,Gujarat,Hydrogen,Electronics,Jun,2022,520,427,1026081,609242,416839,106,1,8.52,80.7
+Bengaluru,South,Karnataka,Nitrogen,Food & Beverage,Jan,2025,3947,3250,10604750,7605102,2999648,121,3,7.38,78.59
+Hazira,West,Gujarat,Hydrogen,Electronics,Oct,2022,2133,2061,5488443,3463796,2024647,404,3,9.7,97.53
+Chennai,South,Tamil Nadu,Carbon Dioxide,Steel,Jun,2022,725,580,2219080,1386170,832910,140,6,8.61,86.38
+Chennai,South,Tamil Nadu,Helium,Steel,Jul,2024,4035,3916,8611284,5576166,3035118,171,7,8.44,80.24
+Hazira,West,Gujarat,Argon,Chemical,Aug,2023,1178,948,3491484,2936540,554944,361,2,7.68,89.8
+Bengaluru,South,Karnataka,Oxygen,Electronics,May,2022,1678,1369,3603208,2513773,1089435,134,9,9.03,83.5
+Bengaluru,South,Karnataka,Helium,Food & Beverage,Jan,2023,1922,1578,5085894,3827391,1258503,55,5,8.28,98.28
+Bengaluru,South,Karnataka,Nitrogen,Chemical,Jan,2024,3285,3189,6237684,4012470,2225214,163,8,8.89,92.88
+Pune,West,Maharashtra,Hydrogen,Healthcare,Mar,2023,1906,1773,6620382,4193850,2426532,478,1,7.48,96.19
+Dahej,West,Gujarat,Hydrogen,Steel,Sep,2024,2949,2739,8855187,7495882,1359305,197,4,8.95,75.14
+Bengaluru,South,Karnataka,Argon,Healthcare,Jul,2025,4729,4274,10779028,7315045,3463983,185,8,9.79,81.96
+Bengaluru,South,Karnataka,Carbon Dioxide,Electronics,Mar,2024,618,500,1509500,1176148,333352,204,6,9.23,96.45
+Dahej,West,Gujarat,Helium,Pharmaceutical,May,2023,1700,1615,4459015,2965598,1493417,202,4,7.15,79.6
+Hazira,West,Gujarat,Nitrogen,Electronics,Feb,2024,709,674,1989648,1666577,323071,102,9,8.15,81.2
+Chennai,South,Tamil Nadu,Carbon Dioxide,Pharmaceutical,May,2025,3504,2986,10044904,6447449,3597455,122,1,9.16,98.74
+Dahej,West,Gujarat,Helium,Pharmaceutical,Dec,2024,533,465,1261080,1003375,257705,156,1,7.64,85.62
+Bengaluru,South,Karnataka,Hydrogen,Electronics,Dec,2023,558,478,1277216,757705,519511,85,5,7.43,78.22
+Hyderabad,South,Telangana,Oxygen,Healthcare,May,2024,4663,3791,14125266,11891033,2234233,263,2,7.18,89.06
+Pune,West,Maharashtra,Nitrogen,Food & Beverage,May,2023,3697,3417,12318285,7853508,4464777,149,10,7.69,91.62
+Hazira,West,Gujarat,Argon,Pharmaceutical,Jan,2024,4733,4023,7265538,4041646,3223892,389,3,7.74,87.71
+Bengaluru,South,Karnataka,Argon,Chemical,Jan,2024,3737,3133,9276813,6908433,2368380,296,4,9.51,96.75
+Vadodara,West,Gujarat,Hydrogen,Chemical,May,2023,2249,1853,5820273,3714160,2106113,350,9,7.14,88.3
+Pune,West,Maharashtra,Helium,Pharmaceutical,Jun,2024,4808,4234,10394470,6676301,3718169,57,7,8.64,81.43
+Jamshedpur,East,Jharkhand,Oxygen,Electronics,Sep,2025,889,733,1531237,978060,553177,83,1,9.58,78.38
+Vadodara,West,Gujarat,Oxygen,Steel,Oct,2024,1176,1111,3554089,2142719,1411370,100,9,9.7,96.74
+Chennai,South,Tamil Nadu,Hydrogen,Steel,Dec,2023,3703,3449,6670366,4251114,2419252,334,8,9.19,82.63
+Bengaluru,South,Karnataka,Argon,Pharmaceutical,Aug,2024,3753,3528,11797632,8850752,2946880,489,5,8.25,94.03
+Hazira,West,Gujarat,Nitrogen,Chemical,May,2023,1699,1438,4686442,3361857,1324585,290,10,9.71,98.54
+Hazira,West,Gujarat,Oxygen,Healthcare,Oct,2023,2242,1916,4040844,2342347,1698497,412,2,7.77,81.43
+Pune,West,Maharashtra,Carbon Dioxide,Pharmaceutical,Jan,2025,3166,2838,6672138,4115884,2556254,138,5,8.64,84.24
+Pune,West,Maharashtra,Argon,Steel,Dec,2023,2992,2527,5395145,3437202,1957943,305,7,7.08,97.64
+Vadodara,West,Gujarat,Carbon Dioxide,Food & Beverage,Jul,2023,3342,2882,10807500,7662780,3144720,361,6,7.56,84.2
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,Apr,2025,2948,2517,5945154,3376507,2568647,154,7,7.81,94.85
+Vadodara,West,Gujarat,Carbon Dioxide,Healthcare,Mar,2023,1121,1066,3357900,2784799,573101,178,5,7.88,78.28
+Dahej,West,Gujarat,Hydrogen,Chemical,Dec,2025,1328,1171,2610159,1742503,867656,155,8,7.97,85.67
+Hazira,West,Gujarat,Hydrogen,Electronics,Sep,2022,2297,2023,3774918,2639403,1135515,131,3,9.12,88.46
+Pune,West,Maharashtra,Hydrogen,Electronics,Jan,2022,2797,2759,9841353,6585499,3255854,334,9,7.5,76.86
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Apr,2024,4577,4354,14594608,11436757,3157851,83,8,7.95,91.48
+Jamshedpur,East,Jharkhand,Oxygen,Chemical,Feb,2022,820,752,1817584,1116648,700936,422,1,9.55,94.09
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,May,2025,2609,2348,7457248,4611034,2846214,121,9,9.7,85.09
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,Jun,2024,2686,2277,8928117,7528543,1399574,103,4,9.25,77.17
+Dahej,West,Gujarat,Hydrogen,Electronics,Aug,2023,3051,2507,7932148,5116577,2815571,248,3,8.06,87.0
+Vadodara,West,Gujarat,Nitrogen,Healthcare,Jun,2025,1723,1645,6527360,5178465,1348895,117,1,8.4,84.11
+Pune,West,Maharashtra,Nitrogen,Chemical,Nov,2022,2854,2515,5867495,4856396,1011099,427,4,8.65,88.22
+Bengaluru,South,Karnataka,Helium,Pharmaceutical,Oct,2023,1351,1226,2781794,2113614,668180,355,4,8.8,75.56
+Vadodara,West,Gujarat,Hydrogen,Pharmaceutical,Apr,2024,3443,3351,7013643,4215460,2798183,253,5,7.62,79.21
+Chennai,South,Tamil Nadu,Oxygen,Steel,Jun,2023,1413,1391,3342573,2799756,542817,392,7,9.11,84.12
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,Dec,2023,1059,1013,3786594,2814801,971793,184,5,7.29,79.34
+Hyderabad,South,Telangana,Helium,Steel,Jul,2022,3212,2947,6483400,3774013,2709387,202,9,9.66,82.65
+Jamshedpur,East,Jharkhand,Helium,Electronics,Sep,2024,1434,1332,3063600,2594617,468983,329,2,8.1,90.34
+Hyderabad,South,Telangana,Hydrogen,Pharmaceutical,Mar,2022,4005,3338,9202866,6889441,2313425,256,1,7.84,86.65
+Chennai,South,Tamil Nadu,Argon,Healthcare,Feb,2022,2534,2499,6912234,3824046,3088188,228,1,7.82,95.78
+Vadodara,West,Gujarat,Carbon Dioxide,Steel,Jun,2024,4342,4259,17291540,11226315,6065225,456,3,8.07,96.75
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,Feb,2025,2811,2761,7509920,5195457,2314463,416,10,8.92,93.27
+Bengaluru,South,Karnataka,Hydrogen,Steel,Jan,2022,2993,2530,4979040,4138903,840137,389,10,8.29,87.63
+Vadodara,West,Gujarat,Argon,Electronics,Apr,2023,3210,2721,6527679,4460104,2067575,297,6,8.66,75.16
+Dahej,West,Gujarat,Helium,Healthcare,Sep,2024,740,690,2211450,1364846,846604,97,4,8.24,90.41
+Jamshedpur,East,Jharkhand,Argon,Healthcare,Jul,2023,1030,842,2627882,1810876,817006,106,7,7.68,94.77
+Dahej,West,Gujarat,Nitrogen,Healthcare,Feb,2022,1219,1143,4153662,2834333,1319329,206,8,8.66,84.1
+Chennai,South,Tamil Nadu,Nitrogen,Chemical,Jan,2022,2157,1941,7600956,4525694,3075262,240,2,8.69,77.12
+Vadodara,West,Gujarat,Nitrogen,Food & Beverage,Sep,2022,1582,1488,5465424,3015407,2450017,230,8,7.64,75.95
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Feb,2024,3790,3112,9874376,6087841,3786535,65,7,8.33,91.09
+Hazira,West,Gujarat,Hydrogen,Electronics,Apr,2024,4981,4349,12664288,9145372,3518916,382,7,7.08,78.92
+Hazira,West,Gujarat,Helium,Electronics,May,2024,2931,2403,8624367,6660724,1963643,402,4,8.5,85.97
+Pune,West,Maharashtra,Oxygen,Food & Beverage,Aug,2025,3114,2771,9191407,5260077,3931330,481,1,7.79,95.16
+Hazira,West,Gujarat,Helium,Pharmaceutical,Mar,2022,2915,2880,10140480,5611765,4528715,464,1,9.72,89.33
+Vadodara,West,Gujarat,Hydrogen,Healthcare,May,2023,3365,2971,7733513,6332062,1401451,124,5,7.24,82.0
+Hazira,West,Gujarat,Oxygen,Steel,Oct,2022,1339,1283,2637848,1857210,780638,133,1,8.01,82.75
+Vadodara,West,Gujarat,Argon,Steel,Oct,2022,3474,2990,11864320,8173236,3691084,369,7,8.12,81.65
+Bengaluru,South,Karnataka,Nitrogen,Chemical,Feb,2022,2621,2378,6953272,4486608,2466664,324,6,9.2,84.36
+Dahej,West,Gujarat,Nitrogen,Chemical,Feb,2024,2780,2447,7326318,5551117,1775201,99,5,8.91,81.34
+Hazira,West,Gujarat,Helium,Steel,Mar,2023,1532,1288,3335920,2683487,652433,489,8,9.03,83.89
+Hyderabad,South,Telangana,Carbon Dioxide,Chemical,Oct,2022,2157,1932,3494988,2629339,865649,428,7,7.74,96.35
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,Dec,2022,3575,3450,12050850,6904234,5146616,500,1,8.13,98.03
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,Jun,2022,1329,1172,4511028,3414617,1096411,196,5,9.67,94.19
+Pune,West,Maharashtra,Argon,Healthcare,Oct,2025,4111,3343,12509506,8189729,4319777,83,10,8.26,95.6
+Bengaluru,South,Karnataka,Carbon Dioxide,Food & Beverage,Jan,2022,2072,2000,7540000,5649833,1890167,129,6,8.45,75.44
+Vadodara,West,Gujarat,Nitrogen,Electronics,Mar,2024,3978,3516,11961432,6996020,4965412,470,4,8.35,76.65
+Bengaluru,South,Karnataka,Hydrogen,Electronics,Sep,2023,4286,4141,13938606,10144012,3794594,459,8,7.36,98.88
+Pune,West,Maharashtra,Nitrogen,Food & Beverage,Jul,2024,938,822,2663280,1686495,976785,249,2,7.97,90.73
+Bengaluru,South,Karnataka,Nitrogen,Food & Beverage,Mar,2023,557,535,1497465,1255272,242193,335,7,8.72,84.94
+Vadodara,West,Gujarat,Helium,Pharmaceutical,Jul,2023,2426,2120,7947880,4795373,3152507,142,8,7.27,84.38
+Jamshedpur,East,Jharkhand,Helium,Healthcare,Sep,2025,1205,975,3424200,2882361,541839,418,5,9.16,79.2
+Vadodara,West,Gujarat,Nitrogen,Food & Beverage,Sep,2025,4698,4375,16970625,12761913,4208712,313,1,8.77,96.9
+Bengaluru,South,Karnataka,Oxygen,Electronics,Jul,2022,4101,3793,7119461,3924050,3195411,106,9,7.92,94.83
+Pune,West,Maharashtra,Nitrogen,Chemical,Mar,2024,1185,987,3659796,2615666,1044130,490,3,8.38,84.1
+Hazira,West,Gujarat,Argon,Healthcare,Feb,2023,3956,3177,10191816,7923034,2268782,155,9,9.0,80.86
+Bengaluru,South,Karnataka,Hydrogen,Electronics,Nov,2022,2351,2199,7683306,5052909,2630397,65,10,8.27,97.96
+Jamshedpur,East,Jharkhand,Argon,Food & Beverage,Dec,2023,4895,4725,12979575,9985507,2994068,374,6,9.66,95.8
+Pune,West,Maharashtra,Hydrogen,Food & Beverage,Nov,2023,2745,2400,6720000,4999643,1720357,379,5,7.63,77.74
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,Jan,2023,4864,4065,13747830,8272190,5475640,443,3,8.33,82.53
+Hazira,West,Gujarat,Oxygen,Steel,Oct,2025,4039,3722,11084116,7817605,3266511,412,7,8.09,92.59
+Pune,West,Maharashtra,Argon,Chemical,Jun,2022,664,631,1596430,1025138,571292,110,3,9.42,77.05
+Dahej,West,Gujarat,Oxygen,Electronics,Jun,2022,569,518,969696,705545,264151,78,9,7.04,93.18
+Vadodara,West,Gujarat,Helium,Healthcare,Jul,2024,1630,1479,5632032,3438807,2193225,374,2,9.43,91.17
+Hyderabad,South,Telangana,Carbon Dioxide,Chemical,Feb,2023,788,702,1984554,1543560,440994,281,8,9.25,77.76
+Jamshedpur,East,Jharkhand,Hydrogen,Electronics,Oct,2025,3191,2671,10400874,5943004,4457870,240,10,8.55,90.72
+Jamshedpur,East,Jharkhand,Nitrogen,Chemical,Jul,2023,1140,1034,4301440,2766524,1534916,204,9,7.08,91.95
+Pune,West,Maharashtra,Oxygen,Food & Beverage,Sep,2025,4179,3390,10264920,6731490,3533430,374,3,8.82,97.38
+Vadodara,West,Gujarat,Argon,Steel,Sep,2022,1467,1189,2266234,1411929,854305,429,2,7.8,86.12
+Vadodara,West,Gujarat,Helium,Chemical,Jul,2023,3968,3359,13822285,8752583,5069702,68,2,9.59,77.85
+Hyderabad,South,Telangana,Helium,Steel,Jan,2025,3452,2989,11698946,7283551,4415395,411,9,8.54,90.8
+Hyderabad,South,Telangana,Hydrogen,Electronics,Nov,2022,2336,1893,4675710,3754709,921001,423,6,8.52,87.02
+Pune,West,Maharashtra,Helium,Healthcare,Jan,2022,2942,2798,10817068,7205228,3611840,381,1,8.17,84.4
+Jamshedpur,East,Jharkhand,Oxygen,Electronics,Jun,2024,4604,4373,11295459,7628137,3667322,372,2,9.0,87.81
+Bengaluru,South,Karnataka,Argon,Electronics,Oct,2023,722,712,1723752,1331407,392345,432,9,8.93,77.59
+Bengaluru,South,Karnataka,Nitrogen,Food & Beverage,Feb,2024,2224,1938,7719054,5505737,2213317,455,8,8.43,88.1
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,May,2023,583,494,1289340,1021842,267498,206,2,8.44,91.21
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Mar,2025,4113,3364,9819516,7016617,2802899,53,9,7.0,86.85
+Hyderabad,South,Telangana,Helium,Electronics,Dec,2022,663,581,2150862,1706318,444544,337,7,8.74,88.68
+Pune,West,Maharashtra,Helium,Electronics,Jul,2024,4128,3599,10188769,8401223,1787546,263,6,7.66,88.01
+Jamshedpur,East,Jharkhand,Nitrogen,Healthcare,May,2025,3776,3633,9765504,6215746,3549758,409,4,7.77,77.1
+Hazira,West,Gujarat,Nitrogen,Pharmaceutical,Mar,2023,2563,2144,6972288,5459091,1513197,371,3,7.91,95.34
+Pune,West,Maharashtra,Hydrogen,Pharmaceutical,May,2022,3584,3435,12960255,8324999,4635256,316,1,7.41,80.3
+Hyderabad,South,Telangana,Argon,Pharmaceutical,Jun,2025,2405,2354,6876034,5223631,1652403,158,3,9.75,97.43
+Chennai,South,Tamil Nadu,Helium,Steel,Apr,2023,942,760,2516360,2136926,379434,148,3,7.72,92.6
+Hyderabad,South,Telangana,Argon,Pharmaceutical,Feb,2022,3670,3525,9947550,7223796,2723754,304,5,7.79,78.81
+Vadodara,West,Gujarat,Carbon Dioxide,Pharmaceutical,Apr,2022,3256,2807,7070833,4411732,2659101,418,3,9.6,88.22
+Vadodara,West,Gujarat,Argon,Steel,May,2023,1702,1420,4085340,2375895,1709445,421,4,7.18,88.45
+Vadodara,West,Gujarat,Argon,Electronics,Dec,2024,3704,3383,6437849,3797959,2639890,288,3,8.13,91.47
+Hyderabad,South,Telangana,Hydrogen,Chemical,Mar,2023,1760,1671,5606205,3134891,2471314,207,2,8.52,96.09
+Chennai,South,Tamil Nadu,Nitrogen,Steel,Oct,2023,1480,1462,3849446,2895827,953619,105,7,9.88,85.33
+Hazira,West,Gujarat,Argon,Steel,Oct,2024,1731,1659,3887037,2151505,1735532,435,5,7.92,77.37
+Jamshedpur,East,Jharkhand,Argon,Food & Beverage,Nov,2025,2193,1916,3452632,2291885,1160747,462,3,9.06,91.05
+Dahej,West,Gujarat,Oxygen,Healthcare,Feb,2024,1389,1145,4525040,2717371,1807669,366,10,9.67,77.41
+Dahej,West,Gujarat,Oxygen,Pharmaceutical,Mar,2024,1811,1767,5990130,3816874,2173256,386,6,8.59,92.0
+Hazira,West,Gujarat,Nitrogen,Healthcare,Nov,2022,4105,3801,8860131,7372612,1487519,186,10,7.0,80.33
+Bengaluru,South,Karnataka,Argon,Electronics,Nov,2025,1061,919,2225818,1674227,551591,240,4,8.1,75.17
+Bengaluru,South,Karnataka,Nitrogen,Electronics,Feb,2025,1648,1368,4075272,2545769,1529503,195,9,9.26,88.23
+Hazira,West,Gujarat,Oxygen,Steel,Jul,2023,2485,2038,6075278,5097080,978198,187,10,8.32,79.28
+Chennai,South,Tamil Nadu,Nitrogen,Chemical,Feb,2023,3591,3520,14379200,11734505,2644695,124,5,7.42,77.37
+Chennai,South,Tamil Nadu,Oxygen,Chemical,Jun,2023,3368,3295,12244220,10179713,2064507,396,8,8.83,88.06
+Hazira,West,Gujarat,Argon,Steel,Jun,2024,2780,2614,5711590,4553388,1158202,152,8,7.32,89.88
+Hyderabad,South,Telangana,Argon,Steel,Jun,2025,2535,2266,9165970,6193364,2972606,457,6,7.6,78.93
+Chennai,South,Tamil Nadu,Oxygen,Steel,Mar,2025,2008,1684,5198508,3912410,1286098,175,6,9.08,98.43
+Bengaluru,South,Karnataka,Helium,Electronics,Dec,2023,1284,1119,3724032,2821657,902375,394,9,8.14,98.77
+Dahej,West,Gujarat,Hydrogen,Steel,May,2023,4488,3912,13402512,7432323,5970189,372,9,7.08,93.71
+Chennai,South,Tamil Nadu,Helium,Food & Beverage,Aug,2022,2553,2442,6336990,3912430,2424560,480,6,9.8,92.63
+Hazira,West,Gujarat,Carbon Dioxide,Electronics,Oct,2024,2524,2494,4795962,3715807,1080155,93,6,7.63,98.56
+Chennai,South,Tamil Nadu,Helium,Chemical,Apr,2023,4234,4108,7833956,5419649,2414307,410,2,8.49,89.62
+Pune,West,Maharashtra,Hydrogen,Steel,Jul,2024,762,641,1855695,1351770,503925,163,5,8.59,90.88
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,May,2025,899,735,2928240,1924842,1003398,376,10,8.3,93.76
+Hazira,West,Gujarat,Oxygen,Chemical,Nov,2025,3084,3010,6387220,4617596,1769624,219,2,9.38,79.21
+Pune,West,Maharashtra,Helium,Pharmaceutical,Feb,2022,1555,1369,3637433,2408335,1229098,110,4,7.58,95.98
+Hazira,West,Gujarat,Hydrogen,Steel,Apr,2022,2346,2204,8331120,5811166,2519954,148,5,8.52,84.67
+Bengaluru,South,Karnataka,Helium,Food & Beverage,Jan,2022,1646,1569,5918268,3301155,2617113,475,10,9.54,75.35
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Electronics,Mar,2023,4570,4402,11872194,7053756,4818438,422,2,7.91,90.83
+Dahej,West,Gujarat,Argon,Healthcare,May,2025,2184,1765,3413510,2784851,628659,371,10,9.3,96.8
+Dahej,West,Gujarat,Carbon Dioxide,Healthcare,Jan,2025,4157,3757,10012405,7794769,2217636,165,5,8.15,82.77
+Chennai,South,Tamil Nadu,Carbon Dioxide,Pharmaceutical,Jul,2023,1862,1600,5088000,3313648,1774352,239,1,9.69,98.64
+Bengaluru,South,Karnataka,Helium,Electronics,Jan,2024,3417,2854,7152124,5193475,1958649,273,3,7.34,95.83
+Vadodara,West,Gujarat,Hydrogen,Food & Beverage,Nov,2024,4908,4320,13828320,10185808,3642512,303,7,7.24,84.32
+Pune,West,Maharashtra,Argon,Electronics,Jan,2023,4912,4387,13411059,8872762,4538297,340,6,7.33,91.21
+Hazira,West,Gujarat,Hydrogen,Healthcare,Feb,2022,4803,4360,17222000,12948221,4273779,290,2,7.48,90.76
+Jamshedpur,East,Jharkhand,Hydrogen,Electronics,May,2025,2026,1751,7012755,5256784,1755971,499,7,9.86,87.5
+Vadodara,West,Gujarat,Nitrogen,Healthcare,Apr,2024,2370,2055,5445750,3644935,1800815,478,4,8.04,77.66
+Chennai,South,Tamil Nadu,Hydrogen,Steel,Jun,2022,4599,4258,11130412,6520429,4609983,406,9,8.78,85.88
+Vadodara,West,Gujarat,Carbon Dioxide,Food & Beverage,May,2022,3944,3681,6890832,5129022,1761810,471,7,7.35,87.33
+Bengaluru,South,Karnataka,Nitrogen,Food & Beverage,Nov,2022,3107,2613,7818096,4942366,2875730,70,10,8.26,78.05
+Pune,West,Maharashtra,Nitrogen,Pharmaceutical,Jul,2024,2214,1965,3880875,2583474,1297401,171,7,7.75,92.77
+Pune,West,Maharashtra,Helium,Chemical,Nov,2023,4989,4455,13360545,8234161,5126384,256,4,7.66,84.25
+Hyderabad,South,Telangana,Helium,Electronics,Oct,2024,2394,2308,9453568,6506379,2947189,87,1,7.37,83.5
+Hyderabad,South,Telangana,Helium,Steel,Oct,2025,2367,2300,8526100,5714162,2811938,65,5,9.2,92.62
+Hyderabad,South,Telangana,Hydrogen,Food & Beverage,Mar,2025,3783,3470,11798000,7525318,4272682,350,2,7.87,90.02
+Bengaluru,South,Karnataka,Argon,Food & Beverage,Feb,2023,4084,3418,10052338,8444141,1608197,299,5,8.32,85.17
+Hyderabad,South,Telangana,Hydrogen,Food & Beverage,Oct,2022,2105,1762,7072668,5571159,1501509,151,4,9.47,83.79
+Hazira,West,Gujarat,Nitrogen,Healthcare,Jun,2022,863,779,1560337,1182801,377536,84,9,7.31,85.34
+Hazira,West,Gujarat,Nitrogen,Steel,Sep,2023,1748,1657,3357082,1992953,1364129,453,8,7.81,90.05
+Dahej,West,Gujarat,Argon,Pharmaceutical,Oct,2022,2341,2317,6195658,4423279,1772379,458,7,8.03,79.71
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,May,2022,4674,3985,15346235,12471685,2874550,463,8,7.54,98.28
+Dahej,West,Gujarat,Argon,Pharmaceutical,Oct,2023,4201,3717,7285320,5670567,1614753,491,2,9.2,75.73
+Pune,West,Maharashtra,Hydrogen,Healthcare,Feb,2022,3024,2635,7441240,6271317,1169923,177,4,7.46,78.78
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,Aug,2024,1491,1437,2736048,1530790,1205258,86,8,8.15,92.23
+Pune,West,Maharashtra,Nitrogen,Healthcare,Jul,2025,2989,2435,10093075,6359752,3733323,489,6,9.64,85.7
+Vadodara,West,Gujarat,Oxygen,Steel,Sep,2022,1981,1908,4775724,3604860,1170864,170,3,8.19,80.31
+Hazira,West,Gujarat,Argon,Pharmaceutical,Nov,2025,3372,2943,6033150,3525754,2507396,403,10,9.15,77.22
+Pune,West,Maharashtra,Oxygen,Healthcare,Aug,2025,2466,1982,6130326,3513180,2617146,305,9,7.82,80.33
+Chennai,South,Tamil Nadu,Carbon Dioxide,Chemical,Oct,2022,600,566,1446696,819734,626962,285,5,8.58,88.48
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,Jan,2022,4228,3401,10543100,7808966,2734134,145,4,9.5,84.82
+Jamshedpur,East,Jharkhand,Oxygen,Steel,Oct,2022,2368,2278,5460366,4020559,1439807,412,5,7.82,95.07
+Hazira,West,Gujarat,Nitrogen,Healthcare,Jul,2022,2018,1718,4513186,3700374,812812,290,10,8.13,86.16
+Bengaluru,South,Karnataka,Oxygen,Food & Beverage,Feb,2025,1644,1624,3228512,2715896,512616,439,9,8.94,77.76
+Jamshedpur,East,Jharkhand,Argon,Electronics,Jan,2023,4791,4609,14923942,8539802,6384140,264,6,9.4,76.08
+Bengaluru,South,Karnataka,Helium,Food & Beverage,Dec,2023,4529,4145,14884695,10009371,4875324,325,8,8.74,96.96
+Jamshedpur,East,Jharkhand,Nitrogen,Healthcare,Oct,2022,4134,3811,7500048,4997203,2502845,428,3,8.63,95.13
+Pune,West,Maharashtra,Carbon Dioxide,Food & Beverage,Mar,2024,721,691,2268553,1607966,660587,257,5,7.11,91.34
+Vadodara,West,Gujarat,Carbon Dioxide,Chemical,Dec,2024,2382,2131,6491026,5013332,1477694,462,7,9.47,87.37
+Pune,West,Maharashtra,Carbon Dioxide,Healthcare,Jun,2025,3156,2647,8774805,5632674,3142131,312,10,7.18,90.77
+Chennai,South,Tamil Nadu,Helium,Food & Beverage,Jan,2025,2940,2427,8137731,4549390,3588341,118,7,7.39,83.06
+Vadodara,West,Gujarat,Oxygen,Food & Beverage,Mar,2024,2081,1751,7343694,5954233,1389461,225,5,8.58,80.24
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Jul,2024,1270,1081,3207327,1924698,1282629,484,2,7.56,96.35
+Vadodara,West,Gujarat,Hydrogen,Chemical,Apr,2022,1741,1649,6173856,4144741,2029115,235,2,9.33,85.57
+Hyderabad,South,Telangana,Helium,Pharmaceutical,Aug,2023,1493,1398,5569632,3653718,1915914,290,7,7.8,96.42
+Vadodara,West,Gujarat,Oxygen,Chemical,Mar,2025,3061,2649,10842357,7621609,3220748,126,4,9.31,77.56
+Hyderabad,South,Telangana,Helium,Pharmaceutical,Aug,2025,4859,4796,16656508,11976766,4679742,145,10,8.48,89.14
+Hyderabad,South,Telangana,Carbon Dioxide,Pharmaceutical,Jul,2025,4531,4410,16806510,12310011,4496499,176,5,8.8,85.6
+Dahej,West,Gujarat,Nitrogen,Steel,Dec,2023,4220,3959,10954553,9278136,1676417,148,7,9.56,85.41
+Dahej,West,Gujarat,Argon,Chemical,May,2022,4081,3400,9166400,5526889,3639511,443,3,7.8,96.87
+Vadodara,West,Gujarat,Carbon Dioxide,Pharmaceutical,Oct,2025,4810,4200,11016600,6419432,4597168,216,4,8.8,83.01
+Chennai,South,Tamil Nadu,Carbon Dioxide,Healthcare,Jul,2025,3505,3157,9897195,8326843,1570352,73,4,9.04,92.43
+Vadodara,West,Gujarat,Oxygen,Electronics,Apr,2024,1502,1310,2656680,1863194,793486,318,7,9.2,85.22
+Bengaluru,South,Karnataka,Nitrogen,Electronics,Sep,2023,654,579,1647834,936780,711054,448,3,9.22,94.78
+Chennai,South,Tamil Nadu,Oxygen,Steel,Mar,2022,4037,3814,7193204,5721559,1471645,351,3,9.22,85.25
+Vadodara,West,Gujarat,Nitrogen,Steel,Dec,2023,1150,1044,2695608,2225841,469767,464,7,9.88,79.77
+Hazira,West,Gujarat,Argon,Chemical,Nov,2025,2608,2413,6211062,4231811,1979251,458,9,9.63,96.08
+Hazira,West,Gujarat,Carbon Dioxide,Pharmaceutical,Aug,2022,621,571,1718710,992480,726230,280,2,8.17,78.67
+Vadodara,West,Gujarat,Helium,Food & Beverage,Feb,2023,3654,3147,7565388,5626903,1938485,205,8,8.44,92.67
+Dahej,West,Gujarat,Nitrogen,Electronics,Jul,2025,529,480,1150080,801668,348412,372,9,8.63,97.42
+Chennai,South,Tamil Nadu,Argon,Electronics,Apr,2025,3117,2877,6663132,4827168,1835964,311,6,9.88,98.12
+Dahej,West,Gujarat,Hydrogen,Healthcare,Jun,2024,1677,1586,5002244,3955466,1046778,156,10,7.52,78.83
+Dahej,West,Gujarat,Hydrogen,Healthcare,Jun,2023,2565,2103,7385736,5279059,2106677,218,7,7.09,98.09
+Vadodara,West,Gujarat,Argon,Healthcare,Aug,2022,613,497,1391600,1059264,332336,333,2,8.92,75.25
+Pune,West,Maharashtra,Hydrogen,Electronics,Nov,2025,4395,3773,7847840,5362984,2484856,293,2,9.55,82.05
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Dec,2024,1038,938,3615990,2086835,1529155,404,7,7.5,92.97
+Jamshedpur,East,Jharkhand,Oxygen,Chemical,Aug,2023,3398,2870,11118380,9267516,1850864,94,7,7.84,97.86
+Hyderabad,South,Telangana,Helium,Electronics,Aug,2023,3799,3752,11552408,7676714,3875694,282,9,9.4,75.65
+Jamshedpur,East,Jharkhand,Oxygen,Steel,May,2024,1090,906,2465226,1698229,766997,392,8,7.81,80.52
+Chennai,South,Tamil Nadu,Nitrogen,Electronics,Mar,2025,2749,2643,4886907,3963449,923458,144,4,9.75,81.57
+Vadodara,West,Gujarat,Argon,Pharmaceutical,Jul,2025,667,654,1383864,1006347,377517,96,8,7.17,81.98
+Vadodara,West,Gujarat,Argon,Food & Beverage,Feb,2023,1788,1727,3877115,2910640,966475,333,3,8.28,81.99
+Vadodara,West,Gujarat,Helium,Steel,Jan,2022,3073,2865,10136370,6243852,3892518,126,1,9.88,83.71
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Jan,2023,2545,2250,4569750,2679555,1890195,300,8,8.01,93.46
+Bengaluru,South,Karnataka,Oxygen,Electronics,Jun,2025,911,883,2664894,2021351,643543,364,6,9.12,76.3
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,Jun,2023,4317,4205,17341420,13031914,4309506,450,3,7.99,89.3
+Jamshedpur,East,Jharkhand,Oxygen,Pharmaceutical,Jun,2022,3454,3286,9706844,6112483,3594361,183,10,9.07,98.43
+Hazira,West,Gujarat,Carbon Dioxide,Healthcare,Jan,2025,1193,1141,4397414,2991511,1405903,128,1,8.83,85.7
+Vadodara,West,Gujarat,Argon,Food & Beverage,Jan,2024,4790,3922,9201012,6638901,2562111,445,8,7.91,79.23
+Jamshedpur,East,Jharkhand,Oxygen,Chemical,Jul,2025,3957,3356,13105180,7704648,5400532,252,7,7.5,76.92
+Dahej,West,Gujarat,Helium,Steel,May,2025,3448,2987,10938394,7198626,3739768,269,1,9.6,78.03
+Vadodara,West,Gujarat,Hydrogen,Food & Beverage,Jul,2023,1325,1159,2691198,1741441,949757,461,9,7.16,78.73
+Jamshedpur,East,Jharkhand,Oxygen,Pharmaceutical,Aug,2023,3586,2953,5923718,4855875,1067843,349,6,7.46,96.07
+Hazira,West,Gujarat,Nitrogen,Healthcare,Feb,2022,910,823,2341435,1630311,711124,99,3,7.41,85.76
+Hyderabad,South,Telangana,Nitrogen,Electronics,May,2022,4717,4478,15610308,12275327,3334981,79,4,7.82,94.23
+Jamshedpur,East,Jharkhand,Oxygen,Electronics,Feb,2022,1746,1606,2940586,2458778,481808,67,6,7.17,88.91
+Hazira,West,Gujarat,Helium,Food & Beverage,Jan,2024,3638,3136,11142208,6291245,4850963,65,7,8.25,88.51
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Food & Beverage,Feb,2024,669,572,1030172,655281,374891,450,5,7.81,79.72
+Pune,West,Maharashtra,Carbon Dioxide,Electronics,Apr,2024,1647,1358,2642668,1896979,745689,311,9,9.05,78.87
+Dahej,West,Gujarat,Nitrogen,Electronics,Sep,2024,2611,2185,4487990,2969401,1518589,414,2,8.44,88.1
+Vadodara,West,Gujarat,Carbon Dioxide,Healthcare,Mar,2023,2195,1924,7176520,5898159,1278361,444,4,8.98,93.81
+Chennai,South,Tamil Nadu,Oxygen,Steel,Apr,2025,4560,3923,14966245,10642993,4323252,359,10,7.21,93.71
+Chennai,South,Tamil Nadu,Carbon Dioxide,Healthcare,Jul,2023,1082,985,1905975,1296341,609634,108,9,8.67,90.29
+Vadodara,West,Gujarat,Argon,Pharmaceutical,Oct,2025,2641,2440,8574160,6939757,1634403,263,6,8.11,86.89
+Bengaluru,South,Karnataka,Argon,Food & Beverage,Jul,2022,1637,1556,6360928,4651210,1709718,57,9,8.97,78.58
+Jamshedpur,East,Jharkhand,Hydrogen,Pharmaceutical,Aug,2022,4635,4023,12149460,9879084,2270376,264,4,9.9,81.0
+Bengaluru,South,Karnataka,Carbon Dioxide,Healthcare,Mar,2024,3624,3129,9446451,6624581,2821870,497,10,9.71,87.17
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,Jul,2022,2704,2293,9405886,5748805,3657081,260,4,9.53,95.97
+Dahej,West,Gujarat,Nitrogen,Steel,Feb,2022,2289,2071,7269210,5230431,2038779,406,1,8.27,88.23
+Jamshedpur,East,Jharkhand,Oxygen,Healthcare,Mar,2025,1157,934,1713890,1012969,700921,268,3,7.27,91.3
+Pune,West,Maharashtra,Carbon Dioxide,Pharmaceutical,Jun,2023,1771,1692,4690224,3618346,1071878,306,1,9.78,79.5
+Pune,West,Maharashtra,Hydrogen,Healthcare,Dec,2025,2453,2063,5755770,4087448,1668322,213,9,8.32,96.51
+Chennai,South,Tamil Nadu,Argon,Steel,Jul,2024,1235,1210,3897410,2521438,1375972,468,9,8.67,94.45
+Pune,West,Maharashtra,Argon,Healthcare,Nov,2025,3259,2889,8412768,6713297,1699471,383,5,9.48,84.19
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Mar,2023,2777,2274,6796986,5457170,1339816,448,10,7.48,91.46
+Dahej,West,Gujarat,Oxygen,Pharmaceutical,Jul,2025,2498,2419,8074622,5302305,2772317,161,9,9.05,86.68
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,Mar,2025,3456,3388,10218208,7261805,2956403,348,2,7.1,82.85
+Hazira,West,Gujarat,Carbon Dioxide,Electronics,Dec,2024,2382,2057,6057865,5062927,994938,274,2,8.21,83.99
+Hyderabad,South,Telangana,Argon,Steel,Aug,2023,2415,2202,8896080,6869495,2026585,279,6,7.32,95.75
+Pune,West,Maharashtra,Hydrogen,Electronics,May,2022,1811,1724,6694292,5148699,1545593,313,9,8.74,78.84
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,Jul,2022,4313,4223,17001798,9595814,7405984,281,6,7.71,92.41
+Jamshedpur,East,Jharkhand,Hydrogen,Steel,Sep,2025,2618,2485,4873085,3359487,1513598,113,2,8.74,94.77
+Jamshedpur,East,Jharkhand,Nitrogen,Pharmaceutical,Apr,2025,1550,1361,5313344,4109518,1203826,434,9,7.47,93.88
+Pune,West,Maharashtra,Nitrogen,Electronics,Jul,2022,3703,3258,7265340,6153282,1112058,334,7,7.46,81.71
+Dahej,West,Gujarat,Nitrogen,Healthcare,Feb,2025,1744,1403,4190761,3245346,945415,478,3,9.64,91.48
+Chennai,South,Tamil Nadu,Hydrogen,Electronics,Feb,2022,746,726,1511532,1246807,264725,267,8,9.14,94.28
+Hazira,West,Gujarat,Argon,Pharmaceutical,Sep,2022,4617,3713,7775022,4396322,3378700,112,2,8.24,94.93
+Chennai,South,Tamil Nadu,Helium,Chemical,Apr,2024,3132,2907,9889614,8273716,1615898,326,5,9.27,93.58
+Vadodara,West,Gujarat,Carbon Dioxide,Pharmaceutical,Jun,2024,637,531,1637604,1366720,270884,451,10,8.44,80.68
+Hazira,West,Gujarat,Argon,Steel,May,2025,4882,4099,7595447,6374577,1220870,117,8,8.13,76.98
+Bengaluru,South,Karnataka,Argon,Electronics,Jan,2024,1214,1028,1885352,1136511,748841,269,3,9.41,81.75
+Chennai,South,Tamil Nadu,Helium,Steel,Dec,2025,2985,2447,6093030,3424838,2668192,143,8,9.16,81.12
+Jamshedpur,East,Jharkhand,Hydrogen,Electronics,May,2025,2854,2495,7859250,6415001,1444249,247,2,8.57,86.4
+Vadodara,West,Gujarat,Argon,Healthcare,Oct,2024,4323,4071,14492760,10009779,4482981,358,6,7.64,85.84
+Bengaluru,South,Karnataka,Hydrogen,Chemical,Jun,2023,3874,3679,14708642,10170072,4538570,153,4,7.32,80.34
+Vadodara,West,Gujarat,Carbon Dioxide,Healthcare,Aug,2022,1087,958,3417186,1988839,1428347,489,10,7.77,79.29
+Pune,West,Maharashtra,Hydrogen,Pharmaceutical,May,2024,4982,4524,10169952,6777407,3392545,101,9,9.01,83.45
+Hazira,West,Gujarat,Argon,Electronics,May,2023,3682,3254,12980206,8568503,4411703,176,10,9.1,85.63
+Dahej,West,Gujarat,Hydrogen,Chemical,Oct,2025,1868,1814,4344530,2557656,1786874,132,10,8.99,80.62
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,Nov,2025,4099,3419,6239675,4200367,2039308,64,3,8.4,81.64
+Chennai,South,Tamil Nadu,Argon,Chemical,Jun,2025,1536,1376,3127648,2503335,624313,327,9,8.23,80.96
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Sep,2023,3430,3159,6861348,5263466,1597882,325,4,8.04,98.56
+Hazira,West,Gujarat,Hydrogen,Healthcare,Jan,2023,1246,1149,3070128,2045746,1024382,82,6,9.78,75.43
+Chennai,South,Tamil Nadu,Argon,Electronics,Oct,2023,1477,1302,3055794,2032190,1023604,345,10,7.21,91.25
+Vadodara,West,Gujarat,Argon,Pharmaceutical,Nov,2023,3257,2731,6639061,3711168,2927893,263,8,7.75,77.95
+Jamshedpur,East,Jharkhand,Helium,Chemical,Apr,2024,2679,2152,4489072,3138948,1350124,217,9,8.11,84.02
+Bengaluru,South,Karnataka,Oxygen,Steel,Jun,2022,2578,2383,9841790,7345464,2496326,65,9,9.18,91.07
+Pune,West,Maharashtra,Oxygen,Chemical,Oct,2023,4065,3293,6250114,3865113,2385001,442,6,8.48,81.79
+Vadodara,West,Gujarat,Nitrogen,Chemical,Aug,2023,4208,3784,15798200,12189242,3608958,427,8,9.71,88.63
+Bengaluru,South,Karnataka,Oxygen,Pharmaceutical,Jun,2024,1422,1204,4293464,2370384,1923080,473,10,8.96,97.25
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,Jun,2025,4009,3317,13646138,10888710,2757428,102,6,7.93,79.87
+Vadodara,West,Gujarat,Oxygen,Steel,Mar,2022,3590,3125,11790625,9959983,1830642,174,1,9.31,75.66
+Vadodara,West,Gujarat,Oxygen,Chemical,Mar,2023,1056,898,3084630,2025751,1058879,318,2,7.76,80.85
+Pune,West,Maharashtra,Carbon Dioxide,Chemical,Nov,2024,519,506,1409210,1181267,227943,497,7,9.6,75.75
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,Oct,2023,562,453,1125705,747450,378255,311,4,8.77,79.11
+Bengaluru,South,Karnataka,Nitrogen,Food & Beverage,Jun,2023,2263,2181,4501584,3680247,821337,332,6,9.18,86.55
+Hyderabad,South,Telangana,Nitrogen,Steel,Feb,2024,884,751,2388931,1739227,649704,406,2,7.32,97.98
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,Oct,2024,1189,1076,3333448,2593252,740196,66,4,9.4,92.67
+Vadodara,West,Gujarat,Helium,Food & Beverage,Jan,2025,2170,1970,7921370,6033386,1887984,373,2,7.28,89.64
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Food & Beverage,Aug,2023,1357,1117,4389810,2988369,1401441,168,4,7.32,83.29
+Pune,West,Maharashtra,Argon,Chemical,Mar,2025,998,904,3658488,2877328,781160,215,10,8.1,95.23
+Vadodara,West,Gujarat,Helium,Electronics,Jul,2024,3142,2951,7309627,5286265,2023362,222,3,9.08,81.56
+Jamshedpur,East,Jharkhand,Argon,Steel,Sep,2025,2368,1904,5498752,4650308,848444,498,5,8.13,93.68
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Pharmaceutical,Sep,2024,1809,1675,4140600,3515169,625431,415,10,9.22,97.34
+Pune,West,Maharashtra,Nitrogen,Steel,Aug,2022,3260,3097,7634105,6066913,1567192,489,9,7.15,88.18
+Chennai,South,Tamil Nadu,Argon,Steel,Dec,2022,2037,1963,6597643,4822263,1775380,348,3,9.24,93.65
+Vadodara,West,Gujarat,Nitrogen,Healthcare,Sep,2023,1164,934,2182758,1736244,446514,496,4,9.23,89.72
+Hazira,West,Gujarat,Oxygen,Chemical,May,2023,1864,1748,6579472,4909701,1669771,218,10,9.04,93.62
+Jamshedpur,East,Jharkhand,Helium,Chemical,Sep,2022,4264,3717,11924136,6903035,5021101,486,10,9.59,83.57
+Hyderabad,South,Telangana,Oxygen,Electronics,Jul,2022,1141,984,2285832,1575534,710298,120,6,7.15,97.31
+Pune,West,Maharashtra,Carbon Dioxide,Electronics,Feb,2025,934,775,2697000,1749470,947530,481,9,7.57,90.34
+Pune,West,Maharashtra,Nitrogen,Steel,Sep,2023,1663,1507,4646081,3499287,1146794,386,10,9.25,96.75
+Vadodara,West,Gujarat,Hydrogen,Chemical,Feb,2022,964,796,2132484,1536692,595792,84,3,8.04,96.3
+Hazira,West,Gujarat,Oxygen,Steel,Sep,2025,3806,3302,13468858,8322949,5145909,447,3,8.22,93.18
+Chennai,South,Tamil Nadu,Hydrogen,Chemical,May,2022,3493,3060,12845880,9464227,3381653,267,2,7.39,75.52
+Pune,West,Maharashtra,Hydrogen,Food & Beverage,Feb,2025,931,826,3300696,2637535,663161,309,5,8.72,86.33
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,Jan,2024,3280,3222,10796922,7478395,3318527,223,7,9.03,79.23
+Hyderabad,South,Telangana,Oxygen,Pharmaceutical,Jul,2023,3689,3111,9046788,7643251,1403537,467,5,8.24,81.09
+Dahej,West,Gujarat,Hydrogen,Pharmaceutical,Feb,2023,3132,2624,7084800,4644932,2439868,279,3,8.44,83.04
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,Aug,2025,4616,3780,14511420,9487324,5024096,304,4,8.0,95.61
+Vadodara,West,Gujarat,Carbon Dioxide,Chemical,Jun,2023,3943,3841,9402768,7915972,1486796,361,7,7.78,75.17
+Dahej,West,Gujarat,Oxygen,Electronics,Mar,2024,3727,3522,8959968,4965180,3994788,274,7,9.43,91.76
+Vadodara,West,Gujarat,Carbon Dioxide,Pharmaceutical,Feb,2023,2863,2319,7951851,5224530,2727321,362,8,7.95,77.02
+Dahej,West,Gujarat,Oxygen,Healthcare,Jun,2022,2200,2109,7181145,3963244,3217901,103,5,9.56,82.3
+Vadodara,West,Gujarat,Oxygen,Food & Beverage,Mar,2025,1151,980,3086020,2509900,576120,277,9,7.76,87.68
+Hazira,West,Gujarat,Argon,Pharmaceutical,Jul,2025,3026,2777,10335994,7996188,2339806,87,7,9.44,93.37
+Hyderabad,South,Telangana,Helium,Pharmaceutical,Apr,2023,2213,1930,6253200,4607187,1646013,113,6,8.68,78.22
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,Nov,2025,1075,865,2753295,2046841,706454,237,1,8.05,83.79
+Pune,West,Maharashtra,Nitrogen,Pharmaceutical,Apr,2023,2382,2317,6204926,3426219,2778707,439,6,8.3,87.79
+Bengaluru,South,Karnataka,Hydrogen,Pharmaceutical,Oct,2024,2046,1846,5726292,3233915,2492377,258,2,9.47,81.13
+Bengaluru,South,Karnataka,Carbon Dioxide,Pharmaceutical,May,2025,1982,1854,4431060,2685997,1745063,383,5,8.22,91.97
+Pune,West,Maharashtra,Nitrogen,Electronics,Dec,2023,2902,2626,7678424,4550874,3127550,433,2,8.55,91.61
+Chennai,South,Tamil Nadu,Oxygen,Steel,Dec,2023,2853,2668,9759544,7267412,2492132,203,3,8.51,76.35
+Chennai,South,Tamil Nadu,Hydrogen,Pharmaceutical,Feb,2025,591,520,1323400,900517,422883,332,10,8.88,95.84
+Bengaluru,South,Karnataka,Helium,Pharmaceutical,Sep,2024,4486,3946,8420764,7025730,1395034,112,4,8.69,94.68
+Jamshedpur,East,Jharkhand,Oxygen,Healthcare,Aug,2025,4968,4227,14312622,12045208,2267414,153,10,8.33,95.51
+Hazira,West,Gujarat,Carbon Dioxide,Healthcare,Oct,2024,4868,4123,8505749,6786749,1719000,138,4,8.71,90.75
+Pune,West,Maharashtra,Helium,Chemical,Mar,2025,3797,3442,11282876,7971117,3311759,140,7,7.34,83.73
+Dahej,West,Gujarat,Carbon Dioxide,Food & Beverage,Jun,2022,1252,1221,5017089,3761260,1255829,280,7,9.56,86.06
+Chennai,South,Tamil Nadu,Nitrogen,Chemical,May,2022,4366,3522,6350166,5111663,1238503,404,6,8.7,87.82
+Chennai,South,Tamil Nadu,Hydrogen,Food & Beverage,Jan,2025,504,416,1422304,1116878,305426,183,4,8.13,89.88
+Chennai,South,Tamil Nadu,Hydrogen,Food & Beverage,May,2025,1014,909,3804165,2697830,1106335,182,4,7.36,78.01
+Hazira,West,Gujarat,Oxygen,Electronics,Oct,2024,2726,2233,5591432,4376607,1214825,318,5,9.02,92.4
+Dahej,West,Gujarat,Nitrogen,Steel,Jan,2023,1402,1382,3311272,2277592,1033680,122,6,7.71,77.73
+Jamshedpur,East,Jharkhand,Helium,Chemical,Jun,2024,1909,1832,5897208,4732957,1164251,314,10,7.45,87.6
+Hyderabad,South,Telangana,Argon,Chemical,Jul,2022,1495,1353,3527271,2002083,1525188,172,3,8.88,78.16
+Bengaluru,South,Karnataka,Hydrogen,Steel,Jan,2024,3112,2685,10608435,6226791,4381644,305,9,7.02,97.54
+Hazira,West,Gujarat,Helium,Chemical,Apr,2023,2086,1745,6557710,5317931,1239779,241,2,9.07,80.11
+Vadodara,West,Gujarat,Hydrogen,Chemical,Jul,2023,4296,3793,15065796,10165203,4900593,198,2,8.92,78.47
+Hazira,West,Gujarat,Helium,Healthcare,Mar,2025,3839,3156,12033828,10222208,1811620,280,6,8.47,98.47
+Jamshedpur,East,Jharkhand,Nitrogen,Steel,Mar,2024,2075,1677,3764865,2655428,1109437,76,3,8.36,79.84
+Hyderabad,South,Telangana,Argon,Healthcare,Oct,2023,1148,993,3755526,2549689,1205837,105,1,9.62,92.52
+Bengaluru,South,Karnataka,Helium,Food & Beverage,May,2024,4474,3930,8960400,5826599,3133801,127,6,8.83,78.59
+Hyderabad,South,Telangana,Nitrogen,Steel,Mar,2022,1986,1899,5243139,3372421,1870718,354,1,8.19,89.65
+Vadodara,West,Gujarat,Oxygen,Chemical,Oct,2025,2063,1923,5703618,3946816,1756802,290,2,7.18,87.9
+Hazira,West,Gujarat,Helium,Healthcare,Sep,2024,2913,2763,8648190,4757205,3890985,328,9,7.6,77.08
+Hyderabad,South,Telangana,Carbon Dioxide,Pharmaceutical,Mar,2022,2377,1941,4318725,2439854,1878871,205,10,7.11,91.68
+Hazira,West,Gujarat,Hydrogen,Chemical,Dec,2024,3323,3266,13563698,10692700,2870998,401,8,7.75,75.12
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Sep,2025,3318,2799,5169753,3413329,1756424,60,1,9.26,94.62
+Vadodara,West,Gujarat,Nitrogen,Electronics,May,2023,2376,2343,4629768,2690055,1939713,440,4,9.76,97.49
+Pune,West,Maharashtra,Argon,Chemical,Jul,2025,796,762,2782824,2185019,597805,366,5,7.25,90.25
+Dahej,West,Gujarat,Argon,Chemical,Apr,2023,2771,2723,7793226,5895334,1897892,186,6,7.49,93.72
+Pune,West,Maharashtra,Oxygen,Chemical,Mar,2024,2454,2109,6194133,3746812,2447321,144,1,7.53,88.02
+Bengaluru,South,Karnataka,Argon,Pharmaceutical,May,2022,4525,4130,11502050,7756560,3745490,306,3,8.67,83.59
+Hazira,West,Gujarat,Nitrogen,Electronics,Aug,2022,1662,1450,3223350,2510297,713053,257,5,9.62,77.62
+Bengaluru,South,Karnataka,Helium,Food & Beverage,Mar,2024,3417,2737,9105999,7544303,1561696,459,2,7.82,91.38
+Hyderabad,South,Telangana,Nitrogen,Food & Beverage,Aug,2023,1995,1893,5226573,3532678,1693895,271,1,9.53,84.97
+Jamshedpur,East,Jharkhand,Argon,Healthcare,Jan,2022,4533,3809,10192884,6244208,3948676,212,10,7.61,87.57
+Jamshedpur,East,Jharkhand,Helium,Pharmaceutical,Aug,2022,3189,2900,10466100,6797338,3668762,298,5,7.5,85.89
+Dahej,West,Gujarat,Helium,Healthcare,Jan,2022,2251,1921,5102176,3597490,1504686,214,4,8.43,97.96
+Pune,West,Maharashtra,Hydrogen,Steel,Mar,2025,2539,2412,8386524,6679048,1707476,346,8,9.25,88.8
+Jamshedpur,East,Jharkhand,Argon,Food & Beverage,Jul,2023,4695,3964,15439780,12765911,2673869,264,8,9.38,82.77
+Hyderabad,South,Telangana,Argon,Pharmaceutical,Apr,2024,3484,3156,9228144,6570969,2657175,58,2,7.82,93.27
+Vadodara,West,Gujarat,Nitrogen,Steel,Feb,2024,3427,3237,10517013,7030266,3486747,320,7,9.33,86.28
+Bengaluru,South,Karnataka,Argon,Healthcare,Apr,2022,899,801,2097819,1449394,648425,57,1,9.27,87.0
+Jamshedpur,East,Jharkhand,Nitrogen,Chemical,Oct,2024,1512,1287,3633201,2125225,1507976,265,1,8.08,96.32
+Chennai,South,Tamil Nadu,Nitrogen,Steel,Jun,2025,3667,3323,9002007,5755854,3246153,94,8,8.73,90.87
+Hazira,West,Gujarat,Oxygen,Pharmaceutical,Mar,2023,2374,1916,4671208,3344546,1326662,356,5,8.72,97.57
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Mar,2025,1248,1070,2651460,2205778,445682,85,6,8.01,86.79
+Vadodara,West,Gujarat,Carbon Dioxide,Electronics,Dec,2023,774,633,1385004,1164882,220122,85,9,8.2,75.44
+Bengaluru,South,Karnataka,Argon,Steel,Aug,2024,879,852,2884020,2026416,857604,259,1,8.37,78.42
+Hazira,West,Gujarat,Hydrogen,Steel,May,2022,3158,2579,6844666,5672491,1172175,301,2,9.18,82.12
+Jamshedpur,East,Jharkhand,Hydrogen,Food & Beverage,Jul,2022,4826,3918,9101514,6721468,2380046,270,7,9.38,85.0
+Pune,West,Maharashtra,Hydrogen,Healthcare,Jul,2024,4516,3680,11382240,9086976,2295264,258,6,7.75,80.44
+Pune,West,Maharashtra,Oxygen,Chemical,Sep,2025,1734,1577,2971068,2352328,618740,319,4,9.68,81.37
+Jamshedpur,East,Jharkhand,Helium,Steel,Feb,2025,4309,3774,7068702,3928068,3140634,175,3,8.04,88.11
+Chennai,South,Tamil Nadu,Argon,Steel,Aug,2023,4950,4156,7813280,5755918,2057362,489,9,8.72,81.29
+Hyderabad,South,Telangana,Carbon Dioxide,Electronics,Mar,2023,1282,1231,4059838,3283637,776201,136,6,8.84,97.86
+Bengaluru,South,Karnataka,Argon,Chemical,Jun,2022,1239,1046,2680898,2090468,590430,220,2,8.32,78.78
+Pune,West,Maharashtra,Helium,Food & Beverage,Jun,2023,2125,2080,7943520,5970350,1973170,361,7,7.07,79.89
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Feb,2022,2224,2041,8172164,5821823,2350341,163,10,9.77,88.56
+Bengaluru,South,Karnataka,Nitrogen,Chemical,Jan,2024,4626,3974,8389114,6977898,1411216,344,5,9.11,89.92
+Vadodara,West,Gujarat,Hydrogen,Pharmaceutical,Nov,2024,1428,1251,5247945,4182406,1065539,498,1,9.49,93.41
+Pune,West,Maharashtra,Argon,Food & Beverage,Apr,2023,2511,2333,5624863,4474258,1150605,406,10,7.17,77.35
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Mar,2025,630,545,1438800,1172844,265956,130,6,8.68,96.51
+Bengaluru,South,Karnataka,Helium,Food & Beverage,Jan,2023,1719,1582,4791878,2841063,1950815,487,2,8.95,76.21
+Chennai,South,Tamil Nadu,Oxygen,Food & Beverage,Jan,2022,2496,2289,9609222,5325082,4284140,282,10,8.37,95.65
+Bengaluru,South,Karnataka,Hydrogen,Chemical,Sep,2024,1689,1360,3761760,2900704,861056,407,9,7.08,92.3
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Aug,2023,4069,3895,9192200,6799268,2392932,308,6,7.22,94.66
+Jamshedpur,East,Jharkhand,Argon,Steel,Feb,2023,2419,2079,5661117,3639978,2021139,174,9,8.49,85.62
+Hyderabad,South,Telangana,Hydrogen,Chemical,Apr,2023,3462,2867,10605033,8061495,2543538,395,10,7.46,98.06
+Pune,West,Maharashtra,Helium,Chemical,Jan,2022,2485,2374,7687012,6465027,1221985,336,8,7.59,76.83
+Pune,West,Maharashtra,Carbon Dioxide,Healthcare,Dec,2022,2886,2797,8444143,5497656,2946487,199,8,8.04,85.83
+Pune,West,Maharashtra,Oxygen,Chemical,Feb,2024,2691,2594,8116626,4811150,3305476,230,7,9.86,81.08
+Jamshedpur,East,Jharkhand,Oxygen,Steel,Jun,2023,2047,1778,7417816,5737313,1680503,238,7,8.34,89.07
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,Jun,2023,1768,1686,3511938,2791397,720541,178,8,8.7,75.21
+Jamshedpur,East,Jharkhand,Argon,Electronics,Aug,2022,3811,3321,10404693,7169150,3235543,490,8,9.87,78.36
+Pune,West,Maharashtra,Nitrogen,Food & Beverage,Nov,2025,969,877,3223852,2431071,792781,73,5,7.45,92.79
+Jamshedpur,East,Jharkhand,Argon,Chemical,Apr,2025,4238,3451,14059374,10735344,3324030,397,5,9.1,79.45
+Vadodara,West,Gujarat,Argon,Food & Beverage,Apr,2022,3083,2545,9159455,6710365,2449090,171,5,7.95,77.71
+Pune,West,Maharashtra,Oxygen,Steel,Mar,2025,3620,3426,7071264,4742007,2329257,52,6,7.16,81.53
+Hyderabad,South,Telangana,Nitrogen,Steel,Mar,2025,4575,3975,8681400,5986729,2694671,362,3,9.56,94.53
+Hyderabad,South,Telangana,Helium,Electronics,Feb,2023,2542,2136,4598808,3069269,1529539,426,4,7.85,93.53
+Chennai,South,Tamil Nadu,Helium,Pharmaceutical,Aug,2023,1296,1117,3084037,2481133,602904,192,4,9.45,84.07
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Aug,2022,2361,2003,5816712,3415880,2400832,402,8,9.49,89.8
+Hazira,West,Gujarat,Carbon Dioxide,Pharmaceutical,Sep,2023,3789,3196,8574868,5926414,2648454,102,10,9.29,86.24
+Pune,West,Maharashtra,Oxygen,Pharmaceutical,May,2022,4149,3440,12886240,10927741,1958499,124,9,8.4,83.78
+Vadodara,West,Gujarat,Carbon Dioxide,Chemical,Apr,2022,2974,2851,11814544,9272068,2542476,211,4,9.29,92.48
+Pune,West,Maharashtra,Oxygen,Chemical,Apr,2025,875,752,3094480,2181899,912581,270,10,8.22,88.8
+Chennai,South,Tamil Nadu,Argon,Electronics,Mar,2023,4984,4580,13620920,9890342,3730578,498,10,9.43,96.58
+Hyderabad,South,Telangana,Helium,Steel,Feb,2022,2407,2008,5702720,3767285,1935435,409,7,7.28,98.43
+Vadodara,West,Gujarat,Hydrogen,Steel,Mar,2023,1292,1034,2053524,1435574,617950,487,10,8.11,77.81
+Dahej,West,Gujarat,Argon,Steel,Feb,2022,1941,1894,6318384,4939417,1378967,452,8,9.8,93.18
+Chennai,South,Tamil Nadu,Oxygen,Electronics,Jan,2024,3869,3136,10486784,8429669,2057115,307,6,7.76,80.0
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Dec,2024,752,719,1369695,777820,591875,278,9,9.77,88.05
+Pune,West,Maharashtra,Argon,Electronics,Feb,2023,3385,2838,6371310,5291112,1080198,64,2,7.65,75.29
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Food & Beverage,Sep,2022,4731,3862,8538882,4847058,3691824,108,8,9.87,98.64
+Dahej,West,Gujarat,Nitrogen,Chemical,Aug,2024,4934,4127,11790839,9566772,2224067,448,6,7.39,76.27
+Bengaluru,South,Karnataka,Nitrogen,Electronics,May,2025,1886,1856,5365696,3676151,1689545,160,10,7.03,77.63
+Dahej,West,Gujarat,Helium,Electronics,Aug,2022,2635,2403,8931951,6690156,2241795,429,9,9.01,96.31
+Bengaluru,South,Karnataka,Argon,Chemical,Feb,2024,3992,3345,13844955,7720592,6124363,58,7,8.53,78.92
+Hyderabad,South,Telangana,Oxygen,Pharmaceutical,Dec,2024,3241,3001,6053017,3686806,2366211,227,6,9.82,82.14
+Jamshedpur,East,Jharkhand,Oxygen,Chemical,Nov,2022,2453,2025,6228900,4906089,1322811,500,1,8.01,86.87
+Chennai,South,Tamil Nadu,Argon,Steel,Nov,2024,1962,1633,5223967,4421069,802898,489,6,7.64,80.55
+Chennai,South,Tamil Nadu,Nitrogen,Steel,Oct,2023,3504,3295,6342875,4588305,1754570,217,9,8.13,88.31
+Hazira,West,Gujarat,Helium,Steel,Mar,2025,818,714,1723596,1240986,482610,198,2,8.71,92.67
+Chennai,South,Tamil Nadu,Argon,Food & Beverage,Dec,2024,3359,2970,9322830,6197991,3124839,463,7,8.41,82.34
+Chennai,South,Tamil Nadu,Nitrogen,Pharmaceutical,Oct,2025,3091,2646,9110178,5705468,3404710,455,5,9.34,92.22
+Jamshedpur,East,Jharkhand,Helium,Chemical,Feb,2023,1659,1564,3537768,2492470,1045298,433,8,8.15,96.7
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Food & Beverage,Apr,2022,906,804,2136228,1657280,478948,85,9,7.41,82.53
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Apr,2023,1708,1418,3698144,2266473,1431671,168,4,7.44,88.91
+Dahej,West,Gujarat,Hydrogen,Chemical,Aug,2022,3985,3594,7159248,4305349,2853899,169,2,7.97,97.59
+Vadodara,West,Gujarat,Hydrogen,Food & Beverage,Feb,2022,872,737,1741531,1397076,344455,324,6,7.18,88.13
+Vadodara,West,Gujarat,Helium,Food & Beverage,Oct,2024,1017,983,2144906,1257355,887551,105,3,7.46,93.39
+Pune,West,Maharashtra,Hydrogen,Healthcare,Nov,2023,1829,1697,3443213,2725641,717572,467,6,9.61,84.31
+Vadodara,West,Gujarat,Helium,Food & Beverage,Mar,2022,3964,3797,15693001,10822565,4870436,307,6,7.31,92.66
+Pune,West,Maharashtra,Nitrogen,Electronics,Oct,2023,3973,3182,11480656,9475494,2005162,391,2,8.51,89.0
+Chennai,South,Tamil Nadu,Carbon Dioxide,Healthcare,Aug,2022,3936,3719,9260310,5657660,3602650,360,9,7.21,76.98
+Pune,West,Maharashtra,Oxygen,Pharmaceutical,Apr,2025,938,800,2916000,1757964,1158036,401,8,8.22,94.93
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Food & Beverage,Apr,2024,3441,3052,9546656,6398475,3148181,285,9,8.63,96.84
+Jamshedpur,East,Jharkhand,Nitrogen,Healthcare,Aug,2024,4129,4036,11288692,6374096,4914596,65,9,7.35,94.33
+Jamshedpur,East,Jharkhand,Helium,Chemical,Jun,2025,3521,3240,11874600,8632611,3241989,368,7,9.75,75.79
+Pune,West,Maharashtra,Hydrogen,Steel,Jul,2022,864,806,2436538,1817167,619371,423,6,7.19,77.26
+Hyderabad,South,Telangana,Oxygen,Electronics,Apr,2022,1126,902,3642276,2794049,848227,97,4,8.51,80.01
+Dahej,West,Gujarat,Carbon Dioxide,Pharmaceutical,Sep,2024,2345,1998,7318674,5078476,2240198,167,8,9.25,81.28
+Vadodara,West,Gujarat,Helium,Food & Beverage,Feb,2024,967,818,2903900,2246573,657327,234,2,7.21,87.94
+Chennai,South,Tamil Nadu,Carbon Dioxide,Food & Beverage,Aug,2023,2104,1908,5010408,3713751,1296657,110,10,8.64,94.26
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Jan,2023,2546,2444,4704700,3771719,932981,338,7,9.34,87.79
+Hazira,West,Gujarat,Oxygen,Chemical,Oct,2022,1769,1424,4683536,3256689,1426847,420,10,8.98,98.58
+Jamshedpur,East,Jharkhand,Argon,Chemical,Apr,2025,1439,1153,2431677,1927630,504047,298,5,7.58,93.37
+Jamshedpur,East,Jharkhand,Argon,Steel,Feb,2022,1456,1318,3392532,2528962,863570,245,9,9.71,89.39
+Chennai,South,Tamil Nadu,Nitrogen,Steel,Oct,2025,3277,3059,5671386,3463639,2207747,451,9,7.63,92.94
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,Sep,2024,3210,3141,6973020,4001954,2971066,232,1,9.01,86.45
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Chemical,Jun,2022,4997,4041,10357083,7815617,2541466,76,10,7.87,88.68
+Chennai,South,Tamil Nadu,Carbon Dioxide,Chemical,Sep,2022,2380,2198,9060156,7348343,1711813,420,6,8.57,90.79
+Pune,West,Maharashtra,Oxygen,Electronics,Sep,2025,1573,1502,5679062,3162075,2516987,313,9,9.77,88.73
+Hazira,West,Gujarat,Oxygen,Steel,Feb,2022,1465,1263,4190634,2345947,1844687,91,10,9.76,81.88
+Hazira,West,Gujarat,Hydrogen,Pharmaceutical,Oct,2022,4314,3685,7156270,5438705,1717565,363,7,7.42,95.56
+Chennai,South,Tamil Nadu,Hydrogen,Steel,Apr,2022,1851,1638,5952492,4950011,1002481,451,2,8.24,87.17
+Vadodara,West,Gujarat,Nitrogen,Food & Beverage,Aug,2025,3230,3100,10360200,7159298,3200902,361,1,8.61,98.95
+Hazira,West,Gujarat,Helium,Pharmaceutical,Apr,2022,973,847,3083080,1816775,1266305,476,10,9.0,97.09
+Vadodara,West,Gujarat,Nitrogen,Electronics,May,2023,1328,1210,2974180,1865260,1108920,442,8,9.48,77.46
+Vadodara,West,Gujarat,Helium,Steel,Jan,2023,1550,1439,2844903,2360173,484730,188,9,9.7,92.94
+Bengaluru,South,Karnataka,Oxygen,Steel,Dec,2025,660,560,1827280,1539319,287961,287,6,9.16,97.37
+Hyderabad,South,Telangana,Oxygen,Electronics,Jun,2024,3973,3571,6774187,5448399,1325788,140,5,7.37,92.19
+Hazira,West,Gujarat,Argon,Food & Beverage,Feb,2025,4685,4388,10750600,8227484,2523116,412,9,8.21,77.41
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,May,2023,1542,1323,4424112,3560730,863382,369,7,9.65,80.59
+Hyderabad,South,Telangana,Argon,Food & Beverage,Jan,2023,2277,2130,6238770,3679605,2559165,120,9,8.97,78.27
+Hyderabad,South,Telangana,Nitrogen,Electronics,May,2023,4600,3753,14362731,9297225,5065506,361,10,8.37,91.08
+Bengaluru,South,Karnataka,Helium,Electronics,Sep,2022,3780,3082,7760476,4830198,2930278,97,9,7.99,93.9
+Vadodara,West,Gujarat,Nitrogen,Healthcare,Oct,2025,3444,2878,5957460,3892322,2065138,336,8,8.58,78.77
+Dahej,West,Gujarat,Helium,Food & Beverage,Jan,2023,4036,3442,10807880,8239086,2568794,257,2,7.06,95.28
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Apr,2022,3960,3170,12182310,9149563,3032747,52,8,8.79,94.85
+Dahej,West,Gujarat,Hydrogen,Chemical,Oct,2025,1298,1257,2832021,1941477,890544,261,6,7.33,78.69
+Pune,West,Maharashtra,Helium,Food & Beverage,Jul,2022,2856,2486,4877532,3752789,1124743,279,4,8.48,96.03
+Hazira,West,Gujarat,Hydrogen,Pharmaceutical,Jan,2024,3729,3195,9802260,8004250,1798010,159,9,9.31,97.68
+Vadodara,West,Gujarat,Helium,Steel,Sep,2024,868,852,1812204,1478490,333714,344,8,9.51,76.48
+Vadodara,West,Gujarat,Carbon Dioxide,Electronics,Dec,2024,4464,3573,10275948,7041190,3234758,354,5,7.94,96.85
+Chennai,South,Tamil Nadu,Nitrogen,Chemical,Jun,2025,1217,993,1973091,1375945,597146,440,8,7.46,89.67
+Hyderabad,South,Telangana,Carbon Dioxide,Electronics,May,2022,2347,2299,8812067,6797382,2014685,237,1,8.7,97.22
+Pune,West,Maharashtra,Nitrogen,Healthcare,Dec,2025,1213,1041,3083442,2595761,487681,498,10,8.95,87.03
+Dahej,West,Gujarat,Carbon Dioxide,Food & Beverage,Mar,2025,3388,3104,7977280,4668945,3308335,324,7,7.48,94.08
+Dahej,West,Gujarat,Helium,Chemical,Apr,2024,4395,3957,8305743,4646272,3659471,97,8,8.16,86.09
+Hazira,West,Gujarat,Helium,Electronics,Apr,2022,4987,4317,14876382,11827095,3049287,283,10,7.59,81.5
+Jamshedpur,East,Jharkhand,Helium,Pharmaceutical,Oct,2022,2186,1975,7994800,5150656,2844144,250,5,8.44,79.75
+Pune,West,Maharashtra,Oxygen,Healthcare,Nov,2023,3784,3504,13830288,9383502,4446786,197,2,8.73,93.34
+Hazira,West,Gujarat,Hydrogen,Chemical,Feb,2024,2612,2205,8398845,6926828,1472017,121,1,8.15,91.01
+Hazira,West,Gujarat,Oxygen,Electronics,Oct,2024,2476,2085,8415060,5888030,2527030,264,1,9.08,77.06
+Vadodara,West,Gujarat,Helium,Chemical,Nov,2024,1752,1504,4136000,2319925,1816075,221,2,7.55,82.22
+Dahej,West,Gujarat,Helium,Food & Beverage,Aug,2025,2444,2281,5362631,4129639,1232992,384,3,8.55,77.98
+Bengaluru,South,Karnataka,Nitrogen,Steel,Jan,2022,1904,1746,6723846,4180053,2543793,448,10,8.9,86.24
+Bengaluru,South,Karnataka,Nitrogen,Pharmaceutical,Jun,2024,4471,4369,10411327,8287909,2123418,199,7,8.23,87.9
+Hyderabad,South,Telangana,Helium,Electronics,Feb,2022,4312,3792,7386816,5996157,1390659,472,2,7.79,77.7
+Pune,West,Maharashtra,Carbon Dioxide,Steel,May,2025,4387,4221,16381701,12821162,3560539,371,10,9.0,91.97
+Pune,West,Maharashtra,Carbon Dioxide,Healthcare,Jun,2025,2935,2515,5346890,3538535,1808355,485,4,9.66,75.04
+Chennai,South,Tamil Nadu,Helium,Food & Beverage,Sep,2024,3443,2915,10931250,7326391,3604859,310,8,7.32,75.3
+Jamshedpur,East,Jharkhand,Nitrogen,Food & Beverage,Sep,2025,1638,1427,2838303,2243265,595038,388,8,9.82,80.85
+Hyderabad,South,Telangana,Argon,Chemical,Nov,2024,2455,2219,4322612,2762150,1560462,443,8,7.2,95.26
+Bengaluru,South,Karnataka,Hydrogen,Healthcare,Dec,2025,1639,1397,4346067,2401155,1944912,329,1,7.76,83.59
+Bengaluru,South,Karnataka,Carbon Dioxide,Healthcare,May,2023,2909,2416,9316096,5980086,3336010,388,8,9.88,81.0
+Jamshedpur,East,Jharkhand,Helium,Steel,Sep,2025,4352,3495,8482365,5457218,3025147,471,8,8.36,76.03
+Pune,West,Maharashtra,Oxygen,Chemical,Jan,2022,4176,3748,15666640,10927347,4739293,283,6,7.19,96.76
+Dahej,West,Gujarat,Nitrogen,Healthcare,Jun,2025,2240,1835,3675505,2464974,1210531,115,2,7.9,80.14
+Pune,West,Maharashtra,Argon,Healthcare,Sep,2023,4180,3765,11362770,6266166,5096604,423,9,8.33,87.39
+Pune,West,Maharashtra,Helium,Pharmaceutical,Nov,2025,4825,4525,18471050,15323575,3147475,465,3,8.08,93.18
+Vadodara,West,Gujarat,Oxygen,Electronics,Dec,2023,4209,4134,16283826,9853027,6430799,162,8,7.12,75.4
+Vadodara,West,Gujarat,Carbon Dioxide,Electronics,Nov,2024,3041,2813,9744232,7014503,2729729,81,10,9.75,88.71
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,Jan,2022,4990,4527,14097078,10295918,3801160,458,4,9.41,88.29
+Chennai,South,Tamil Nadu,Oxygen,Food & Beverage,Jan,2025,4950,4532,17062980,9559929,7503051,476,3,7.21,88.4
+Bengaluru,South,Karnataka,Oxygen,Pharmaceutical,Aug,2023,1334,1251,2851029,1773859,1077170,180,9,9.22,90.36
+Pune,West,Maharashtra,Carbon Dioxide,Healthcare,Mar,2025,4687,4182,14565906,8194652,6371254,301,6,9.84,95.69
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,Sep,2025,2475,2348,8802652,6855546,1947106,376,4,8.44,96.56
+Chennai,South,Tamil Nadu,Helium,Electronics,Mar,2025,4883,4663,17309056,11351979,5957077,321,3,8.95,78.83
+Bengaluru,South,Karnataka,Carbon Dioxide,Electronics,Mar,2024,4882,4378,8125568,5178845,2946723,386,4,7.62,85.31
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Apr,2025,2632,2261,6660906,4063502,2597404,417,3,8.14,95.86
+Bengaluru,South,Karnataka,Argon,Healthcare,Aug,2023,2145,1826,7070272,4315296,2754976,122,10,9.49,94.16
+Hyderabad,South,Telangana,Carbon Dioxide,Food & Beverage,Oct,2022,4057,3448,13029992,10535537,2494455,247,7,7.63,84.84
+Dahej,West,Gujarat,Carbon Dioxide,Electronics,Feb,2024,3775,3185,9768395,6642295,3126100,176,4,8.56,79.16
+Bengaluru,South,Karnataka,Nitrogen,Pharmaceutical,Apr,2022,2246,2206,4862024,3569606,1292418,449,9,8.14,83.59
+Vadodara,West,Gujarat,Oxygen,Healthcare,Dec,2022,2528,2364,7250388,5262005,1988383,365,7,9.27,93.51
+Hyderabad,South,Telangana,Oxygen,Healthcare,Mar,2024,4887,4492,9505072,5800881,3704191,434,6,8.59,98.67
+Pune,West,Maharashtra,Hydrogen,Healthcare,Mar,2025,1094,1027,3825575,2866185,959390,118,5,9.11,77.41
+Vadodara,West,Gujarat,Oxygen,Healthcare,Nov,2022,4833,4356,17929296,11707206,6222090,454,9,9.48,93.02
+Pune,West,Maharashtra,Carbon Dioxide,Pharmaceutical,Oct,2023,4498,4043,8777353,5403160,3374193,96,1,8.0,83.43
+Dahej,West,Gujarat,Helium,Steel,Aug,2023,1991,1723,6254490,3994625,2259865,88,2,8.24,91.11
+Hazira,West,Gujarat,Oxygen,Chemical,Jun,2023,1083,1042,3434432,2835538,598894,53,8,7.45,83.83
+Hyderabad,South,Telangana,Helium,Healthcare,Dec,2025,2524,2488,7867056,4918157,2948899,228,8,7.8,87.4
+Pune,West,Maharashtra,Nitrogen,Pharmaceutical,Aug,2024,1515,1405,2530405,2088556,441849,392,6,7.93,90.44
+Dahej,West,Gujarat,Helium,Steel,Jul,2025,4876,4557,12331242,7599208,4732034,137,3,8.32,93.74
+Chennai,South,Tamil Nadu,Oxygen,Electronics,Aug,2025,4748,3844,13154168,8932540,4221628,200,7,9.41,82.61
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,May,2022,1492,1287,3499353,2765221,734132,193,5,7.3,80.89
+Dahej,West,Gujarat,Carbon Dioxide,Pharmaceutical,Jul,2023,4293,3785,7433740,4641152,2792588,105,6,8.45,87.45
+Dahej,West,Gujarat,Carbon Dioxide,Pharmaceutical,Jul,2022,625,523,2181956,1779368,402588,145,10,7.5,85.64
+Pune,West,Maharashtra,Argon,Food & Beverage,Mar,2025,4788,4407,13741026,8428933,5312093,138,9,9.33,86.21
+Vadodara,West,Gujarat,Hydrogen,Chemical,Sep,2023,2231,1881,6495093,4040847,2454246,211,1,7.11,95.04
+Hazira,West,Gujarat,Argon,Healthcare,Sep,2024,2548,2490,6220020,4873750,1346270,107,7,8.89,80.39
+Jamshedpur,East,Jharkhand,Hydrogen,Healthcare,Nov,2022,1030,976,2069120,1568027,501093,365,1,7.34,76.33
+Pune,West,Maharashtra,Oxygen,Food & Beverage,Oct,2024,653,561,1804737,1078393,726344,87,9,7.63,83.38
+Hazira,West,Gujarat,Oxygen,Steel,Jul,2024,4857,4626,11958210,6669730,5288480,205,2,9.14,96.44
+Hazira,West,Gujarat,Carbon Dioxide,Pharmaceutical,Jan,2023,3473,3271,6470038,4690438,1779600,439,1,8.08,85.18
+Chennai,South,Tamil Nadu,Hydrogen,Food & Beverage,Sep,2024,2486,2185,8027690,5876481,2151209,211,3,9.42,96.5
+Hyderabad,South,Telangana,Hydrogen,Steel,May,2023,4185,3614,12092444,7580776,4511668,374,10,8.29,97.56
+Hazira,West,Gujarat,Hydrogen,Electronics,Oct,2025,856,735,1969800,1245184,724616,345,2,7.83,94.15
+Hazira,West,Gujarat,Helium,Chemical,Mar,2022,2800,2734,8177394,5060863,3116531,226,6,9.46,90.05
+Hazira,West,Gujarat,Oxygen,Chemical,May,2022,1456,1213,4098727,3473163,625564,90,9,9.0,86.93
+Dahej,West,Gujarat,Argon,Steel,Jan,2023,1126,1016,3559048,2882817,676231,84,7,8.35,90.42
+Chennai,South,Tamil Nadu,Carbon Dioxide,Food & Beverage,Oct,2023,1772,1571,3660430,2924800,735630,206,9,9.51,80.79
+Pune,West,Maharashtra,Nitrogen,Food & Beverage,Jul,2022,2069,1687,3063592,2056418,1007174,253,2,7.68,79.65
+Chennai,South,Tamil Nadu,Hydrogen,Chemical,May,2023,1344,1113,2859297,1593388,1265909,218,2,8.52,75.77
+Hazira,West,Gujarat,Nitrogen,Steel,Apr,2025,4523,4068,8294652,4664073,3630579,73,2,8.54,95.23
+Vadodara,West,Gujarat,Carbon Dioxide,Food & Beverage,May,2023,1053,910,2327780,1361178,966602,475,9,7.64,93.39
+Hyderabad,South,Telangana,Oxygen,Chemical,Mar,2025,2973,2780,8901560,5337969,3563591,432,3,9.49,96.54
+Vadodara,West,Gujarat,Argon,Pharmaceutical,Feb,2022,1360,1271,3427887,1945289,1482598,365,2,9.47,86.49
+Hyderabad,South,Telangana,Argon,Pharmaceutical,May,2025,1758,1545,5348790,3837015,1511775,275,2,7.77,96.43
+Jamshedpur,East,Jharkhand,Argon,Healthcare,Jun,2023,3400,2774,8463474,6279292,2184182,252,2,7.65,88.64
+Pune,West,Maharashtra,Helium,Food & Beverage,Dec,2024,1922,1754,5400566,3048181,2352385,459,1,8.32,95.08
+Hazira,West,Gujarat,Carbon Dioxide,Healthcare,Feb,2025,1580,1445,2956470,2214667,741803,472,2,7.65,79.16
+Bengaluru,South,Karnataka,Carbon Dioxide,Healthcare,Aug,2022,3924,3601,10291658,6966095,3325563,363,10,8.49,94.84
+Pune,West,Maharashtra,Hydrogen,Steel,Jan,2023,3749,3667,11092675,7168927,3923748,299,8,9.04,88.89
+Vadodara,West,Gujarat,Hydrogen,Healthcare,Apr,2023,4839,3981,14080797,9262451,4818346,90,5,9.53,93.25
+Bengaluru,South,Karnataka,Carbon Dioxide,Chemical,Nov,2024,4969,4571,17484075,14510499,2973576,228,2,8.63,75.3
+Hazira,West,Gujarat,Oxygen,Chemical,Jan,2023,1743,1548,3227580,2553539,674041,175,3,9.75,81.32
+Dahej,West,Gujarat,Carbon Dioxide,Healthcare,Dec,2023,3957,3879,10616823,6432802,4184021,296,2,9.19,93.42
+Vadodara,West,Gujarat,Argon,Chemical,Feb,2025,4170,3647,14143066,11386569,2756497,247,10,7.61,83.2
+Hazira,West,Gujarat,Argon,Food & Beverage,May,2023,3829,3477,9426147,7040244,2385903,423,2,7.27,86.76
+Chennai,South,Tamil Nadu,Hydrogen,Chemical,Mar,2023,3054,2823,9824040,6123205,3700835,462,7,7.48,86.7
+Chennai,South,Tamil Nadu,Helium,Steel,Jun,2025,653,586,1850588,1225665,624923,65,3,8.09,93.16
+Hazira,West,Gujarat,Hydrogen,Electronics,May,2022,1802,1645,5599580,3336218,2263362,149,8,7.37,85.01
+Hyderabad,South,Telangana,Nitrogen,Food & Beverage,Nov,2025,1446,1379,2904174,2326480,577694,134,4,9.78,87.5
+Hazira,West,Gujarat,Argon,Electronics,Sep,2023,1942,1870,5336980,3134570,2202410,463,8,8.58,88.32
+Hazira,West,Gujarat,Oxygen,Healthcare,Oct,2025,2876,2730,5203380,2883080,2320300,237,7,8.56,84.67
+Pune,West,Maharashtra,Hydrogen,Pharmaceutical,Aug,2025,1166,1136,2398096,1659917,738179,470,1,8.4,82.12
+Dahej,West,Gujarat,Oxygen,Pharmaceutical,Jul,2025,1632,1586,6539078,3841812,2697266,455,5,7.07,87.65
+Chennai,South,Tamil Nadu,Nitrogen,Food & Beverage,Dec,2025,4646,4164,8236392,4561353,3675039,179,5,7.6,98.95
+Hyderabad,South,Telangana,Oxygen,Chemical,Mar,2024,981,799,2571182,1746071,825111,150,4,9.62,90.77
+Hazira,West,Gujarat,Nitrogen,Chemical,May,2025,4441,3658,13150510,10426456,2724054,124,5,7.63,89.28
+Pune,West,Maharashtra,Helium,Healthcare,Apr,2024,2582,2545,6219980,3840982,2378998,115,5,7.4,76.66
+Pune,West,Maharashtra,Carbon Dioxide,Food & Beverage,Mar,2024,4412,3786,11816106,7285878,4530228,288,2,8.61,78.7
+Bengaluru,South,Karnataka,Nitrogen,Chemical,Mar,2023,2382,1912,5145192,3436854,1708338,392,1,7.7,91.95
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,May,2022,2824,2538,6900822,4820309,2080513,300,8,7.49,94.26
+Bengaluru,South,Karnataka,Argon,Electronics,Feb,2024,4923,4600,17710000,13254855,4455145,284,1,7.01,92.99
+Vadodara,West,Gujarat,Hydrogen,Healthcare,Jun,2025,4381,3969,7890372,6478289,1412083,143,9,7.73,86.01
+Vadodara,West,Gujarat,Helium,Chemical,Feb,2022,2551,2045,4280185,3376332,903853,278,4,9.71,80.42
+Bengaluru,South,Karnataka,Carbon Dioxide,Food & Beverage,Jul,2024,4751,4376,17083904,10288420,6795484,423,10,8.84,86.29
+Chennai,South,Tamil Nadu,Argon,Electronics,Oct,2022,4730,4545,9767205,6344441,3422764,308,7,9.5,92.37
+Dahej,West,Gujarat,Argon,Electronics,Nov,2022,2516,2205,5898375,5006568,891807,319,7,9.49,91.87
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Pharmaceutical,Jun,2023,3943,3371,9243282,5190333,4052949,393,9,7.1,80.65
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,Jun,2025,1977,1611,5925258,4227920,1697338,354,3,9.67,84.22
+Jamshedpur,East,Jharkhand,Nitrogen,Chemical,Aug,2023,2071,2008,5421600,3924097,1497503,89,8,9.6,94.73
+Jamshedpur,East,Jharkhand,Nitrogen,Chemical,May,2024,1948,1569,3379626,2551451,828175,333,9,8.9,75.16
+Pune,West,Maharashtra,Nitrogen,Electronics,Aug,2023,3129,2968,9111760,5854263,3257497,460,5,7.83,95.05
+Bengaluru,South,Karnataka,Nitrogen,Electronics,Aug,2024,3595,3180,12656400,9296810,3359590,184,9,8.5,98.68
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Oct,2023,3065,2854,6495704,3955189,2540515,254,7,9.3,89.51
+Chennai,South,Tamil Nadu,Oxygen,Chemical,Aug,2025,1278,1153,2174558,1779795,394763,389,10,7.9,81.41
+Hyderabad,South,Telangana,Helium,Steel,Sep,2025,2435,2206,5748836,3318739,2430097,175,10,8.84,76.56
+Jamshedpur,East,Jharkhand,Hydrogen,Healthcare,Dec,2023,3154,2607,4729098,3653984,1075114,134,9,7.07,75.86
+Hazira,West,Gujarat,Helium,Healthcare,Oct,2025,886,837,1852281,1045646,806635,197,6,9.03,93.1
+Dahej,West,Gujarat,Argon,Pharmaceutical,Dec,2023,3033,2821,11848200,6595815,5252385,456,6,7.81,89.3
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,Mar,2022,4603,4553,15147831,11463232,3684599,217,5,7.29,93.09
+Bengaluru,South,Karnataka,Nitrogen,Steel,Dec,2025,4764,4200,11629800,7443765,4186035,192,6,8.73,92.17
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Sep,2024,1257,1027,2325128,1720585,604543,434,4,8.58,87.1
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Electronics,Jan,2022,1226,1164,3078780,2260952,817828,420,4,9.05,87.24
+Hazira,West,Gujarat,Carbon Dioxide,Pharmaceutical,Jan,2022,4545,4339,11979979,7689716,4290263,247,4,7.46,88.3
+Pune,West,Maharashtra,Carbon Dioxide,Electronics,Mar,2025,4209,3543,8403996,5619727,2784269,75,10,7.38,97.08
+Jamshedpur,East,Jharkhand,Hydrogen,Food & Beverage,May,2024,3381,2823,5699637,3839057,1860580,158,9,9.35,82.32
+Hyderabad,South,Telangana,Nitrogen,Food & Beverage,Jun,2022,1996,1672,3974344,2673798,1300546,353,6,7.23,90.48
+Hyderabad,South,Telangana,Oxygen,Food & Beverage,Sep,2022,2118,1982,6760602,5384192,1376410,62,3,8.13,91.11
+Hyderabad,South,Telangana,Oxygen,Steel,Sep,2022,2833,2354,8582684,4743647,3839037,144,5,9.67,84.77
+Pune,West,Maharashtra,Nitrogen,Pharmaceutical,Mar,2025,3474,3374,8674554,7267777,1406777,268,10,9.8,80.36
+Pune,West,Maharashtra,Argon,Steel,Sep,2022,1614,1348,4615552,2725518,1890034,351,7,8.22,76.08
+Chennai,South,Tamil Nadu,Nitrogen,Healthcare,Mar,2023,3847,3769,11917578,7243630,4673948,186,9,8.24,78.92
+Chennai,South,Tamil Nadu,Nitrogen,Food & Beverage,May,2024,1946,1891,6900259,5347774,1552485,138,8,7.32,87.76
+Pune,West,Maharashtra,Carbon Dioxide,Steel,Aug,2024,2383,2172,8433876,6027193,2406683,422,1,8.22,93.58
+Bengaluru,South,Karnataka,Argon,Chemical,Sep,2022,2741,2690,9961070,8137107,1823963,455,6,9.25,84.6
+Dahej,West,Gujarat,Oxygen,Pharmaceutical,Jul,2023,4231,4161,13718817,9067790,4651027,182,4,7.19,84.55
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Jan,2023,1151,1115,2565615,1449849,1115766,389,1,7.7,80.59
+Bengaluru,South,Karnataka,Argon,Electronics,Dec,2022,1439,1266,3287802,1818841,1468961,62,6,7.79,90.0
+Hazira,West,Gujarat,Hydrogen,Steel,Mar,2022,4581,4150,9428800,6676027,2752773,477,1,9.66,98.54
+Hazira,West,Gujarat,Oxygen,Food & Beverage,Jan,2022,3553,3082,7834444,4326762,3507682,245,4,9.28,94.97
+Hazira,West,Gujarat,Nitrogen,Chemical,Mar,2024,3062,2473,7606948,5564563,2042385,405,7,7.64,83.84
+Dahej,West,Gujarat,Helium,Healthcare,Sep,2025,2903,2705,9161835,7344112,1817723,465,1,8.62,81.28
+Hazira,West,Gujarat,Oxygen,Food & Beverage,Feb,2025,4389,4136,16829384,10524658,6304726,479,1,8.04,97.71
+Pune,West,Maharashtra,Nitrogen,Healthcare,Jan,2025,3678,3330,7399260,4539882,2859378,407,9,8.69,97.04
+Bengaluru,South,Karnataka,Nitrogen,Healthcare,Aug,2025,2095,1878,4063992,3221447,842545,148,4,9.45,80.21
+Chennai,South,Tamil Nadu,Helium,Chemical,Nov,2024,3154,3035,5872725,4107502,1765223,164,8,8.92,97.05
+Dahej,West,Gujarat,Nitrogen,Pharmaceutical,Sep,2022,4973,4277,8087807,4989820,3097987,179,2,8.39,82.92
+Pune,West,Maharashtra,Carbon Dioxide,Healthcare,Sep,2023,3933,3295,11341390,9436331,1905059,323,6,8.03,77.99
+Bengaluru,South,Karnataka,Nitrogen,Steel,Dec,2022,1843,1698,5890362,4979406,910956,426,6,8.48,76.6
+Jamshedpur,East,Jharkhand,Hydrogen,Healthcare,Apr,2024,1014,973,2076382,1611474,464908,471,8,7.17,93.72
+Hazira,West,Gujarat,Nitrogen,Steel,May,2025,2162,1819,6391966,3948096,2443870,437,3,8.05,82.89
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,Nov,2022,4919,4588,15544144,11745419,3798725,177,2,9.79,95.46
+Pune,West,Maharashtra,Argon,Healthcare,Apr,2022,4987,4150,8432800,5190245,3242555,178,2,9.49,77.25
+Hyderabad,South,Telangana,Argon,Chemical,Sep,2023,2992,2667,8649081,6739551,1909530,293,2,9.06,87.84
+Dahej,West,Gujarat,Argon,Electronics,Jul,2023,3294,3188,6321804,3979214,2342590,318,5,7.39,80.04
+Hyderabad,South,Telangana,Helium,Food & Beverage,Aug,2023,4296,4077,12756933,10535059,2221874,83,4,8.63,75.57
+Vadodara,West,Gujarat,Oxygen,Electronics,Apr,2025,1389,1310,3314300,2219335,1094965,426,6,7.62,93.43
+Chennai,South,Tamil Nadu,Oxygen,Steel,Apr,2023,1840,1736,4044880,2277044,1767836,372,6,8.07,91.38
+Chennai,South,Tamil Nadu,Oxygen,Chemical,Jun,2023,4013,3699,10457073,8185049,2272024,398,4,8.93,84.49
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Oct,2022,4809,4519,8504758,6380859,2123899,85,10,8.15,95.67
+Pune,West,Maharashtra,Helium,Healthcare,Dec,2023,2126,1875,4856250,2693434,2162816,312,6,7.23,84.8
+Bengaluru,South,Karnataka,Hydrogen,Steel,Mar,2024,3665,3173,12777671,9803627,2974044,238,6,7.06,93.47
+Dahej,West,Gujarat,Argon,Chemical,Nov,2024,1522,1368,2786616,2020661,765955,492,1,7.8,79.95
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Electronics,Jun,2023,3986,3891,8824788,7222894,1601894,495,2,8.46,86.27
+Chennai,South,Tamil Nadu,Helium,Food & Beverage,Dec,2023,3704,3196,8405480,6490590,1914890,484,2,8.8,83.47
+Hazira,West,Gujarat,Hydrogen,Chemical,Dec,2022,1679,1618,3422070,2110950,1311120,362,3,7.76,97.16
+Jamshedpur,East,Jharkhand,Helium,Steel,Sep,2022,3759,3671,12308863,8549081,3759782,493,3,8.12,80.12
+Bengaluru,South,Karnataka,Helium,Steel,Jul,2024,723,666,1623042,909632,713410,94,6,7.06,81.92
+Jamshedpur,East,Jharkhand,Helium,Electronics,Feb,2024,2719,2262,6405984,4573783,1832201,86,9,9.89,86.38
+Hyderabad,South,Telangana,Oxygen,Electronics,Apr,2023,3433,3003,7002996,5337213,1665783,114,4,9.06,78.68
+Jamshedpur,East,Jharkhand,Oxygen,Pharmaceutical,Nov,2022,753,681,2190777,1692588,498189,364,8,8.81,93.32
+Chennai,South,Tamil Nadu,Hydrogen,Steel,May,2024,4036,3514,9554566,7520925,2033641,425,8,8.9,89.01
+Dahej,West,Gujarat,Argon,Healthcare,Apr,2025,1178,1133,3627866,2846725,781141,369,5,8.64,75.22
+Bengaluru,South,Karnataka,Helium,Steel,Jan,2023,4866,3944,9441936,5573886,3868050,377,3,9.65,81.36
+Hyderabad,South,Telangana,Hydrogen,Electronics,Mar,2023,2951,2486,6553096,5250560,1302536,244,6,9.33,92.05
+Pune,West,Maharashtra,Oxygen,Healthcare,Dec,2024,1480,1443,2877342,2413870,463472,84,9,7.26,86.0
+Hazira,West,Gujarat,Carbon Dioxide,Food & Beverage,Sep,2024,3022,2541,8176938,6805629,1371309,150,7,8.78,81.79
+Bengaluru,South,Karnataka,Helium,Pharmaceutical,Dec,2022,2041,2018,7615932,5086279,2529653,257,10,9.87,76.65
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,Sep,2025,607,486,1548396,1222756,325640,350,9,9.01,86.61
+Hazira,West,Gujarat,Oxygen,Chemical,Jul,2025,2927,2706,8859444,5230273,3629171,303,10,7.19,86.12
+Pune,West,Maharashtra,Helium,Steel,Dec,2025,760,618,2121594,1479961,641633,249,9,7.39,90.88
+Vadodara,West,Gujarat,Argon,Electronics,Apr,2022,3183,2612,5216164,3908448,1307716,220,6,8.05,81.91
+Bengaluru,South,Karnataka,Hydrogen,Chemical,Aug,2024,3353,3117,10226877,7836034,2390843,100,6,9.65,83.55
+Vadodara,West,Gujarat,Helium,Electronics,Dec,2022,1561,1458,5689116,3359703,2329413,203,6,7.63,85.85
+Vadodara,West,Gujarat,Hydrogen,Chemical,Apr,2023,1261,1149,4481100,3150125,1330975,244,2,9.9,76.06
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,May,2023,601,568,1357520,1067498,290022,128,6,8.0,77.89
+Bengaluru,South,Karnataka,Carbon Dioxide,Electronics,Sep,2025,2676,2220,6451320,3904417,2546903,169,7,9.3,78.68
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Feb,2024,4489,3758,7260456,5485690,1774766,294,3,9.56,79.52
+Chennai,South,Tamil Nadu,Nitrogen,Steel,Sep,2024,1795,1657,4699252,2966863,1732389,118,1,8.49,94.54
+Bengaluru,South,Karnataka,Nitrogen,Healthcare,Mar,2023,4358,4291,16837884,9304342,7533542,337,9,7.19,90.57
+Chennai,South,Tamil Nadu,Nitrogen,Chemical,Sep,2024,751,672,1256640,725764,530876,61,6,9.32,75.02
+Bengaluru,South,Karnataka,Argon,Steel,Mar,2024,1465,1445,5865255,4828814,1036441,106,1,7.48,77.98
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,Apr,2024,2327,1966,3985082,2691966,1293116,164,8,7.49,80.3
+Jamshedpur,East,Jharkhand,Helium,Electronics,Oct,2023,3200,2885,8908880,7465975,1442905,440,5,8.86,81.42
+Hyderabad,South,Telangana,Argon,Food & Beverage,May,2023,2200,2020,7116460,4361765,2754695,288,1,8.92,94.01
+Hyderabad,South,Telangana,Helium,Chemical,Sep,2025,2755,2242,9026292,7524952,1501340,499,3,7.29,86.75
+Bengaluru,South,Karnataka,Oxygen,Steel,Jun,2023,4586,4354,15887746,13236478,2651268,410,5,7.53,82.09
+Vadodara,West,Gujarat,Oxygen,Pharmaceutical,Jan,2023,2902,2642,9075270,6910451,2164819,118,5,7.44,94.63
+Dahej,West,Gujarat,Helium,Electronics,May,2023,3474,3432,12338040,9298387,3039653,474,5,7.65,90.82
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Nov,2023,2947,2637,6661062,5364632,1296430,54,5,9.07,88.29
+Hyderabad,South,Telangana,Helium,Steel,Jul,2022,793,731,1432029,1034780,397249,308,7,8.39,93.73
+Hyderabad,South,Telangana,Argon,Healthcare,Jan,2023,1354,1285,4575885,3074034,1501851,195,2,7.69,89.79
+Chennai,South,Tamil Nadu,Helium,Electronics,Sep,2025,739,653,2510785,1488418,1022367,376,9,7.5,94.36
+Hyderabad,South,Telangana,Helium,Chemical,Aug,2022,2627,2148,6177648,4823335,1354313,242,9,9.68,93.19
+Jamshedpur,East,Jharkhand,Oxygen,Electronics,Jun,2024,4315,3910,8300930,5851742,2449188,484,6,8.36,78.3
+Chennai,South,Tamil Nadu,Hydrogen,Electronics,Dec,2022,4145,3720,12119760,8347233,3772527,457,2,8.02,81.05
+Bengaluru,South,Karnataka,Helium,Steel,Dec,2022,2531,2464,5423264,3993407,1429857,338,7,8.7,93.89
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,Apr,2025,2877,2587,10725702,6471696,4254006,306,10,9.66,76.78
+Chennai,South,Tamil Nadu,Hydrogen,Pharmaceutical,Nov,2023,4692,4247,13857961,8230054,5627907,231,6,7.78,84.39
+Vadodara,West,Gujarat,Oxygen,Healthcare,Sep,2023,2025,1835,5473805,4276159,1197646,286,8,8.94,97.89
+Hazira,West,Gujarat,Hydrogen,Steel,Oct,2025,4782,4501,18719659,14213399,4506260,338,2,7.92,79.69
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,Mar,2022,2424,2199,8191275,5963896,2227379,85,3,7.4,88.73
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,Jul,2023,2109,1924,5248672,2888916,2359756,219,3,8.85,92.4
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Apr,2024,2455,2377,9519885,5856191,3663694,477,9,7.25,84.56
+Chennai,South,Tamil Nadu,Helium,Food & Beverage,Jan,2022,3469,2979,7238970,5920907,1318063,270,2,7.91,85.31
+Hyderabad,South,Telangana,Nitrogen,Pharmaceutical,Sep,2025,4503,4070,12910040,9829545,3080495,304,3,9.51,78.7
+Bengaluru,South,Karnataka,Carbon Dioxide,Electronics,Aug,2023,1644,1524,6295644,4087504,2208140,182,7,7.04,91.45
+Vadodara,West,Gujarat,Hydrogen,Healthcare,Jan,2025,1373,1234,2517360,1581908,935452,220,6,8.12,92.18
+Hyderabad,South,Telangana,Nitrogen,Steel,Jul,2025,4998,4574,18904342,14705986,4198356,405,10,7.78,84.62
+Hyderabad,South,Telangana,Hydrogen,Steel,Jun,2025,1827,1486,3716486,2894879,821607,205,6,8.84,98.18
+Pune,West,Maharashtra,Oxygen,Chemical,Feb,2023,667,621,2062962,1706978,355984,117,5,8.62,86.26
+Jamshedpur,East,Jharkhand,Nitrogen,Food & Beverage,Jan,2024,4014,3946,8981096,5469651,3511445,121,3,8.33,90.01
+Bengaluru,South,Karnataka,Carbon Dioxide,Chemical,May,2022,2909,2417,4892008,2939294,1952714,322,1,9.21,79.54
+Bengaluru,South,Karnataka,Hydrogen,Healthcare,Nov,2025,1394,1194,4910922,3572321,1338601,78,7,7.64,82.08
+Chennai,South,Tamil Nadu,Argon,Electronics,Jun,2024,911,883,2813238,2236845,576393,493,3,8.05,93.7
+Hazira,West,Gujarat,Argon,Pharmaceutical,Oct,2023,2236,2014,7254428,5330292,1924136,381,4,8.1,88.0
+Vadodara,West,Gujarat,Nitrogen,Steel,Jan,2022,663,554,1688592,1258493,430099,500,10,8.19,79.78
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Dec,2024,4446,3826,12013640,10205566,1808074,55,4,9.05,93.91
+Dahej,West,Gujarat,Argon,Healthcare,Aug,2025,3487,3036,11388036,8334750,3053286,270,10,7.97,79.69
+Vadodara,West,Gujarat,Carbon Dioxide,Chemical,May,2025,860,690,2699970,1638081,1061889,365,7,7.27,77.4
+Hazira,West,Gujarat,Helium,Electronics,May,2023,2165,2097,6597162,5128526,1468636,167,10,9.24,80.75
+Chennai,South,Tamil Nadu,Oxygen,Electronics,Oct,2025,1811,1509,4628103,3306233,1321870,196,1,9.4,87.67
+Dahej,West,Gujarat,Argon,Electronics,Feb,2025,2914,2739,5864199,4207695,1656504,496,5,9.03,79.54
+Dahej,West,Gujarat,Helium,Steel,Dec,2023,898,888,1942056,1629734,312322,416,10,8.86,95.08
+Chennai,South,Tamil Nadu,Helium,Electronics,Apr,2022,2448,2291,7842093,5936918,1905175,85,1,9.38,82.37
+Bengaluru,South,Karnataka,Nitrogen,Pharmaceutical,Feb,2025,2668,2480,4483840,2802414,1681426,199,10,9.54,84.2
+Jamshedpur,East,Jharkhand,Oxygen,Healthcare,Apr,2025,1382,1242,2354832,1696125,658707,443,6,9.16,76.54
+Vadodara,West,Gujarat,Nitrogen,Chemical,Aug,2024,3363,3243,13166580,9495207,3671373,186,3,9.18,83.42
+Chennai,South,Tamil Nadu,Carbon Dioxide,Healthcare,Jan,2022,2870,2594,10233330,7126212,3107118,179,1,8.23,83.79
+Dahej,West,Gujarat,Argon,Pharmaceutical,Dec,2025,1514,1241,3696939,2186795,1510144,327,5,8.96,78.19
+Bengaluru,South,Karnataka,Argon,Pharmaceutical,May,2022,2288,2040,7297080,4737348,2559732,309,6,8.91,83.37
+Hazira,West,Gujarat,Carbon Dioxide,Pharmaceutical,Aug,2024,939,859,2325313,1317395,1007918,261,4,9.33,98.96
+Jamshedpur,East,Jharkhand,Nitrogen,Electronics,Apr,2022,898,803,3026507,2096100,930407,349,4,9.53,79.49
+Jamshedpur,East,Jharkhand,Hydrogen,Food & Beverage,Aug,2023,3110,2555,6888280,5738027,1150253,196,7,7.31,90.8
+Dahej,West,Gujarat,Nitrogen,Pharmaceutical,Mar,2022,1244,1139,2444294,2051189,393105,210,2,8.3,81.45
+Vadodara,West,Gujarat,Hydrogen,Pharmaceutical,Apr,2022,2621,2496,9225216,7773624,1451592,416,3,9.71,75.0
+Jamshedpur,East,Jharkhand,Oxygen,Steel,May,2023,3085,2871,8222544,6870832,1351712,302,8,9.13,84.58
+Bengaluru,South,Karnataka,Argon,Steel,Apr,2022,4188,3424,12175744,7899418,4276326,134,3,9.71,95.84
+Vadodara,West,Gujarat,Nitrogen,Electronics,Apr,2023,1464,1442,3235848,2104211,1131637,71,4,9.64,89.59
+Jamshedpur,East,Jharkhand,Nitrogen,Electronics,Dec,2024,4409,4253,11006764,6195348,4811416,373,9,9.18,76.24
+Dahej,West,Gujarat,Nitrogen,Chemical,Dec,2023,1571,1488,4779456,3064946,1714510,402,8,9.71,81.88
+Jamshedpur,East,Jharkhand,Nitrogen,Pharmaceutical,Mar,2025,2664,2337,5823804,3831241,1992563,258,10,7.19,80.54
+Pune,West,Maharashtra,Hydrogen,Electronics,Mar,2024,4605,3902,13407272,11300873,2106399,405,3,8.76,80.4
+Bengaluru,South,Karnataka,Helium,Healthcare,Dec,2023,1015,1002,2128248,1478356,649892,206,5,8.28,97.07
+Jamshedpur,East,Jharkhand,Helium,Electronics,Dec,2024,3500,3032,9875224,8031304,1843920,493,1,9.81,89.51
+Hazira,West,Gujarat,Helium,Electronics,Nov,2022,1223,1185,2812005,2130630,681375,390,1,8.11,98.17
+Hyderabad,South,Telangana,Carbon Dioxide,Pharmaceutical,Mar,2022,1216,1191,4167309,2774350,1392959,497,9,8.2,75.79
+Dahej,West,Gujarat,Hydrogen,Healthcare,May,2025,2683,2258,6153050,3605093,2547957,92,1,8.36,85.85
+Hazira,West,Gujarat,Nitrogen,Food & Beverage,Oct,2025,4489,4318,13450570,9833510,3617060,199,7,7.48,91.41
+Bengaluru,South,Karnataka,Carbon Dioxide,Chemical,Oct,2022,505,444,1381728,813449,568279,453,10,7.28,90.82
+Bengaluru,South,Karnataka,Hydrogen,Chemical,May,2022,4134,3892,16276344,9010372,7265972,127,1,7.33,77.86
+Chennai,South,Tamil Nadu,Nitrogen,Chemical,Jan,2022,3475,2832,6757152,3968856,2788296,242,9,8.04,97.14
+Hyderabad,South,Telangana,Helium,Chemical,Apr,2022,756,652,1949480,1224032,725448,382,6,7.51,83.28
+Vadodara,West,Gujarat,Helium,Healthcare,Jun,2022,4100,3912,7624488,6399381,1225107,249,4,8.22,82.83
+Jamshedpur,East,Jharkhand,Argon,Electronics,Dec,2025,2106,1896,6099432,4092006,2007426,201,8,9.43,92.02
+Hazira,West,Gujarat,Argon,Food & Beverage,Apr,2022,4750,4645,11203740,7800126,3403614,499,7,9.48,82.13
+Hyderabad,South,Telangana,Argon,Healthcare,Aug,2025,1103,949,2301325,1575333,725992,185,1,9.21,97.09
+Jamshedpur,East,Jharkhand,Nitrogen,Food & Beverage,Feb,2025,2870,2778,9231294,5779485,3451809,456,8,9.76,90.16
+Chennai,South,Tamil Nadu,Nitrogen,Steel,Apr,2022,3743,3477,7461642,4794185,2667457,316,9,9.89,91.68
+Hazira,West,Gujarat,Hydrogen,Chemical,Apr,2022,4750,4663,9144143,7233034,1911109,51,6,9.03,81.71
+Hazira,West,Gujarat,Helium,Electronics,Dec,2023,3604,3296,7257792,6158542,1099250,219,6,8.6,95.84
+Bengaluru,South,Karnataka,Helium,Pharmaceutical,Feb,2024,4362,3609,7741305,5793113,1948192,102,7,8.45,81.92
+Chennai,South,Tamil Nadu,Hydrogen,Pharmaceutical,Apr,2024,1260,1145,2332365,1965233,367132,432,1,8.73,82.07
+Hazira,West,Gujarat,Carbon Dioxide,Healthcare,Sep,2024,1423,1274,2774772,1988672,786100,210,1,8.01,77.86
+Jamshedpur,East,Jharkhand,Hydrogen,Food & Beverage,Jul,2022,1030,842,2548734,1985180,563554,151,6,7.19,81.89
+Hazira,West,Gujarat,Argon,Steel,Apr,2024,1126,944,1972016,1386642,585374,124,1,8.79,82.53
+Bengaluru,South,Karnataka,Carbon Dioxide,Chemical,May,2023,1188,1118,3374124,2280872,1093252,418,3,7.31,89.59
+Hazira,West,Gujarat,Helium,Food & Beverage,Apr,2022,2552,2425,5036725,3536304,1500421,498,2,8.89,92.63
+Vadodara,West,Gujarat,Oxygen,Chemical,Aug,2022,2823,2785,7447090,5984809,1462281,195,6,7.78,79.61
+Jamshedpur,East,Jharkhand,Oxygen,Electronics,Jul,2023,500,485,1110165,937830,172335,187,5,7.01,96.65
+Bengaluru,South,Karnataka,Nitrogen,Food & Beverage,Dec,2025,2545,2446,9025740,7539477,1486263,364,1,8.2,78.54
+Vadodara,West,Gujarat,Carbon Dioxide,Food & Beverage,Apr,2022,3999,3460,7688120,5596967,2091153,498,2,7.6,84.84
+Bengaluru,South,Karnataka,Carbon Dioxide,Healthcare,Nov,2022,1269,1107,3430593,2340276,1090317,460,1,7.5,98.98
+Pune,West,Maharashtra,Argon,Electronics,Mar,2025,4144,3398,8593542,6406659,2186883,184,10,9.82,82.06
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Jun,2022,2313,2238,5626332,4375795,1250537,363,9,8.79,97.52
+Hazira,West,Gujarat,Argon,Food & Beverage,Feb,2022,1351,1199,4893119,4032520,860599,346,5,8.11,75.68
+Jamshedpur,East,Jharkhand,Oxygen,Chemical,Oct,2022,1313,1275,4570875,3728459,842416,492,4,7.88,76.24
+Pune,West,Maharashtra,Carbon Dioxide,Healthcare,Nov,2024,3216,2945,10454750,8815629,1639121,112,5,9.14,80.22
+Bengaluru,South,Karnataka,Oxygen,Chemical,Sep,2024,3487,2959,8001136,5333174,2667962,66,1,8.7,77.04
+Vadodara,West,Gujarat,Hydrogen,Healthcare,Sep,2022,3062,2672,10394080,7989902,2404178,421,7,7.59,82.35
+Hazira,West,Gujarat,Oxygen,Pharmaceutical,Aug,2025,4774,3992,7377216,5320695,2056521,102,4,9.33,78.94
+Dahej,West,Gujarat,Oxygen,Electronics,Oct,2023,830,805,1474760,1012039,462721,388,9,7.32,85.14
+Pune,West,Maharashtra,Carbon Dioxide,Food & Beverage,May,2025,683,601,1247075,1028755,218320,167,8,8.15,79.76
+Jamshedpur,East,Jharkhand,Nitrogen,Steel,Feb,2022,810,793,2210091,1610014,600077,145,4,7.04,84.08
+Hyderabad,South,Telangana,Argon,Electronics,Aug,2025,4726,4062,16613580,13271404,3342176,61,1,7.24,77.61
+Dahej,West,Gujarat,Hydrogen,Steel,Aug,2024,929,842,3362948,2084394,1278554,92,1,9.7,83.29
+Chennai,South,Tamil Nadu,Hydrogen,Pharmaceutical,Oct,2025,4703,4541,8419014,5182443,3236571,283,5,7.25,95.79
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Mar,2024,2948,2796,8888484,7261243,1627241,223,10,7.3,78.81
+Pune,West,Maharashtra,Argon,Steel,Apr,2023,3027,2833,9329069,5172806,4156263,452,5,8.85,89.98
+Pune,West,Maharashtra,Oxygen,Steel,Nov,2022,1816,1561,3136049,1854338,1281711,495,9,7.96,85.46
+Vadodara,West,Gujarat,Nitrogen,Chemical,Oct,2025,1128,977,3259272,2684321,574951,90,7,7.53,82.43
+Pune,West,Maharashtra,Argon,Food & Beverage,Mar,2024,2488,2266,8028438,6350905,1677533,455,5,8.26,75.61
+Bengaluru,South,Karnataka,Oxygen,Chemical,May,2024,3885,3384,10981080,6099537,4881543,341,9,8.15,94.79
+Dahej,West,Gujarat,Helium,Healthcare,Feb,2024,1286,1163,2862143,2332214,529929,202,2,7.18,89.95
+Pune,West,Maharashtra,Carbon Dioxide,Food & Beverage,Mar,2022,1448,1254,2533080,1466426,1066654,289,2,7.68,75.53
+Dahej,West,Gujarat,Argon,Pharmaceutical,Sep,2022,3057,2728,6623584,4804505,1819079,112,1,7.82,94.88
+Jamshedpur,East,Jharkhand,Nitrogen,Healthcare,Sep,2025,3894,3332,8010128,4548016,3462112,298,7,9.01,90.41
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,May,2024,3238,3083,7799990,5237920,2562070,347,6,7.73,86.97
+Jamshedpur,East,Jharkhand,Oxygen,Healthcare,Apr,2025,4238,3581,6939978,5395721,1544257,466,7,9.06,76.59
+Hazira,West,Gujarat,Hydrogen,Food & Beverage,Oct,2024,4129,3883,10526813,8558711,1968102,180,6,8.52,88.45
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Chemical,Sep,2025,4339,3567,7223175,4321167,2902008,216,2,9.39,95.27
+Jamshedpur,East,Jharkhand,Helium,Healthcare,Oct,2022,3913,3370,14059640,7854031,6205609,117,5,8.79,88.6
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,Oct,2022,2887,2418,5259150,3154080,2105070,200,1,9.33,78.11
+Jamshedpur,East,Jharkhand,Argon,Steel,Dec,2025,3366,2947,10066952,8212480,1854472,465,1,9.68,80.08
+Dahej,West,Gujarat,Oxygen,Electronics,Aug,2023,3953,3287,8355554,6732658,1622896,183,7,8.63,83.65
+Vadodara,West,Gujarat,Argon,Pharmaceutical,Jun,2022,2604,2308,8024916,6002716,2022200,447,4,7.22,76.13
+Jamshedpur,East,Jharkhand,Nitrogen,Pharmaceutical,Aug,2024,3748,3443,8146138,6712419,1433719,182,3,9.5,96.83
+Jamshedpur,East,Jharkhand,Helium,Pharmaceutical,Jan,2025,4895,4024,14945136,10994201,3950935,487,2,9.01,84.41
+Jamshedpur,East,Jharkhand,Argon,Healthcare,Apr,2023,961,876,3585468,2783202,802266,273,6,7.71,88.02
+Hyderabad,South,Telangana,Oxygen,Chemical,May,2023,4540,4188,12132636,9294464,2838172,363,6,7.6,93.24
+Hyderabad,South,Telangana,Carbon Dioxide,Pharmaceutical,Dec,2022,1180,970,2987600,1887781,1099819,241,9,8.48,85.35
+Pune,West,Maharashtra,Nitrogen,Food & Beverage,Jun,2022,3254,2770,9296120,6587664,2708456,430,10,8.1,77.79
+Vadodara,West,Gujarat,Argon,Healthcare,Mar,2025,1940,1586,3211650,2147899,1063751,431,10,8.92,84.96
+Dahej,West,Gujarat,Carbon Dioxide,Pharmaceutical,Nov,2023,2059,1865,7353695,5370727,1982968,165,3,8.67,85.56
+Jamshedpur,East,Jharkhand,Argon,Pharmaceutical,Nov,2022,2584,2539,6576010,4866925,1709085,382,1,9.18,97.04
+Vadodara,West,Gujarat,Oxygen,Chemical,Apr,2024,2359,2215,6073530,5056281,1017249,476,1,8.83,76.86
+Chennai,South,Tamil Nadu,Oxygen,Steel,Feb,2025,2071,1820,6992440,5214001,1778439,83,2,8.8,76.06
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,Nov,2025,3485,3191,6768111,5372816,1395295,192,3,7.52,75.26
+Chennai,South,Tamil Nadu,Argon,Healthcare,Dec,2023,568,477,1822140,1200318,621822,120,6,7.02,90.38
+Pune,West,Maharashtra,Carbon Dioxide,Steel,Apr,2024,1593,1452,4986168,3797934,1188234,127,9,8.07,83.42
+Chennai,South,Tamil Nadu,Helium,Pharmaceutical,Aug,2025,2076,1721,7197222,4757456,2439766,185,9,9.8,84.02
+Jamshedpur,East,Jharkhand,Helium,Steel,Oct,2023,4356,4153,11561952,9206461,2355491,300,3,7.36,93.06
+Dahej,West,Gujarat,Hydrogen,Electronics,Aug,2022,1129,944,3379520,2220421,1159099,448,6,9.51,89.86
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,Dec,2024,2663,2562,5787558,4663159,1124399,296,3,7.85,89.46
+Bengaluru,South,Karnataka,Carbon Dioxide,Pharmaceutical,Jun,2023,4710,4382,16485084,10581223,5903861,325,9,9.21,98.8
+Chennai,South,Tamil Nadu,Argon,Food & Beverage,Aug,2024,533,468,1337544,842470,495074,392,2,7.84,98.86
+Dahej,West,Gujarat,Nitrogen,Chemical,Dec,2024,1824,1785,5169360,4048264,1121096,483,1,7.18,77.01
+Pune,West,Maharashtra,Carbon Dioxide,Food & Beverage,Jan,2024,3319,2756,11208652,9256119,1952533,500,7,8.07,79.38
+Vadodara,West,Gujarat,Helium,Food & Beverage,Nov,2024,1986,1851,7652034,6359456,1292578,164,5,8.92,93.41
+Jamshedpur,East,Jharkhand,Oxygen,Pharmaceutical,Apr,2025,3859,3569,8562031,6934144,1627887,196,8,8.67,94.28
+Chennai,South,Tamil Nadu,Hydrogen,Chemical,Dec,2023,3500,3025,10079300,6165464,3913836,395,5,8.56,77.3
+Vadodara,West,Gujarat,Nitrogen,Steel,Dec,2025,4473,4184,12267488,9886660,2380828,320,10,9.58,89.99
+Dahej,West,Gujarat,Helium,Electronics,Aug,2023,3855,3640,12834640,8109146,4725494,476,7,9.72,79.72
+Vadodara,West,Gujarat,Helium,Steel,Jul,2023,3199,2740,5992380,3553662,2438718,108,3,7.66,85.97
+Hazira,West,Gujarat,Oxygen,Electronics,Jul,2025,2365,2169,4006143,2455152,1550991,158,8,7.77,78.26
+Hyderabad,South,Telangana,Carbon Dioxide,Electronics,Jul,2024,1965,1852,4159592,3393114,766478,215,3,7.95,94.52
+Bengaluru,South,Karnataka,Hydrogen,Healthcare,Oct,2025,1810,1597,3361685,2782528,579157,293,1,8.83,85.23
+Jamshedpur,East,Jharkhand,Nitrogen,Electronics,Aug,2025,2936,2527,7793268,4464027,3329241,88,7,7.58,77.8
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Aug,2025,2659,2218,7374850,5228931,2145919,465,3,9.38,81.58
+Dahej,West,Gujarat,Hydrogen,Pharmaceutical,May,2025,3145,2733,7472022,4898165,2573857,395,5,9.63,96.81
+Pune,West,Maharashtra,Hydrogen,Chemical,Apr,2024,3296,2963,9209004,5172523,4036481,494,6,9.8,81.62
+Vadodara,West,Gujarat,Oxygen,Electronics,Feb,2023,1085,1003,3806385,3143465,662920,310,10,8.23,81.17
+Vadodara,West,Gujarat,Argon,Electronics,May,2023,1766,1538,5521420,4306675,1214745,412,5,7.39,75.2
+Hazira,West,Gujarat,Nitrogen,Steel,Jul,2022,1274,1252,3801072,2253860,1547212,257,3,9.04,82.32
+Hyderabad,South,Telangana,Carbon Dioxide,Healthcare,Jul,2022,4686,4482,9376344,6944775,2431569,456,3,7.25,84.47
+Hyderabad,South,Telangana,Nitrogen,Healthcare,Oct,2023,625,571,1811212,1203954,607258,140,7,9.09,92.18
+Pune,West,Maharashtra,Argon,Pharmaceutical,Feb,2022,702,651,2452968,1914993,537975,408,8,9.09,86.9
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,Mar,2024,3944,3634,11207256,9522721,1684535,224,3,8.2,77.49
+Hazira,West,Gujarat,Helium,Electronics,Jan,2024,3105,2700,7743600,5757425,1986175,439,5,9.02,81.26
+Jamshedpur,East,Jharkhand,Hydrogen,Electronics,Dec,2025,604,511,1833979,1059254,774725,441,4,8.01,88.73
+Pune,West,Maharashtra,Argon,Food & Beverage,Oct,2025,4614,4277,9452170,7215979,2236191,178,10,9.75,86.03
+Pune,West,Maharashtra,Argon,Healthcare,Oct,2023,2518,2354,6360508,4662770,1697738,69,3,8.4,92.46
+Hyderabad,South,Telangana,Hydrogen,Electronics,Feb,2024,1639,1409,4793418,3582768,1210650,386,4,8.26,84.89
+Dahej,West,Gujarat,Hydrogen,Pharmaceutical,Mar,2025,3981,3528,13498128,7771016,5727112,319,7,9.6,96.52
+Jamshedpur,East,Jharkhand,Helium,Electronics,Dec,2025,823,809,2634104,2197400,436704,346,6,7.35,91.52
+Pune,West,Maharashtra,Argon,Electronics,Jul,2022,4969,4616,10316760,7402013,2914747,453,2,9.29,82.48
+Vadodara,West,Gujarat,Helium,Healthcare,Jul,2024,1086,1036,3934728,2852353,1082375,324,7,8.88,88.21
+Jamshedpur,East,Jharkhand,Argon,Steel,Dec,2024,4117,3941,14881216,11192702,3688514,419,6,8.51,90.83
+Chennai,South,Tamil Nadu,Oxygen,Food & Beverage,Jul,2023,2564,2478,8635830,5704595,2931235,186,8,9.23,75.27
+Chennai,South,Tamil Nadu,Carbon Dioxide,Chemical,Feb,2024,3292,3249,13512591,10600646,2911945,161,6,7.46,86.11
+Pune,West,Maharashtra,Oxygen,Chemical,Apr,2022,1828,1590,6040410,5024929,1015481,471,8,8.12,86.83
+Dahej,West,Gujarat,Helium,Food & Beverage,Oct,2024,1111,904,2725560,1689105,1036455,310,6,7.74,90.73
+Hyderabad,South,Telangana,Oxygen,Pharmaceutical,Sep,2023,4972,4410,15532020,9825065,5706955,464,1,8.61,80.78
+Pune,West,Maharashtra,Argon,Healthcare,May,2025,3188,2770,7758770,6000978,1757792,342,7,7.43,80.16
+Pune,West,Maharashtra,Oxygen,Steel,Oct,2025,3332,3254,8001586,4675984,3325602,385,2,9.77,92.05
+Dahej,West,Gujarat,Hydrogen,Chemical,Jul,2023,2781,2493,10328499,7228669,3099830,93,7,7.73,80.98
+Dahej,West,Gujarat,Nitrogen,Healthcare,Sep,2022,4899,4512,13026144,7870599,5155545,217,3,7.24,78.19
+Vadodara,West,Gujarat,Carbon Dioxide,Healthcare,May,2023,3320,3210,6204930,4677743,1527187,70,1,9.15,83.23
+Bengaluru,South,Karnataka,Argon,Steel,Apr,2023,723,641,1694804,1112590,582214,486,4,7.4,93.76
+Dahej,West,Gujarat,Nitrogen,Steel,Nov,2023,4741,3982,9692188,6595594,3096594,126,1,7.07,75.1
+Vadodara,West,Gujarat,Carbon Dioxide,Chemical,Dec,2022,1906,1842,3790836,2707940,1082896,198,3,9.67,81.26
+Pune,West,Maharashtra,Oxygen,Pharmaceutical,Jun,2024,3126,2629,5089744,4157907,931837,371,7,9.63,91.34
+Pune,West,Maharashtra,Carbon Dioxide,Chemical,Nov,2024,4756,4463,11443132,6589867,4853265,193,2,9.59,94.95
+Chennai,South,Tamil Nadu,Helium,Steel,Nov,2023,2179,2009,3871343,2926304,945039,200,4,7.44,93.94
+Chennai,South,Tamil Nadu,Hydrogen,Food & Beverage,Aug,2025,909,815,3156495,2637448,519047,67,4,8.66,84.62
+Vadodara,West,Gujarat,Nitrogen,Food & Beverage,Feb,2024,688,614,2252766,1602665,650101,81,6,7.53,85.36
+Jamshedpur,East,Jharkhand,Argon,Healthcare,Apr,2024,667,588,2069172,1180952,888220,443,9,7.64,96.05
+Bengaluru,South,Karnataka,Carbon Dioxide,Steel,May,2022,2239,1832,5954000,3956918,1997082,360,2,7.55,75.57
+Chennai,South,Tamil Nadu,Argon,Food & Beverage,Mar,2023,3411,2907,10694853,8099164,2595689,464,2,8.03,95.14
+Hyderabad,South,Telangana,Helium,Healthcare,Apr,2024,1020,926,2706698,2173688,533010,212,10,8.07,93.46
+Bengaluru,South,Karnataka,Oxygen,Chemical,Nov,2024,4917,4287,13019619,7253296,5766323,88,8,8.59,84.14
+Dahej,West,Gujarat,Argon,Healthcare,Jun,2025,4431,4068,14864472,11438032,3426440,82,6,7.1,95.0
+Bengaluru,South,Karnataka,Carbon Dioxide,Chemical,Jul,2022,4721,3792,9999504,7997008,2002496,145,1,7.67,83.86
+Dahej,West,Gujarat,Helium,Healthcare,Sep,2022,3836,3739,11388994,7658211,3730783,362,4,8.74,83.77
+Vadodara,West,Gujarat,Carbon Dioxide,Pharmaceutical,Oct,2025,950,897,3204084,2515709,688375,374,9,7.97,82.45
+Chennai,South,Tamil Nadu,Nitrogen,Chemical,Jul,2025,3369,2985,6271485,4406835,1864650,263,7,9.19,98.75
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Chemical,Jan,2022,1449,1386,5385996,3569214,1816782,177,7,9.55,87.09
+Chennai,South,Tamil Nadu,Argon,Chemical,Mar,2025,4353,3930,10984350,8072577,2911773,249,5,8.11,87.19
+Pune,West,Maharashtra,Argon,Food & Beverage,Jun,2022,4907,4323,18078786,14330716,3748070,297,7,8.28,89.4
+Vadodara,West,Gujarat,Helium,Chemical,Nov,2025,1275,1061,3079022,2044091,1034931,61,3,8.57,82.74
+Bengaluru,South,Karnataka,Nitrogen,Steel,Aug,2024,1356,1152,2191104,1398711,792393,462,8,7.98,87.36
+Hyderabad,South,Telangana,Nitrogen,Electronics,Oct,2025,567,557,1760677,1045985,714692,355,9,8.46,76.36
+Bengaluru,South,Karnataka,Helium,Electronics,Oct,2022,2722,2220,4360080,2529521,1830559,62,3,9.27,90.17
+Hazira,West,Gujarat,Helium,Chemical,Aug,2024,1283,1140,3960360,2983607,976753,230,2,9.58,92.81
+Dahej,West,Gujarat,Argon,Pharmaceutical,Jan,2023,660,653,2711909,2132990,578919,264,2,8.77,84.85
+Jamshedpur,East,Jharkhand,Argon,Chemical,Mar,2023,2808,2344,5459176,3297937,2161239,71,10,7.27,87.62
+Hazira,West,Gujarat,Carbon Dioxide,Pharmaceutical,Jun,2022,1450,1224,4866624,2677074,2189550,381,10,8.53,77.83
+Hazira,West,Gujarat,Helium,Chemical,Jul,2024,1089,1000,3079000,1871035,1207965,450,7,7.01,80.72
+Jamshedpur,East,Jharkhand,Helium,Healthcare,Jan,2024,1395,1317,4775442,3383989,1391453,433,7,9.02,89.52
+Hyderabad,South,Telangana,Helium,Pharmaceutical,Jan,2023,3121,3058,9186232,5325791,3860441,155,6,8.26,80.39
+Hyderabad,South,Telangana,Helium,Electronics,Feb,2025,3892,3709,11520154,8840673,2679481,301,5,8.74,98.44
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,Dec,2023,681,666,2336328,1494482,841846,304,3,8.07,79.66
+Bengaluru,South,Karnataka,Helium,Electronics,Jul,2023,1630,1441,3435344,2019037,1416307,243,6,8.65,96.76
+Hyderabad,South,Telangana,Hydrogen,Healthcare,Nov,2024,2595,2362,9823558,8075527,1748031,51,9,9.42,98.45
+Hyderabad,South,Telangana,Helium,Food & Beverage,Jul,2023,4421,3982,15067888,11487365,3580523,232,7,9.3,82.65
+Hyderabad,South,Telangana,Hydrogen,Steel,May,2024,654,552,2241120,1356434,884686,359,6,8.45,93.79
+Vadodara,West,Gujarat,Argon,Electronics,Sep,2025,2440,2042,4043160,3021738,1021422,181,2,9.61,91.63
+Chennai,South,Tamil Nadu,Carbon Dioxide,Chemical,Oct,2024,4007,3502,12799810,10492930,2306880,247,5,8.16,76.02
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Apr,2022,3295,3058,9855934,7683531,2172403,423,7,7.62,90.13
+Dahej,West,Gujarat,Nitrogen,Steel,Aug,2024,1751,1625,4017000,3409988,607012,212,10,8.09,83.67
+Jamshedpur,East,Jharkhand,Helium,Electronics,Feb,2022,1522,1374,4699080,3022617,1676463,446,5,7.32,93.52
+Jamshedpur,East,Jharkhand,Nitrogen,Electronics,Jun,2025,890,761,2059266,1535563,523703,126,9,8.91,77.56
+Jamshedpur,East,Jharkhand,Hydrogen,Electronics,Dec,2023,1417,1287,3368079,2033991,1334088,433,5,7.1,82.82
+Pune,West,Maharashtra,Nitrogen,Food & Beverage,Oct,2024,2603,2098,3975710,3303184,672526,205,4,7.07,83.49
+Jamshedpur,East,Jharkhand,Argon,Chemical,Sep,2022,2415,2149,6238547,4587140,1651407,370,1,8.97,92.32
+Jamshedpur,East,Jharkhand,Helium,Chemical,Aug,2023,565,510,2071110,1491457,579653,165,6,7.31,77.69
+Dahej,West,Gujarat,Hydrogen,Steel,Nov,2025,1562,1440,3742560,2894048,848512,371,6,9.35,89.33
+Pune,West,Maharashtra,Oxygen,Steel,Oct,2025,3024,2703,10928229,6785640,4142589,224,1,9.18,90.98
+Jamshedpur,East,Jharkhand,Nitrogen,Steel,May,2024,3862,3743,14837252,11450959,3386293,281,7,7.2,97.86
+Bengaluru,South,Karnataka,Nitrogen,Pharmaceutical,Apr,2023,1946,1910,4156160,2620063,1536097,140,6,9.1,90.17
+Vadodara,West,Gujarat,Helium,Chemical,Nov,2022,3914,3185,10838555,6164371,4674184,314,5,8.27,94.58
+Chennai,South,Tamil Nadu,Hydrogen,Chemical,Oct,2024,1163,989,3175679,2076913,1098766,378,10,8.23,98.65
+Chennai,South,Tamil Nadu,Argon,Electronics,Apr,2025,3345,3015,8182710,5240176,2942534,98,3,9.27,87.84
+Jamshedpur,East,Jharkhand,Oxygen,Healthcare,Nov,2024,3663,3244,12648356,9562096,3086260,285,8,8.27,81.73
+Chennai,South,Tamil Nadu,Hydrogen,Electronics,Jul,2024,902,817,1732857,1385795,347062,242,1,9.58,75.83
+Hazira,West,Gujarat,Hydrogen,Steel,Sep,2022,1754,1577,3444168,2220408,1223760,227,7,8.52,91.44
+Hyderabad,South,Telangana,Helium,Healthcare,Apr,2025,3903,3145,6139040,4144390,1994650,52,1,9.5,82.32
+Pune,West,Maharashtra,Carbon Dioxide,Steel,Mar,2022,4085,3338,11636268,7588775,4047493,152,1,8.73,88.24
+Jamshedpur,East,Jharkhand,Oxygen,Healthcare,Jan,2025,1360,1323,2923830,2309008,614822,299,1,7.04,78.34
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,Dec,2022,1297,1283,2939353,1973684,965669,211,8,9.58,83.71
+Vadodara,West,Gujarat,Carbon Dioxide,Healthcare,Jun,2025,3067,2859,8525538,5790014,2735524,182,3,7.35,87.03
+Hazira,West,Gujarat,Helium,Steel,Feb,2025,4709,4365,13068810,10524852,2543958,256,2,9.47,86.66
+Chennai,South,Tamil Nadu,Argon,Pharmaceutical,Sep,2024,2769,2715,6347670,5301223,1046447,76,5,7.83,86.18
+Bengaluru,South,Karnataka,Oxygen,Healthcare,Aug,2022,4548,4137,12824700,8641541,4183159,395,6,8.53,76.86
+Dahej,West,Gujarat,Hydrogen,Pharmaceutical,Jan,2024,1513,1244,2366088,1756743,609345,120,5,9.77,81.31
+Chennai,South,Tamil Nadu,Hydrogen,Pharmaceutical,Dec,2025,4003,3431,12814785,7499084,5315701,183,6,8.33,98.87
+Bengaluru,South,Karnataka,Nitrogen,Chemical,Dec,2023,1989,1869,5990145,3779455,2210690,134,3,9.04,76.51
+Bengaluru,South,Karnataka,Carbon Dioxide,Food & Beverage,Mar,2024,3017,2617,5451211,3984690,1466521,67,10,9.16,78.64
+Bengaluru,South,Karnataka,Argon,Chemical,Dec,2022,4722,4196,7917852,5468655,2449197,230,6,8.27,82.91
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Electronics,Apr,2024,2070,1745,4468945,2668730,1800215,320,3,7.65,92.66
+Hyderabad,South,Telangana,Nitrogen,Pharmaceutical,May,2022,4640,4385,18031120,10920641,7110479,293,3,7.18,78.18
+Dahej,West,Gujarat,Carbon Dioxide,Food & Beverage,Feb,2024,1406,1359,2968056,2246140,721916,197,10,8.51,84.63
+Hyderabad,South,Telangana,Carbon Dioxide,Food & Beverage,Jul,2025,676,607,1195790,1003248,192542,403,1,7.15,89.09
+Hyderabad,South,Telangana,Carbon Dioxide,Pharmaceutical,Feb,2023,3223,3129,11611719,8824317,2787402,486,6,8.41,86.32
+Pune,West,Maharashtra,Helium,Food & Beverage,Apr,2024,2076,1793,5370035,3703309,1666726,225,6,7.05,84.89
+Pune,West,Maharashtra,Carbon Dioxide,Chemical,Mar,2024,679,564,2142072,1349552,792520,393,10,9.46,97.01
+Hazira,West,Gujarat,Hydrogen,Steel,Jan,2025,2440,2309,6578341,4633149,1945192,254,8,7.12,90.83
+Hyderabad,South,Telangana,Argon,Healthcare,Feb,2022,2852,2551,7732081,5252963,2479118,110,5,9.82,89.44
+Dahej,West,Gujarat,Hydrogen,Food & Beverage,Dec,2023,2329,1876,6305236,4461750,1843486,129,6,7.52,98.14
+Pune,West,Maharashtra,Carbon Dioxide,Steel,Sep,2025,1536,1509,4427406,3143508,1283898,453,4,7.88,97.94
+Pune,West,Maharashtra,Oxygen,Healthcare,Sep,2023,918,861,3611895,2146422,1465473,380,9,7.14,98.14
+Vadodara,West,Gujarat,Oxygen,Electronics,Feb,2025,2538,2414,4687988,2898593,1789395,455,9,8.55,85.66
+Hazira,West,Gujarat,Oxygen,Chemical,Nov,2025,2774,2383,9274636,5845062,3429574,345,4,7.33,98.2
+Vadodara,West,Gujarat,Oxygen,Food & Beverage,Jul,2022,3341,3105,9224955,7701353,1523602,344,9,7.52,79.54
+Chennai,South,Tamil Nadu,Argon,Food & Beverage,Oct,2023,2846,2586,8014014,4867347,3146667,214,7,7.78,88.6
+Bengaluru,South,Karnataka,Argon,Food & Beverage,Jan,2024,2627,2600,10769200,6212990,4556210,361,10,8.91,80.03
+Vadodara,West,Gujarat,Helium,Electronics,Nov,2024,3314,3066,8158626,5829231,2329395,232,6,8.7,80.17
+Hazira,West,Gujarat,Nitrogen,Healthcare,Dec,2025,4221,3832,12009488,6779419,5230069,358,5,7.06,75.77
+Hazira,West,Gujarat,Argon,Electronics,Mar,2023,3636,3149,12129948,8141026,3988922,408,8,9.08,88.0
+Vadodara,West,Gujarat,Helium,Steel,Aug,2023,2433,2171,6230770,3758086,2472684,196,2,8.89,97.72
+Chennai,South,Tamil Nadu,Nitrogen,Chemical,Mar,2024,2211,1900,5312400,3568900,1743500,407,8,7.54,77.76
+Pune,West,Maharashtra,Helium,Electronics,Jul,2024,3960,3668,9720200,7876953,1843247,65,1,7.54,84.02
+Pune,West,Maharashtra,Nitrogen,Chemical,Aug,2024,1182,1167,3986472,2345616,1640856,408,7,9.43,75.49
+Hyderabad,South,Telangana,Argon,Chemical,Jan,2022,2305,2069,6351830,5290043,1061787,375,3,9.71,83.47
+Hazira,West,Gujarat,Oxygen,Healthcare,Oct,2024,2762,2604,8215620,6906114,1309506,149,2,8.75,89.19
+Chennai,South,Tamil Nadu,Carbon Dioxide,Electronics,Jun,2025,3422,3246,6206352,4897557,1308795,127,3,7.78,89.16
+Vadodara,West,Gujarat,Nitrogen,Electronics,Mar,2024,2837,2279,7144665,4392610,2752055,321,2,9.2,81.67
+Hyderabad,South,Telangana,Oxygen,Steel,Sep,2023,2859,2740,9203660,6458928,2744732,252,4,7.02,80.25
+Hazira,West,Gujarat,Nitrogen,Food & Beverage,Dec,2022,1632,1574,4399330,3342127,1057203,215,6,8.16,93.47
+Jamshedpur,East,Jharkhand,Argon,Healthcare,Jan,2024,4112,3799,9691249,6840435,2850814,93,4,8.19,81.53
+Chennai,South,Tamil Nadu,Hydrogen,Pharmaceutical,Mar,2024,616,556,2092228,1546464,545764,373,6,9.46,75.63
+Bengaluru,South,Karnataka,Argon,Chemical,Oct,2022,3321,2659,7474449,4659001,2815448,211,9,8.31,84.99
+Jamshedpur,East,Jharkhand,Hydrogen,Healthcare,May,2024,2906,2771,10261013,7257266,3003747,386,2,7.95,79.78
+Vadodara,West,Gujarat,Argon,Food & Beverage,Nov,2022,2790,2630,4870760,4076065,794695,240,2,8.27,76.43
+Vadodara,West,Gujarat,Carbon Dioxide,Pharmaceutical,Jan,2025,705,612,1546524,901133,645391,299,9,7.23,93.0
+Dahej,West,Gujarat,Oxygen,Food & Beverage,Nov,2023,1085,879,1668342,1346361,321981,391,4,8.27,86.79
+Hazira,West,Gujarat,Argon,Healthcare,Nov,2022,1147,1122,4334286,3424731,909555,397,7,8.94,75.01
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Apr,2024,668,542,1085626,786614,299012,320,2,8.29,77.26
+Chennai,South,Tamil Nadu,Carbon Dioxide,Healthcare,Apr,2025,1184,1168,2358192,1936039,422153,225,8,7.68,82.67
+Hyderabad,South,Telangana,Hydrogen,Steel,Nov,2022,4730,4611,12869301,8116369,4752932,402,7,8.31,78.88
+Vadodara,West,Gujarat,Helium,Electronics,Nov,2022,769,650,2013050,1455717,557333,331,5,8.56,97.38
+Jamshedpur,East,Jharkhand,Oxygen,Healthcare,Feb,2025,1035,1001,3392389,2573883,818506,158,5,8.42,81.55
+Hazira,West,Gujarat,Helium,Healthcare,May,2024,3381,3159,11280789,7676950,3603839,278,1,9.01,83.33
+Jamshedpur,East,Jharkhand,Hydrogen,Healthcare,Feb,2023,2659,2548,5753384,3724483,2028901,161,8,9.56,82.96
+Jamshedpur,East,Jharkhand,Oxygen,Steel,Apr,2022,1546,1441,5262532,3236511,2026021,309,5,9.15,79.61
+Hazira,West,Gujarat,Oxygen,Healthcare,Jun,2023,4259,3574,10400340,8502939,1897401,453,9,8.18,92.19
+Dahej,West,Gujarat,Oxygen,Steel,May,2022,901,736,1697952,1040410,657542,81,9,9.33,90.26
+Chennai,South,Tamil Nadu,Helium,Steel,Mar,2024,2737,2464,4708704,3085010,1623694,279,7,8.6,89.76
+Dahej,West,Gujarat,Nitrogen,Chemical,Nov,2024,711,674,2490430,1601602,888828,304,8,7.46,85.51
+Dahej,West,Gujarat,Hydrogen,Electronics,Sep,2024,4782,4035,7585800,6399315,1186485,59,9,9.09,98.69
+Hyderabad,South,Telangana,Argon,Electronics,May,2024,1482,1365,5050500,4152801,897699,87,10,8.46,76.8
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,Dec,2024,4546,4378,15314244,10885056,4429188,380,10,8.87,76.5
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Dec,2024,2459,2227,8413606,4701139,3712467,290,9,9.71,88.81
+Chennai,South,Tamil Nadu,Nitrogen,Food & Beverage,May,2022,2068,1817,6846456,5453649,1392807,287,4,7.29,93.84
+Jamshedpur,East,Jharkhand,Argon,Chemical,Nov,2023,3320,2852,10087524,8240719,1846805,316,7,7.69,77.7
+Pune,West,Maharashtra,Argon,Healthcare,May,2023,2607,2527,9061822,5185648,3876174,206,3,9.01,88.75
+Hazira,West,Gujarat,Helium,Food & Beverage,Dec,2022,1928,1835,3315845,2402745,913100,355,9,8.78,79.8
+Hyderabad,South,Telangana,Carbon Dioxide,Pharmaceutical,Dec,2023,3774,3076,8046816,4515265,3531551,106,7,7.08,87.75
+Hyderabad,South,Telangana,Carbon Dioxide,Chemical,Feb,2025,2019,1691,3463168,2628072,835096,272,8,8.3,84.04
+Dahej,West,Gujarat,Hydrogen,Electronics,Feb,2023,3591,3467,12210774,8367601,3843173,264,8,8.87,85.4
+Dahej,West,Gujarat,Argon,Electronics,Jan,2025,4019,3953,12151522,9349875,2801647,357,3,9.75,80.53
+Chennai,South,Tamil Nadu,Oxygen,Pharmaceutical,Jun,2022,2262,1845,3632805,2345947,1286858,141,6,9.7,97.53
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,Aug,2023,1391,1186,4338388,3005251,1333137,189,7,7.19,80.55
+Chennai,South,Tamil Nadu,Nitrogen,Pharmaceutical,Jun,2022,3821,3148,10004344,6445603,3558741,241,6,9.67,82.03
+Chennai,South,Tamil Nadu,Oxygen,Healthcare,Mar,2025,4037,3949,12218206,10023168,2195038,387,3,8.44,94.92
+Hyderabad,South,Telangana,Argon,Electronics,Mar,2024,2151,1820,5676580,3744527,1932053,295,2,8.3,81.33
+Hazira,West,Gujarat,Hydrogen,Electronics,Sep,2023,4162,3440,10839440,7404620,3434820,424,6,9.88,93.14
+Bengaluru,South,Karnataka,Argon,Steel,Jul,2025,2643,2430,5166180,3563690,1602490,390,1,9.87,77.62
+Chennai,South,Tamil Nadu,Carbon Dioxide,Chemical,Oct,2022,3816,3348,10991484,7890412,3101072,298,7,7.09,93.72
+Vadodara,West,Gujarat,Nitrogen,Electronics,May,2022,4083,3682,9753618,6579110,3174508,155,5,9.79,96.04
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,Feb,2025,2455,2392,4934696,4044680,890016,446,10,9.48,97.83
+Dahej,West,Gujarat,Nitrogen,Food & Beverage,Aug,2025,3596,3309,11349870,7260349,4089521,332,4,7.71,86.25
+Bengaluru,South,Karnataka,Helium,Chemical,Jul,2023,3002,2669,7553270,5510609,2042661,175,9,9.2,80.97
+Vadodara,West,Gujarat,Oxygen,Steel,Apr,2022,1247,1191,3229992,2024464,1205528,485,6,7.1,83.69
+Vadodara,West,Gujarat,Oxygen,Steel,May,2025,1791,1690,4743830,2851234,1892596,212,5,8.04,75.9
+Hyderabad,South,Telangana,Helium,Healthcare,Aug,2024,4571,4385,10449455,7200657,3248798,459,10,8.44,88.62
+Pune,West,Maharashtra,Carbon Dioxide,Steel,Oct,2025,1870,1812,3841440,3074909,766531,379,7,9.24,82.46
+Hazira,West,Gujarat,Carbon Dioxide,Steel,Nov,2025,4787,4074,10189074,7012970,3176104,96,6,9.5,84.39
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Pharmaceutical,Mar,2023,815,668,2474940,1777407,697533,117,3,7.97,75.74
+Chennai,South,Tamil Nadu,Hydrogen,Healthcare,May,2022,2645,2416,8789408,5804083,2985325,192,3,7.01,92.32
+Hazira,West,Gujarat,Carbon Dioxide,Healthcare,Mar,2025,1497,1433,4278938,2488657,1790281,277,4,8.84,82.61
+Hazira,West,Gujarat,Nitrogen,Chemical,May,2022,1896,1854,5035464,3238768,1796696,299,1,8.49,86.32
+Dahej,West,Gujarat,Oxygen,Steel,Aug,2023,2922,2834,10868390,7448647,3419743,378,7,8.49,98.26
+Chennai,South,Tamil Nadu,Hydrogen,Chemical,Jul,2022,1149,1057,2777796,1745966,1031830,372,1,9.59,76.73
+Dahej,West,Gujarat,Helium,Pharmaceutical,Dec,2025,2107,1699,4218617,2968963,1249654,121,10,7.11,98.71
+Chennai,South,Tamil Nadu,Carbon Dioxide,Food & Beverage,Oct,2023,3279,3097,5676801,3610127,2066674,394,8,7.83,86.64
+Chennai,South,Tamil Nadu,Nitrogen,Food & Beverage,May,2023,788,654,1820736,1158235,662501,324,8,8.33,86.03
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,Aug,2024,4330,3671,8149620,5950331,2199289,306,3,7.36,75.93
+Hazira,West,Gujarat,Helium,Chemical,Oct,2024,1129,1012,1835768,1333204,502564,193,4,8.57,83.53
+Dahej,West,Gujarat,Nitrogen,Pharmaceutical,Oct,2023,1273,1138,2241860,1450294,791566,71,10,7.57,77.09
+Dahej,West,Gujarat,Argon,Chemical,Sep,2023,1560,1536,4635648,3690834,944814,164,3,7.17,94.22
+Hyderabad,South,Telangana,Helium,Pharmaceutical,Aug,2025,3898,3512,14451880,9978504,4473376,465,2,7.26,95.61
+Hazira,West,Gujarat,Oxygen,Food & Beverage,Sep,2025,4151,3651,8207448,5328515,2878933,482,7,7.94,86.72
+Hazira,West,Gujarat,Nitrogen,Electronics,Feb,2025,2857,2337,6679146,4366143,2313003,245,5,8.7,92.61
+Chennai,South,Tamil Nadu,Argon,Pharmaceutical,Oct,2025,2279,1832,4766864,2695266,2071598,211,6,8.15,92.36
+Chennai,South,Tamil Nadu,Oxygen,Electronics,Dec,2022,3681,3569,8783309,5914898,2868411,225,3,9.23,87.47
+Bengaluru,South,Karnataka,Argon,Electronics,Oct,2024,3713,3326,12392676,6865855,5526821,343,4,8.23,95.39
+Hazira,West,Gujarat,Nitrogen,Electronics,Jun,2025,1505,1229,2247841,1548854,698987,456,4,7.9,75.61
+Hyderabad,South,Telangana,Oxygen,Chemical,Jan,2023,1056,980,3281040,2494032,787008,157,8,8.62,91.72
+Pune,West,Maharashtra,Carbon Dioxide,Steel,Sep,2025,4814,4061,12475392,10530071,1945321,67,3,7.49,97.67
+Pune,West,Maharashtra,Hydrogen,Steel,Dec,2024,519,444,1509156,978522,530634,184,2,9.87,77.55
+Jamshedpur,East,Jharkhand,Oxygen,Electronics,Apr,2022,2230,2048,8046592,4625813,3420779,208,5,9.3,88.06
+Hazira,West,Gujarat,Oxygen,Healthcare,Mar,2022,1971,1881,4651713,3060470,1591243,193,1,7.93,94.31
+Vadodara,West,Gujarat,Hydrogen,Healthcare,Jul,2022,4207,3674,7814598,5616966,2197632,493,3,9.8,85.78
+Hazira,West,Gujarat,Hydrogen,Pharmaceutical,Nov,2022,1601,1500,3790500,3110085,680415,173,9,8.82,90.86
+Hazira,West,Gujarat,Oxygen,Steel,Nov,2022,2985,2687,8095931,4485162,3610769,53,9,8.51,79.34
+Vadodara,West,Gujarat,Nitrogen,Pharmaceutical,Aug,2022,4935,4882,16447458,10086784,6360674,298,2,7.19,98.13
+Hazira,West,Gujarat,Carbon Dioxide,Chemical,May,2022,953,845,2090530,1501541,588989,412,7,9.46,79.34
+Jamshedpur,East,Jharkhand,Argon,Chemical,Dec,2025,4971,4375,17018750,9474200,7544550,355,10,8.79,98.82
+Dahej,West,Gujarat,Nitrogen,Chemical,Nov,2025,4946,4640,11238080,7411145,3826935,460,6,7.78,81.15
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Pharmaceutical,Aug,2022,3373,3200,7360000,4540967,2819033,122,10,9.17,98.64
+Pune,West,Maharashtra,Nitrogen,Electronics,Jul,2022,2955,2472,6276408,3462816,2813592,158,8,8.22,75.12
+Hyderabad,South,Telangana,Argon,Food & Beverage,Jun,2025,1235,1206,3106656,2121544,985112,245,8,8.71,88.55
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,Jun,2025,2813,2278,6091372,4591534,1499838,162,7,7.21,92.29
+Hyderabad,South,Telangana,Hydrogen,Healthcare,Oct,2022,587,581,2090438,1746601,343837,264,5,7.07,75.24
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Jan,2024,1157,1101,2419998,1996180,423818,130,8,7.42,96.63
+Vadodara,West,Gujarat,Argon,Steel,Mar,2025,1698,1591,6344908,4798425,1546483,377,5,8.89,96.64
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Apr,2025,1708,1436,3001240,1658348,1342892,89,5,7.42,87.05
+Dahej,West,Gujarat,Carbon Dioxide,Chemical,Sep,2022,2281,2227,5747887,3223508,2524379,219,3,9.38,91.05
+Hazira,West,Gujarat,Oxygen,Electronics,Jun,2022,1000,878,3404006,2004363,1399643,368,8,7.24,87.7
+Pune,West,Maharashtra,Helium,Pharmaceutical,Aug,2025,2228,2122,8326728,5185082,3141646,352,5,7.35,87.26
+Jamshedpur,East,Jharkhand,Carbon Dioxide,Food & Beverage,Feb,2025,3108,3002,6403266,4311906,2091360,236,8,7.96,89.57
+Bengaluru,South,Karnataka,Hydrogen,Food & Beverage,Apr,2023,1084,1051,3908669,3176307,732362,82,9,7.31,75.91
